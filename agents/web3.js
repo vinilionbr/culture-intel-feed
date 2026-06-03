@@ -1,4 +1,4 @@
-import { runAgentWithSearch, parseSignals } from '../lib/claude.js';
+import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
 import { postToSlack, postSignals, formatDayHeader } from '../lib/slack.js';
 
 // Source: Claude web_search (best for crypto news, protocol launches, regulatory moves)
@@ -28,10 +28,10 @@ Rules:
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
 
-const PROMPT = `Search for the most significant Web3, crypto, NFT, and blockchain developments from the last 48 hours that reveal something about how audiences, creators, or brands are building identity and community online. Return 3-5 signals in the exact format specified.`;
-
 export async function runWeb3Agent() {
   console.log('🔍 Running Web3 agent...');
+
+  const PROMPT = `Today is ${todayStr()}. Search for Web3, crypto, NFT, and blockchain developments published TODAY or in the last 24 hours that reveal something about how audiences, creators, or brands are building identity and community online. Only include things that are genuinely new as of today — no evergreen articles, no repeated stories from previous days. Return 3-5 signals in the exact format specified.`;
 
   const analysis = await runAgentWithSearch(SYSTEM, PROMPT);
   const signals  = parseSignals(analysis);

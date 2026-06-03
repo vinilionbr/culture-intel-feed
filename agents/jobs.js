@@ -1,4 +1,4 @@
-import { runAgentWithSearch, parseSignals } from '../lib/claude.js';
+import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
 import { postToSlack, postSignals, formatDayHeader } from '../lib/slack.js';
 
 // Source: Claude web_search — remote job boards
@@ -30,10 +30,10 @@ Rules:
 - Never fabricate a job posting. Real listings only.
 - If fewer than 5 real remote marketing roles found, list only what's real.`;
 
-const PROMPT = `Search for fully remote marketing job openings posted in the last 72 hours. Look across LinkedIn, Indeed, Remote.co, We Work Remotely, Remotive, and Wellfound. Find 5 real openings across all levels (entry to CMO) and all marketing disciplines — brand, content, social, performance, growth, creative, copywriting, SEO, paid media, PR, email, product marketing, strategy. Fully remote only, no hybrid. Return in the exact format specified.`;
-
 export async function runJobsAgent() {
   console.log('🔍 Running Jobs agent...');
+
+  const PROMPT = `Today is ${todayStr()}. Search for fully remote marketing job openings posted in the last 48 hours. Look across LinkedIn, Indeed, Remote.co, We Work Remotely, Remotive, and Wellfound. Find 5 real openings across all levels (entry to CMO) and all marketing disciplines — brand, content, social, performance, growth, creative, copywriting, SEO, paid media, PR, email, product marketing, strategy. Fully remote only, no hybrid. Only listings posted today or yesterday — no older postings. Return in the exact format specified.`;
 
   const raw     = await runAgentWithSearch(SYSTEM, PROMPT);
   const signals = parseJobs(raw);

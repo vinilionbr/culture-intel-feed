@@ -1,4 +1,4 @@
-import { runAgentWithSearch, parseSignals } from '../lib/claude.js';
+import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
 import { postToSlack, postSignals, formatDayHeader } from '../lib/slack.js';
 
 // Source: Claude web_search — all 7 platforms
@@ -28,10 +28,10 @@ Rules:
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
 
-const PROMPT = `Search for the most significant social media signals from the last 48 hours across Instagram, TikTok, Facebook, Threads, X (Twitter), LinkedIn, and Snapchat. Look for: new platform features, algorithm shifts, viral content formats, creator tactics going mainstream, and specific content mechanics that are outperforming right now. Cover a range of platforms — at least 4 different ones. Return 3-5 signals in the exact format specified.`;
-
 export async function runSocialAgent() {
   console.log('🔍 Running Social agent...');
+
+  const PROMPT = `Today is ${todayStr()}. Search for the most significant social media signals published TODAY or in the last 24 hours across Instagram, TikTok, Facebook, Threads, X (Twitter), LinkedIn, and Snapchat. Only include things that are genuinely new as of today — no evergreen articles, no repeated stories from previous days. Look for: new platform features, algorithm shifts, viral content formats, creator tactics going mainstream, and specific content mechanics that are outperforming right now. Cover at least 4 different platforms. Return 3-5 signals in the exact format specified.`;
 
   const analysis = await runAgentWithSearch(SYSTEM, PROMPT);
   const signals  = parseSignals(analysis);

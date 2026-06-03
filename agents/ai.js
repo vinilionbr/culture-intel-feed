@@ -1,4 +1,4 @@
-import { runAgentWithSearch, parseSignals } from '../lib/claude.js';
+import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
 import { postToSlack, postSignals, formatDayHeader } from '../lib/slack.js';
 
 // Source: Claude web_search (best for breaking AI news + announcements)
@@ -28,10 +28,10 @@ Rules:
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
 
-const PROMPT = `Search for the most significant AI developments, tool launches, and capability unlocks from the last 48 hours that affect how content creators and marketers work. Focus on what changes what someone can make or publish today. Return 3-5 signals in the exact format specified.`;
-
 export async function runAIAgent() {
   console.log('🔍 Running AI agent...');
+
+  const PROMPT = `Today is ${todayStr()}. Search for AI developments, tool launches, and capability unlocks published TODAY or in the last 24 hours that affect how content creators and marketers work. Only include things announced or published today — no evergreen articles, no repeated stories from previous days. Focus on what changes what someone can make or publish today. Return 3-5 signals in the exact format specified.`;
 
   const analysis = await runAgentWithSearch(SYSTEM, PROMPT);
   const signals  = parseSignals(analysis);

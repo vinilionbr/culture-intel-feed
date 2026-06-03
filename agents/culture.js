@@ -1,4 +1,4 @@
-import { runAgentWithSearch, parseSignals } from '../lib/claude.js';
+import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
 import { postToSlack, postSignals, formatDayHeader } from '../lib/slack.js';
 
 // Source: Claude web_search — YouTube, X, Reddit, broader web
@@ -29,10 +29,10 @@ Rules:
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
 
-const PROMPT = `Search YouTube trending, X/Twitter, Reddit, and entertainment/culture/music/fashion sites for the sharpest cultural moments from the last 48 hours. Look for: viral moments, aesthetic shifts, subcultures breaking mainstream, drops or collabs catching fire, and emotional undercurrents in what people are watching, sharing, and talking about. Return 3-5 signals in the exact format specified.`;
-
 export async function runCultureAgent() {
   console.log('🔍 Running Culture agent...');
+
+  const PROMPT = `Today is ${todayStr()}. Search YouTube trending, X/Twitter, Reddit, and entertainment/culture/music/fashion sites for cultural moments that broke or went viral TODAY or in the last 24 hours. Only include things that are genuinely new as of today — no evergreen articles, no repeated stories from previous days. Look for: viral moments, aesthetic shifts, subcultures breaking mainstream, drops or collabs catching fire, and emotional undercurrents in what people are watching, sharing, and talking about. Return 3-5 signals in the exact format specified.`;
 
   const analysis = await runAgentWithSearch(SYSTEM, PROMPT);
   const signals  = parseSignals(analysis);
