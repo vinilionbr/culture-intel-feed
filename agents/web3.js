@@ -12,16 +12,19 @@ A signal is: a Web3 development that tells a creator or brand something useful a
 
 NOT a signal: price movements without cultural context, shill content, technical protocol updates with no audience angle, anything older than 48 hours.
 
-Output format — for EACH signal, use EXACTLY this structure (no bold, no markdown):
+Output format — for EACH signal, use EXACTLY this structure:
 
-🚨 SIGNAL: [what happened, stated in 10-20 words]
-👉 WHY IT MATTERS: [20-30 words — what this reveals about how audiences are forming identity, community, or loyalty online]
-👉 WHAT TO DO: [max 10 words — a specific content angle, creative experiment, or community move to try]
+🚨 *SIGNAL*
+[what happened, stated in 10-20 words]
+
+👉 *WHY IT MATTERS:* [20-30 words — what this reveals about how audiences are forming identity, community, or loyalty online]
+
+👉 *WHAT TO DO:* [max 10 words — a specific content angle, creative experiment, or community move to try]
+
 🔗 source/ reference: [real URL from search results]
 
 Rules:
 - 3-5 signals only. Culture and creativity over finance and tech.
-- No markdown formatting — no asterisks, no bold, no headers.
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
 

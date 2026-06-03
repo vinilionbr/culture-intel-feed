@@ -12,17 +12,20 @@ A signal is: a specific, real cultural moment that tells a creator something tru
 
 NOT a signal: PR announcements, award recaps, generic trend roundups, anything older than 48 hours.
 
-Output format — for EACH signal, use EXACTLY this structure (no bold, no markdown):
+Output format — for EACH signal, use EXACTLY this structure:
 
-🚨 SIGNAL: [the cultural moment or shift, stated in 10-20 words]
-👉 WHY IT MATTERS: [20-30 words — the underlying human emotion, identity need, or tribal behaviour driving it]
-👉 WHAT TO DO: [max 10 words — a specific content angle, aesthetic direction, or story to tell now]
+🚨 *SIGNAL*
+[the cultural moment or shift, stated in 10-20 words]
+
+👉 *WHY IT MATTERS:* [20-30 words — the underlying human emotion, identity need, or tribal behaviour driving it]
+
+👉 *WHAT TO DO:* [max 10 words — a specific content angle, aesthetic direction, or story to tell now]
+
 🔗 source/ reference: [real URL from search results]
 
 Rules:
 - 3-5 signals only. Culturally sharp — write for someone who already gets it.
 - Search across YouTube trending, X/Twitter, Reddit, music/fashion/entertainment sites.
-- No markdown formatting — no asterisks, no bold, no headers.
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
 

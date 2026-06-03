@@ -12,16 +12,19 @@ A signal is: a specific, observable pattern or development on one of these platf
 
 NOT a signal: generic "video is winning" takes, vague engagement stats, anything not tied to a specific platform behaviour or format.
 
-Output format — for EACH signal, use EXACTLY this structure (no bold, no markdown):
+Output format — for EACH signal, use EXACTLY this structure:
 
-🚨 SIGNAL: [platform name + the specific format, mechanic, or behaviour, in 10-20 words]
-👉 WHY IT MATTERS: [20-30 words — the psychological or algorithmic reason this content is cutting through right now]
-👉 WHAT TO DO: [max 10 words — the exact content move, format, or post angle to try today]
+🚨 *SIGNAL*
+[Platform] — [the specific format, mechanic, or behaviour, in 10-20 words]
+
+👉 *WHY IT MATTERS:* [20-30 words — the psychological or algorithmic reason this content is cutting through right now]
+
+👉 *WHAT TO DO:* [max 10 words — the exact content move, format, or post angle to try today]
+
 🔗 source/ reference: [real URL from search results]
 
 Rules:
 - 3-5 signals only. Cover different platforms — don't stack signals from one platform.
-- No markdown formatting — no asterisks, no bold, no headers.
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
 

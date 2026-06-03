@@ -15,9 +15,9 @@ Only include roles that are:
 - In a marketing or creative discipline
 - At companies that actually exist and have a real job posting
 
-For each role, use EXACTLY this format (no bold, no markdown):
+For each role, use EXACTLY this format:
 
-💼 ROLE: [Job Title] — [Company]
+💼 *[Job Title] — [Company]*
 📍 Fully Remote | [Salary range if listed, otherwise omit]
 [1 sentence — what makes this role or company worth a look]
 🔗 Apply: [direct URL to the job posting]

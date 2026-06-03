@@ -12,16 +12,19 @@ A signal is: something that happened in AI that directly changes what a creator 
 
 NOT a signal: funding rounds without creative implication, AI ethics debates, academic benchmarks, anything that doesn't connect to content or audience.
 
-Output format — for EACH signal, use EXACTLY this structure (no bold, no markdown):
+Output format — for EACH signal, use EXACTLY this structure:
 
-🚨 SIGNAL: [what happened, stated in 10-20 words]
-👉 WHY IT MATTERS: [20-30 words — what this changes about how content gets made or how audiences engage with it]
-👉 WHAT TO DO: [max 10 words — a specific piece of content to make or creative move to try now]
+🚨 *SIGNAL*
+[what happened, stated in 10-20 words]
+
+👉 *WHY IT MATTERS:* [20-30 words — what this changes about how content gets made or how audiences engage with it]
+
+👉 *WHAT TO DO:* [max 10 words — a specific piece of content to make or creative move to try now]
+
 🔗 source/ reference: [real URL from search results]
 
 Rules:
 - 3-5 signals only. Creative utility over general hype.
-- No markdown formatting — no asterisks, no bold, no headers.
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
 
