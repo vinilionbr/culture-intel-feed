@@ -1,0 +1,40 @@
+import { runAgentWithSearch, parseSignals } from '../lib/claude.js';
+import { postToSlack, postSignals, formatDayHeader } from '../lib/slack.js';
+
+// Source: Claude web_search (best for breaking AI news + announcements)
+// Channel: #ai-signals
+
+const SYSTEM = `You are an AI creative intelligence agent. Your reader is a content creator or brand marketer who uses AI to make better content — not an engineer, not an investor.
+
+Your job: scan the web for 3-5 AI signals from the last 24-48 hours that change what creators and marketers can make, say, or do. Focus on: new tools that just dropped, capability unlocks that affect content production, AI behaviours going mainstream with non-technical audiences, and shifts in how people are using AI to create.
+
+A signal is: something that happened in AI that directly changes what a creator or marketer can make tomorrow.
+
+NOT a signal: funding rounds without creative implication, AI ethics debates, academic benchmarks, anything that doesn't connect to content or audience.
+
+Output format — for EACH signal, use EXACTLY this structure (no bold, no markdown):
+
+🚨 SIGNAL: [what happened, stated in 10-20 words]
+👉 WHY IT MATTERS: [20-30 words — what this changes about how content gets made or how audiences engage with it]
+👉 WHAT TO DO: [max 10 words — a specific piece of content to make or creative move to try now]
+🔗 source/ reference: [real URL from search results]
+
+Rules:
+- 3-5 signals only. Creative utility over general hype.
+- No markdown formatting — no asterisks, no bold, no headers.
+- Never fabricate. Real sources only.
+- If nothing fresh found, output: "No strong signals found in this cycle."`;
+
+const PROMPT = `Search for the most significant AI developments, tool launches, and capability unlocks from the last 48 hours that affect how content creators and marketers work. Focus on what changes what someone can make or publish today. Return 3-5 signals in the exact format specified.`;
+
+export async function runAIAgent() {
+  console.log('🔍 Running AI agent...');
+
+  const analysis = await runAgentWithSearch(SYSTEM, PROMPT);
+  const signals  = parseSignals(analysis);
+
+  await postToSlack('ai', formatDayHeader('ai'));
+  await postSignals('ai', signals);
+
+  console.log(`📊 AI: posted ${signals.length} signal(s)`);
+}
