@@ -5,12 +5,14 @@ import { runSocialAgent } from './agents/social.js';
 import { runCultureAgent } from './agents/culture.js';
 import { runAIAgent } from './agents/ai.js';
 import { runWeb3Agent } from './agents/web3.js';
+import { runJobsAgent } from './agents/jobs.js';
 
 const AGENTS = {
   social:  runSocialAgent,
   culture: runCultureAgent,
   ai:      runAIAgent,
   web3:    runWeb3Agent,
+  jobs:    runJobsAgent,
 };
 
 const AGENT_GAP_MS = 70_000; // 70s between agents — keeps each run inside its own TPM window

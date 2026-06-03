@@ -32,5 +32,6 @@ jobs:
           SLACK_WEBHOOK_CULTURE: ${{ secrets.SLACK_WEBHOOK_CULTURE }}
           SLACK_WEBHOOK_AI: ${{ secrets.SLACK_WEBHOOK_AI }}
           SLACK_WEBHOOK_WEB3: ${{ secrets.SLACK_WEBHOOK_WEB3 }}
+          SLACK_WEBHOOK_JOBS: ${{ secrets.SLACK_WEBHOOK_JOBS }}
           TIMEZONE: Australia/Brisbane
         run: node index.js --now
