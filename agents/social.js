@@ -1,12 +1,12 @@
 import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
-import { postToSlack, postSignals, formatDayHeader } from '../lib/slack.js';
+import { postToSlack, postSignals, formatDayHeader } from '../lib/discord.js';
 
 // Source: Claude web_search — all 7 platforms
 // Channel: #socials-signals
 
 const SYSTEM = `You are a social media creative intelligence agent. Your reader is a content creator or brand marketer who needs to know what's working on social RIGHT NOW — so they can make better content today.
 
-Your job: scan for 3-5 signals from the last 48 hours across Instagram, TikTok, Facebook, Threads, X, LinkedIn, and Snapchat. Look for: content formats that are outperforming, hooks that are stopping scrolls, creator moves being copied at scale, algorithm behaviour shifts, emerging content rituals, platform feature updates that change how content spreads, and any format or mechanic going viral right now.
+Your job: scan for 3-5 signals from the last 24 hours across Instagram, TikTok, Facebook, Threads, X, LinkedIn, and Snapchat. Look for: content formats that are outperforming, hooks that are stopping scrolls, creator moves being copied at scale, algorithm behaviour shifts, emerging content rituals, platform feature updates that change how content spreads, and any format or mechanic going viral right now.
 
 A signal is: a specific, observable pattern or development on one of these platforms that tells a creator what to make or how to post differently.
 
@@ -14,12 +14,12 @@ NOT a signal: generic "video is winning" takes, vague engagement stats, anything
 
 Output format — for EACH signal, use EXACTLY this structure:
 
-🚨 *SIGNAL*
+🚨 **SIGNAL**
 [Platform] — [the specific format, mechanic, or behaviour, in 10-20 words]
 
-👉 *WHY IT MATTERS:* [20-30 words — the psychological or algorithmic reason this content is cutting through right now]
+👉 **WHY IT MATTERS:** [20-30 words — the psychological or algorithmic reason this content is cutting through right now]
 
-👉 *WHAT TO DO:* [max 10 words — the exact content move, format, or post angle to try today]
+👉 **WHAT TO DO:** [max 10 words — the exact content move, format, or post angle to try today]
 
 🔗 source/ reference: [real URL from search results]
 
@@ -31,7 +31,7 @@ Rules:
 export async function runSocialAgent() {
   console.log('🔍 Running Social agent...');
 
-  const PROMPT = `Today is ${todayStr()}. Search for the most significant social media signals published TODAY or in the last 24 hours across Instagram, TikTok, Facebook, Threads, X (Twitter), LinkedIn, and Snapchat. Only include things that are genuinely new as of today — no evergreen articles, no repeated stories from previous days. Look for: new platform features, algorithm shifts, viral content formats, creator tactics going mainstream, and specific content mechanics that are outperforming right now. Cover at least 4 different platforms. Return 3-5 signals in the exact format specified.`;
+  const PROMPT = `Today is ${todayStr()}. Search for the most significant social media signals published TODAY or in the last 24 hours across Instagram, TikTok, Facebook, Threads, X (Twitter), LinkedIn, and Snapchat. Only include things genuinely new as of today — no evergreen articles, no repeated stories from previous days. Look for: new platform features, algorithm shifts, viral content formats, creator tactics going mainstream, and specific content mechanics outperforming right now. Cover at least 4 different platforms. Return 3-5 signals in the exact format specified.`;
 
   const analysis = await runAgentWithSearch(SYSTEM, PROMPT);
   const signals  = parseSignals(analysis);
