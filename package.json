@@ -8,8 +8,9 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.4.5",
     "node-cron": "^3.0.3",
-    "node-fetch": "^3.3.2",
-    "dotenv": "^16.4.5"
+    "node-fetch": "^3.3.2"
   }
 }
