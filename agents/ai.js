@@ -1,5 +1,6 @@
 import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
 import { postToSlack, postSignals, formatDayHeader } from '../lib/discord.js';
+import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 // Source: Claude web_search — AI tools & creative unlocks
 // Channel: #ai-signals
@@ -33,11 +34,17 @@ export async function runAIAgent() {
 
   const PROMPT = `Today is ${todayStr()}. Search for AI developments, tool launches, and capability unlocks published TODAY or in the last 24 hours that affect how content creators and marketers work. Only include things announced or published today — no evergreen articles, no repeated stories from previous days. Focus on what changes what someone can make or publish today. Return 3-5 signals in the exact format specified.`;
 
-  const analysis = await runAgentWithSearch(SYSTEM, PROMPT);
+  const analysis = await runAgentWithSearch(SYSTEM + getHistoryBlock('ai'), PROMPT);
   const signals  = parseSignals(analysis);
+
+  if (signals.length === 0 || signals[0].includes('No strong signals')) {
+    console.log('📊 AI: no new signals found — skipping post');
+    return;
+  }
 
   await postToSlack('ai', formatDayHeader('ai'));
   await postSignals('ai', signals);
+  saveSignalHistory('ai', signals);
 
   console.log(`📊 AI: posted ${signals.length} signal(s)`);
 }

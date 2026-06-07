@@ -1,5 +1,6 @@
 import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
 import { postToSlack, postSignals, formatDayHeader } from '../lib/discord.js';
+import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 // Source: Claude web_search — long-term pop culture & consumer behaviour
 // Channel: #culture-signals
@@ -38,11 +39,17 @@ export async function runCultureAgent() {
 
   const PROMPT = `Today is ${todayStr()}. Search for macro cultural shifts, generational behaviour changes, and long-term consumer identity movements that are building momentum right now. Look across sociology, fashion, music industry analysis, generational research, and brand culture reporting. Focus on structural changes in values, identity, and behaviour — not viral moments or weekly trends. Return 3-5 long-term cultural signals in the exact format specified.`;
 
-  const analysis = await runAgentWithSearch(SYSTEM, PROMPT);
+  const analysis = await runAgentWithSearch(SYSTEM + getHistoryBlock('culture'), PROMPT);
   const signals  = parseSignals(analysis);
+
+  if (signals.length === 0 || signals[0].includes('No strong signals')) {
+    console.log('📊 Culture: no new signals found — skipping post');
+    return;
+  }
 
   await postToSlack('culture', formatDayHeader('culture'));
   await postSignals('culture', signals);
+  saveSignalHistory('culture', signals);
 
   console.log(`📊 Culture: posted ${signals.length} signal(s)`);
 }

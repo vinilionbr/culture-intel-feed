@@ -1,5 +1,6 @@
 import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
 import { postToSlack, postSignals, formatDayHeader } from '../lib/discord.js';
+import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 // Source: Claude web_search — all 7 platforms
 // Channel: #socials-signals
@@ -33,11 +34,17 @@ export async function runSocialAgent() {
 
   const PROMPT = `Today is ${todayStr()}. Search for the most significant social media signals published TODAY or in the last 24 hours across Instagram, TikTok, Facebook, Threads, X (Twitter), LinkedIn, and Snapchat. Only include things genuinely new as of today — no evergreen articles, no repeated stories from previous days. Look for: new platform features, algorithm shifts, viral content formats, creator tactics going mainstream, and specific content mechanics outperforming right now. Cover at least 4 different platforms. Return 3-5 signals in the exact format specified.`;
 
-  const analysis = await runAgentWithSearch(SYSTEM, PROMPT);
+  const analysis = await runAgentWithSearch(SYSTEM + getHistoryBlock('social'), PROMPT);
   const signals  = parseSignals(analysis);
+
+  if (signals.length === 0 || signals[0].includes('No strong signals')) {
+    console.log('📊 Social: no new signals found — skipping post');
+    return;
+  }
 
   await postToSlack('social', formatDayHeader('social'));
   await postSignals('social', signals);
+  saveSignalHistory('social', signals);
 
   console.log(`📊 Social: posted ${signals.length} signal(s)`);
 }

@@ -1,5 +1,6 @@
 import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
 import { postToSlack, postSignals, formatDayHeader } from '../lib/discord.js';
+import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 // Source: Claude web_search — remote marketing job boards
 // Channel: #remote-jobs
@@ -34,11 +35,17 @@ export async function runJobsAgent() {
 
   const PROMPT = `Today is ${todayStr()}. Search for fully remote marketing job openings posted in the last 48 hours. Look across LinkedIn, Indeed, Remote.co, We Work Remotely, Remotive, and Wellfound. Find 5 real openings across all levels (entry to CMO) and all marketing disciplines. Fully remote only, no hybrid. Only listings posted today or yesterday. Return in the exact format specified.`;
 
-  const raw     = await runAgentWithSearch(SYSTEM, PROMPT);
+  const raw     = await runAgentWithSearch(SYSTEM + getHistoryBlock('jobs'), PROMPT);
   const signals = parseJobs(raw);
+
+  if (signals.length === 0) {
+    console.log('📊 Jobs: no new roles found — skipping post');
+    return;
+  }
 
   await postToSlack('jobs', formatJobsHeader());
   await postSignals('jobs', signals);
+  saveSignalHistory('jobs', signals);
 
   console.log(`📊 Jobs: posted ${signals.length} role(s)`);
 }

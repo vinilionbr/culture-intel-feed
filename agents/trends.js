@@ -1,5 +1,6 @@
 import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
 import { postToSlack, postSignals, formatDayHeader } from '../lib/discord.js';
+import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 // Source: Claude web_search — short-term viral moments & tactical content opportunities
 // Channel: #trends-signals
@@ -38,11 +39,17 @@ export async function runTrendsAgent() {
 
   const PROMPT = `Today is ${todayStr()}. Search for what's trending and going viral TODAY — on TikTok, YouTube, X/Twitter, Instagram, and Reddit. Find 3-5 specific moments, sounds, memes, cultural references, or real-world events that are generating content opportunities right now. These should be things that a creator can make content about TODAY or this week. Return signals in the exact format specified.`;
 
-  const analysis = await runAgentWithSearch(SYSTEM, PROMPT);
+  const analysis = await runAgentWithSearch(SYSTEM + getHistoryBlock('trends'), PROMPT);
   const signals  = parseSignals(analysis);
+
+  if (signals.length === 0 || signals[0].includes('No strong signals')) {
+    console.log('📊 Trends: no new signals found — skipping post');
+    return;
+  }
 
   await postToSlack('trends', formatDayHeader('trends'));
   await postSignals('trends', signals);
+  saveSignalHistory('trends', signals);
 
   console.log(`📊 Trends: posted ${signals.length} signal(s)`);
 }

@@ -1,5 +1,6 @@
 import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
 import { postToSlack, postSignals, formatDayHeader } from '../lib/discord.js';
+import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 // Source: Claude web_search — cultural Web3 moves
 // Channel: #web3-signals
@@ -33,11 +34,17 @@ export async function runWeb3Agent() {
 
   const PROMPT = `Today is ${todayStr()}. Search for Web3, crypto, NFT, and blockchain developments published TODAY or in the last 24 hours that reveal something about how audiences, creators, or brands are building identity and community online. Only include things genuinely new as of today. Return 3-5 signals in the exact format specified.`;
 
-  const analysis = await runAgentWithSearch(SYSTEM, PROMPT);
+  const analysis = await runAgentWithSearch(SYSTEM + getHistoryBlock('web3'), PROMPT);
   const signals  = parseSignals(analysis);
+
+  if (signals.length === 0 || signals[0].includes('No strong signals')) {
+    console.log('📊 Web3: no new signals found — skipping post');
+    return;
+  }
 
   await postToSlack('web3', formatDayHeader('web3'));
   await postSignals('web3', signals);
+  saveSignalHistory('web3', signals);
 
   console.log(`📊 Web3: posted ${signals.length} signal(s)`);
 }
