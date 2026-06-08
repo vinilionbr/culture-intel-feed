@@ -18,19 +18,31 @@ Examples of the right kind of signal:
 
 NOT a signal: long-term consumer behaviour shifts, macro trends, anything that's been building for months. Those belong in culture-signals.
 
-PRIORITY SOURCES — search these first, in order:
+PRIORITY SOURCES — search these in order. Go where the freshest data is:
 
-Reddit (fastest signal for viral/meme content):
-reddit.com/r/socialmedia, reddit.com/r/TikTok, reddit.com/r/Instagram, reddit.com/r/Twitter, reddit.com/r/marketing, reddit.com/r/digitalmarketing, reddit.com/r/content_marketing
+1. TikTok & Sound Trends (start here — highest velocity):
+tokboard.com (weekly trending TikTok sounds, clean tables), tokchart.com (24h trending & growing sounds), ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag (TikTok Creative Center — top hashtags/sounds/videos), fastmoss.com (TikTok creator & trend data)
 
-Trend & content intelligence (editorial curation):
-socialmediaexaminer.com, later.com/blog, buffer.com/resources, buzzsumo.com/blog, socialmediatoday.com, blog.hootsuite.com, sproutsocial.com/insights
+2. Viral Topics & Exploding Content:
+explodingsopics.com (top 100 trending topics), trends.google.com (real-time search trends), buzzsumo.com (most shared viral content), topikmojo.com (viral content ideas from Reddit), findviralcontent.com (viral videos across niches)
 
-Newsletter & creator intelligence:
-icymi.news (Lia Haberman), blog.hubspot.com/marketing, neilpatel.com/blog, agorapulse.com/blog, meetedgar.com/blog
+3. Music & Audio Trending:
+open.spotify.com/genre/viral-hits (Spotify viral/TikTok tracking), soundcloud.com/charts/trending, music.apple.com/us/room/1452728497 (Apple Music trending), epidemicsound.com/blog (trending music genres & moods)
 
-Platform official (trending feature context):
-newsroom.tiktok.com, blog.youtube, instagram.com/blog, business.twitter.com/en/blog
+4. YouTube Creator Trends:
+youtube.com/feed/trending, blog.youtube (YouTube Creator Insider — algorithm updates), vidiq.com/blog (trending YouTube hashtags & formats), buffer.com/resources (Buffer Trending Audio — top 50 Reels songs)
+
+5. Instagram Reels Trends:
+later.com/blog (Reels trends, trending audio), instagram.com/@creators (official IG Creators account — trending anthems), hashtastic.com (Instagram Reels best practices)
+
+6. Reddit Communities (organic early signals):
+reddit.com/r/TikTok, reddit.com/r/Instagram, reddit.com/r/YouTube, reddit.com/r/CreatorEconomy, reddit.com/r/NewTubers, reddit.com/r/ContentCreators, reddit.com/r/Viral
+
+7. Creator Economy & Industry Reports:
+icymi.news (Lia Haberman — creator economy trends), nogood.io/blog, creatoriq.com/blog, passionfruitads.com/blog, upfluence.com/blog
+
+8. Hashtag & Trend Trackers:
+ritetag.com (currently trending hashtags), hashtagify.me, allhashtag.com, flipboard.com (viral stories curation)
 
 Output format — for EACH signal, use EXACTLY this structure:
 
@@ -52,7 +64,18 @@ Rules:
 export async function runTrendsAgent() {
   console.log('🔍 Running Trends agent...');
 
-  const PROMPT = `Today is ${todayStr()}. Search for what's trending and going viral TODAY. Start with Reddit (r/TikTok, r/socialmedia, r/Instagram, r/Twitter, r/digitalmarketing) for organic trending signals. Then check Later Blog, BuzzSumo, Social Media Examiner, Social Media Today, and Hootsuite Blog for curated trend coverage published today or yesterday. Also check TikTok Newsroom, YouTube Blog, and Instagram Blog for any trending feature or sound announcements. Find 3-5 specific moments, sounds, meme formats, cultural references, or real-world events that are generating content opportunities right now — things a creator can make content about TODAY or this week. Return signals in the exact format specified.`;
+  const PROMPT = `Today is ${todayStr()}. Search for what's trending and going viral RIGHT NOW using this exact sequence:
+
+1. Check TokBoard and TokChart for the top trending TikTok sounds in the last 24 hours.
+2. Check TikTok Creative Center for top trending hashtags and videos today.
+3. Check Exploding Topics for breakout trending topics this week.
+4. Check Google Trends for real-time search spikes today.
+5. Check BuzzSumo for the most shared viral content in the last 24-48 hours.
+6. Check Reddit (r/TikTok, r/Instagram, r/YouTube, r/Viral, r/CreatorEconomy) for what creators are reacting to right now.
+7. Check Later Blog and Buffer Trending Audio for trending Reels audio and Instagram trends.
+8. Check YouTube Trending and vidIQ Blog for breakout YouTube formats or topics.
+
+From all of this: surface 3-5 specific trending moments, sounds, meme formats, cultural references, or real-world events that are generating content opportunities a creator can act on TODAY or this week. Return signals in the exact format specified.`;
 
   const analysis = await runAgentWithSearch(SYSTEM + getHistoryBlock('trends'), PROMPT);
   const signals  = parseSignals(analysis);
