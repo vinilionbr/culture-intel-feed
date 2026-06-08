@@ -1,3 +1,69 @@
 {
-  "signals": []
+  "signals": [
+    {
+      "date": "2026-06-08",
+      "channel": "social",
+      "topics": [
+        "TikTok — The \"stuck-frame glitch edit\" format tied to Charli XCX's \"Rock Music\" vocal malfunction is flooding the FYP in",
+        "Instagram — Original-audio single-photo posts with a relatable spending confession hook are hitting 700K+ likes and givi",
+        "LinkedIn — LinkedIn is killing native live streaming on June 22 and pivoting creators toward pre-scheduled, gated events",
+        "Threads — Threads is testing AI-powered search summaries and date-range filtering, with expanded \"Trending Now\" surfacin",
+        "X (Twitter) — X's \"Exclusive Threads\" paywall mechanic is being adopted at scale, training audiences to expect a public "
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "channel": "culture",
+      "topics": [
+        "The physical world is becoming a premium product — presence, embodiment, and real-world community are the new luxury.",
+        "\"Human Pride\" is rising as a direct counter-movement to AI proliferation — craft, imperfection, and the human hand are g",
+        "Gen Z is redefining identity as modular and controlled, not singular and visible — signalling a long-term structural shi",
+        "Culture is fragmenting from mass to modular — the era of single dominant cultural platforms, aesthetics, or taste-makers",
+        "Values are replacing aspiration as the primary engine of purchase — but consumers are now demanding receipts, not just r"
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "channel": "trends",
+      "topics": [
+        "The MJ Biopic 'Michael' drops on digital streaming TODAY (June 9) — reigniting MJ audio trends on TikTok and Instagram",
+        "FIFA World Cup 2026 kicks off in 3 days (June 11) — the internet's pre-match hype is already exploding",
+        "The \"Saxophone Gets Louder\" meme has completely taken over social media this June",
+        "Nirvana's \"Smells Like Teen Spirit\" is newly viral on TikTok — powering the \"oh well, whatever, nevermind\" carefree form",
+        "The \"bad news for my wallet because…\" format is spreading fast from TikTok to Instagram Reels right now"
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "channel": "ai",
+      "topics": [
+        "Apple unveils iOS 27 today at WWDC, with a Gemini-powered Siri overhaul and AI-native Photos editing tools.",
+        "YouTube Shorts Remix launches: Gemini Omni lets anyone step directly into an existing Short and re-edit it with a prompt",
+        "UK's CMA forces Google to let publishers opt out of AI Overviews — and mandates attribution links in AI search results.",
+        "ChatGPT's upgraded memory system rolls out — it now \"dreams\" to stay current, updating what it knows about you over time"
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "channel": "web3",
+      "topics": [
+        "The 2026 FIFA World Cup kicks off in 3 days, and onchain prediction markets have already hit $1.2B in trading volume aro",
+        "ZORA has expanded its Coins Protocol to Solana, has crossed 1.1 million token holders, and has paid $10–15M directly to ",
+        "IRL — a real-world event platform — used Stellar blockchain to give 73,000+ people onchain identity at live cultural eve",
+        "AI agents are now being given persistent onchain identities, wallets, and reputation scores — with Ethereum's EIP-8004 p",
+        "In June 2026, the dominant Web3 narrative has quietly shifted: the market is rewarding identity, creator royalties, and "
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "channel": "jobs",
+      "topics": [
+        "Marketing Specialist — Mozilla (MZLA / Thunderbird)",
+        "Field Marketing Manager — BlinkOps",
+        "Performance Marketing Lead, Paid Social, Display & Video — Grammarly",
+        "Senior Product Marketing Manager – Conversion — Circuit (Routing Limited)",
+        "Corporate Communications Intern — Precisely"
+      ]
+    }
+  ]
 }
