@@ -13,6 +13,17 @@ A signal is: a specific, observable pattern or development on one of these platf
 
 NOT a signal: generic "video is winning" takes, vague engagement stats, anything not tied to a specific platform behaviour or format.
 
+PRIORITY SOURCES — search these first, in order:
+
+Platform official blogs (highest authority for feature/algorithm updates):
+instagram.com/blog, developers.facebook.com/blog, business.linkedin.com/marketing-solutions/blog, newsroom.tiktok.com, blog.youtube, forbusiness.snapchat.com, business.pinterest.com/news, about.fb.com/news, threads.net/@threadsapp, bsky.social
+
+Industry publications (best for trend synthesis):
+socialmediaexaminer.com, sproutsocial.com/insights, blog.hootsuite.com, buffer.com/resources, later.com/blog, socialmediatoday.com, searchengineland.com, blog.hubspot.com/marketing, neilpatel.com/blog, buzzsumo.com/blog, brandwatch.com/blog
+
+Reddit communities (raw organic signal):
+reddit.com/r/socialmedia, reddit.com/r/SocialMediaMarketing, reddit.com/r/TikTok, reddit.com/r/Instagram, reddit.com/r/Twitter, reddit.com/r/LinkedIn
+
 Output format — for EACH signal, use EXACTLY this structure:
 
 🚨 **SIGNAL**
@@ -26,13 +37,14 @@ Output format — for EACH signal, use EXACTLY this structure:
 
 Rules:
 - 3-5 signals only. Cover different platforms — don't stack signals from one platform.
+- Prefer signals sourced from the priority list above over generic blog posts.
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
 
 export async function runSocialAgent() {
   console.log('🔍 Running Social agent...');
 
-  const PROMPT = `Today is ${todayStr()}. Search for the most significant social media signals published TODAY or in the last 24 hours across Instagram, TikTok, Facebook, Threads, X (Twitter), LinkedIn, and Snapchat. Only include things genuinely new as of today — no evergreen articles, no repeated stories from previous days. Look for: new platform features, algorithm shifts, viral content formats, creator tactics going mainstream, and specific content mechanics outperforming right now. Cover at least 4 different platforms. Return 3-5 signals in the exact format specified.`;
+  const PROMPT = `Today is ${todayStr()}. Search for the most significant social media signals published TODAY or in the last 24 hours. Start with the official platform blogs (Instagram Business, TikTok Newsroom, LinkedIn Marketing Blog, YouTube Creator Insider) and industry publications (Social Media Examiner, Sprout Social, Buffer, Later, Social Media Today, Hootsuite Blog). Then check Reddit communities (r/socialmedia, r/SocialMediaMarketing, r/TikTok, r/Instagram) for organic patterns. Only include things genuinely new as of today — no evergreen articles, no repeated stories from previous days. Look for: new platform features, algorithm shifts, viral content formats, creator tactics going mainstream, and specific content mechanics outperforming right now. Cover at least 4 different platforms. Return 3-5 signals in the exact format specified.`;
 
   const analysis = await runAgentWithSearch(SYSTEM + getHistoryBlock('social'), PROMPT);
   const signals  = parseSignals(analysis);

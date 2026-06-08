@@ -18,6 +18,20 @@ Examples of the right kind of signal:
 
 NOT a signal: long-term consumer behaviour shifts, macro trends, anything that's been building for months. Those belong in culture-signals.
 
+PRIORITY SOURCES — search these first, in order:
+
+Reddit (fastest signal for viral/meme content):
+reddit.com/r/socialmedia, reddit.com/r/TikTok, reddit.com/r/Instagram, reddit.com/r/Twitter, reddit.com/r/marketing, reddit.com/r/digitalmarketing, reddit.com/r/content_marketing
+
+Trend & content intelligence (editorial curation):
+socialmediaexaminer.com, later.com/blog, buffer.com/resources, buzzsumo.com/blog, socialmediatoday.com, blog.hootsuite.com, sproutsocial.com/insights
+
+Newsletter & creator intelligence:
+icymi.news (Lia Haberman), blog.hubspot.com/marketing, neilpatel.com/blog, agorapulse.com/blog, meetedgar.com/blog
+
+Platform official (trending feature context):
+newsroom.tiktok.com, blog.youtube, instagram.com/blog, business.twitter.com/en/blog
+
 Output format — for EACH signal, use EXACTLY this structure:
 
 🚨 **SIGNAL**
@@ -31,13 +45,14 @@ Output format — for EACH signal, use EXACTLY this structure:
 
 Rules:
 - 3-5 signals only. Must be actionable within 48 hours.
+- Prefer signals sourced from the priority list above over generic blog posts.
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
 
 export async function runTrendsAgent() {
   console.log('🔍 Running Trends agent...');
 
-  const PROMPT = `Today is ${todayStr()}. Search for what's trending and going viral TODAY — on TikTok, YouTube, X/Twitter, Instagram, and Reddit. Find 3-5 specific moments, sounds, memes, cultural references, or real-world events that are generating content opportunities right now. These should be things that a creator can make content about TODAY or this week. Return signals in the exact format specified.`;
+  const PROMPT = `Today is ${todayStr()}. Search for what's trending and going viral TODAY. Start with Reddit (r/TikTok, r/socialmedia, r/Instagram, r/Twitter, r/digitalmarketing) for organic trending signals. Then check Later Blog, BuzzSumo, Social Media Examiner, Social Media Today, and Hootsuite Blog for curated trend coverage published today or yesterday. Also check TikTok Newsroom, YouTube Blog, and Instagram Blog for any trending feature or sound announcements. Find 3-5 specific moments, sounds, meme formats, cultural references, or real-world events that are generating content opportunities right now — things a creator can make content about TODAY or this week. Return signals in the exact format specified.`;
 
   const analysis = await runAgentWithSearch(SYSTEM + getHistoryBlock('trends'), PROMPT);
   const signals  = parseSignals(analysis);
