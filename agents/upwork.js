@@ -26,21 +26,29 @@ Rules:
 export async function runUpworkAgent() {
   console.log('🔍 Running Upwork agent...');
 
-  // Search terms to target marketing gigs
+  // Actor: neatrat/upwork-job-scraper — 4,363 users, 99.5% success rate
+  // maxJobAge limits to last 24h so we only get fresh listings
   const searchQueries = [
     'marketing strategy',
     'content marketing',
-    'social media marketing',
-    'SEO marketing',
+    'social media manager',
+    'copywriter',
     'email marketing',
   ];
 
   const results = await Promise.allSettled(
     searchQueries.map(q =>
       runActor(
-        'curious_coder~upwork-scraper',
-        { searchQuery: q, maxResults: 5 },
-        { limit: 5, timeout: 60 }
+        'neatrat/upwork-job-scraper',
+        {
+          query:           q,
+          sort:            'newest',
+          paymentVerified: true,
+          maxJobAge:       { value: 24, unit: 'hours' },
+          pagesToScrape:   1,
+          perPage:         10,
+        },
+        { limit: 10, timeout: 120 }
       )
     )
   );
@@ -50,12 +58,25 @@ export async function runUpworkAgent() {
     .flatMap(r => r.value)
     .filter(Boolean);
 
-  if (results.every(r => r.status === 'rejected')) {
-    console.warn('⚠️  All Upwork scraper attempts failed:', results[0].reason?.message);
+  const failed = results.filter(r => r.status === 'rejected');
+  if (failed.length > 0) {
+    console.warn(`⚠️  ${failed.length}/${results.length} Upwork queries failed:`, failed[0].reason?.message);
   }
+
+  if (gigs.length === 0) {
+    console.warn('⚠️  Upwork: no gigs returned — skipping post');
+    return;
+  }
+
+  console.log(`🔎 Upwork: ${gigs.length} raw gigs fetched — analysing...`);
 
   const analysis = await analyzeScrapedData(SYSTEM, { gigs });
   const signals  = parseUpworkGigs(analysis);
+
+  if (signals.length === 0 || signals[0].includes('No strong gigs')) {
+    console.log('📊 Upwork: no quality marketing gigs found — skipping post');
+    return;
+  }
 
   await postToSlack('upwork', formatUpworkHeader());
   await postSignals('upwork', signals);
