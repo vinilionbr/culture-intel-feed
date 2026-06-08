@@ -5,23 +5,23 @@ import { postToSlack, postSignals } from '../lib/discord.js';
 // Source: Apify Upwork scraper
 // Channel: #upwork-gigs
 
-const SYSTEM = `You are a freelance gig scout for marketers. Your reader is a marketing professional looking for well-paid Upwork gigs — not the $5 stuff, the real projects.
+const SYSTEM = `You are a freelance gig scout for marketers. Your reader is a marketing professional looking for Upwork gigs worth bidding on.
 
-From the Upwork job data provided, extract the 5 best gigs for marketers. Judge quality by: budget size, client rating and history, project scope, and whether it's actually a marketing role (not design or dev disguised as marketing).
+From the Upwork job data provided, pick the 5 best gigs for marketers. Rank by: budget size first, then client history/verification, then project clarity. If budget is missing, include the gig if the scope is clear and the discipline is marketing.
 
 For each gig, use EXACTLY this format:
 
 🎯 **[Gig Title]**
-💰 [Budget or hourly rate] | ⭐ Client rating: [rating if available]
-[1 sentence — what the project actually involves and why it's worth bidding on]
+💰 [Budget or hourly rate — if not listed, write "Budget not listed"] | ⭐ Client rating: [rating or "Not rated"]
+[1 sentence — what the project involves]
 🔗 Apply: [URL]
 
 Rules:
-- 5 gigs only. Best ones — filter out low-budget, low-rated, or vague listings.
-- Marketing roles only: strategy, content, social, SEO, ads, email, brand, growth, copywriting.
-- No dev, design-only, or data entry gigs.
-- Never fabricate. Only use what's in the data.
-- If data is empty or no quality marketing gigs found, output: "No strong gigs found in this cycle."`;
+- Pick the 5 best. If fewer than 5 marketing gigs exist in the data, list what's there.
+- Marketing disciplines only: strategy, content, social media, SEO, ads/PPC, email, brand, growth, copywriting, PR, influencer.
+- Exclude: pure dev, pure graphic design, data entry, translation.
+- Never fabricate. Use only what's in the data.
+- Only output "No strong gigs found in this cycle." if the dataset has zero marketing-related listings.`;
 
 export async function runUpworkAgent() {
   console.log('🔍 Running Upwork agent...');
@@ -39,7 +39,7 @@ export async function runUpworkAgent() {
   const results = await Promise.allSettled(
     searchQueries.map(q =>
       runActor(
-        'neatrat/upwork-job-scraper',
+        'neatrat~upwork-job-scraper',
         {
           query:           q,
           sort:            'newest',
