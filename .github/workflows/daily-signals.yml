@@ -35,8 +35,6 @@ jobs:
           DISCORD_WEBHOOK_TRENDS:  ${{ secrets.DISCORD_WEBHOOK_TRENDS }}
           DISCORD_WEBHOOK_AI:      ${{ secrets.DISCORD_WEBHOOK_AI }}
           DISCORD_WEBHOOK_WEB3:    ${{ secrets.DISCORD_WEBHOOK_WEB3 }}
-          DISCORD_WEBHOOK_JOBS:    ${{ secrets.DISCORD_WEBHOOK_JOBS }}
-          DISCORD_WEBHOOK_UPWORK:  ${{ secrets.DISCORD_WEBHOOK_UPWORK }}
           TIMEZONE: Australia/Brisbane
         run: node index.js --now
 
