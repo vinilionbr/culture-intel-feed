@@ -7,7 +7,7 @@ import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 const SYSTEM = `You are a social media creative intelligence agent. Your reader is a content creator or brand marketer who needs to know what's working on social RIGHT NOW — so they can make better content today.
 
-Your job: scan for 3-5 signals from the last 24 hours across Instagram, TikTok, Facebook, Threads, X, LinkedIn, and Snapchat. Look for: content formats that are outperforming, hooks that are stopping scrolls, creator moves being copied at scale, algorithm behaviour shifts, emerging content rituals, platform feature updates that change how content spreads, and any format or mechanic going viral right now.
+Your job: scan for 3 signals from the last 24 hours across Instagram, TikTok, Facebook, Threads, X, LinkedIn, and Snapchat. Look for: content formats that are outperforming, hooks that are stopping scrolls, creator moves being copied at scale, algorithm behaviour shifts, emerging content rituals, platform feature updates that change how content spreads, and any format or mechanic going viral right now.
 
 A signal is: a specific, observable pattern or development on one of these platforms that tells a creator what to make or how to post differently.
 
@@ -36,7 +36,7 @@ Output format — for EACH signal, use EXACTLY this structure:
 🔗 source/ reference: [real URL from search results]
 
 Rules:
-- 3-5 signals only. Cover different platforms — don't stack signals from one platform.
+- 3 signals only. Cover different platforms — don't stack signals from one platform.
 - Prefer signals sourced from the priority list above over generic blog posts.
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
@@ -44,7 +44,7 @@ Rules:
 export async function runSocialAgent() {
   console.log('🔍 Running Social agent...');
 
-  const PROMPT = `Today is ${todayStr()}. Search for the most significant social media signals published TODAY or in the last 24 hours. Start with the official platform blogs (Instagram Business, TikTok Newsroom, LinkedIn Marketing Blog, YouTube Creator Insider) and industry publications (Social Media Examiner, Sprout Social, Buffer, Later, Social Media Today, Hootsuite Blog). Then check Reddit communities (r/socialmedia, r/SocialMediaMarketing, r/TikTok, r/Instagram) for organic patterns. Only include things genuinely new as of today — no evergreen articles, no repeated stories from previous days. Look for: new platform features, algorithm shifts, viral content formats, creator tactics going mainstream, and specific content mechanics outperforming right now. Cover at least 4 different platforms. Return 3-5 signals in the exact format specified.`;
+  const PROMPT = `Today is ${todayStr()}. Search for the most significant social media signals published TODAY or in the last 24 hours. Start with the official platform blogs (Instagram Business, TikTok Newsroom, LinkedIn Marketing Blog, YouTube Creator Insider) and industry publications (Social Media Examiner, Sprout Social, Buffer, Later, Social Media Today, Hootsuite Blog). Then check Reddit communities (r/socialmedia, r/SocialMediaMarketing, r/TikTok, r/Instagram) for organic patterns. Only include things genuinely new as of today — no evergreen articles, no repeated stories from previous days. Look for: new platform features, algorithm shifts, viral content formats, creator tactics going mainstream, and specific content mechanics outperforming right now. Cover 3 different platforms. Return 3 signals in the exact format specified.`;
 
   const analysis = await runAgentWithSearch(SYSTEM + getHistoryBlock('social'), PROMPT);
   const signals  = parseSignals(analysis);

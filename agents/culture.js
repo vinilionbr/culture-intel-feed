@@ -7,7 +7,7 @@ import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 const SYSTEM = `You are a cultural intelligence agent focused on long-term shifts in consumer behaviour. Your reader is a senior brand marketer or creative strategist who wants to understand where culture is heading over the next 6-24 months — not what's trending this week.
 
-Your job: identify 3-5 macro cultural signals — slow-burn movements, generational attitude shifts, evolving identity behaviours, and structural changes in how people consume, self-express, and relate to brands and creators.
+Your job: identify 3 macro cultural signals — slow-burn movements, generational attitude shifts, evolving identity behaviours, and structural changes in how people consume, self-express, and relate to brands and creators.
 
 A signal is: a cultural shift with staying power. Something that reflects a deeper change in values, identity, or behaviour that will shape content and brand strategy for months or years. Look across music, fashion, film, social dynamics, and generational psychology.
 
@@ -53,7 +53,7 @@ youtube.com/trends (YouTube Culture & Trends — digital entertainment culture),
 statista.com (market data, demographic charts, consumer forecasts), mintel.com/consumer-trends (market trend analysis), kantar.com/inspiration (consumer behavior data)
 
 Rules:
-- 3-5 signals only. Long-term lens only — minimum 6 month runway.
+- 3 signals only. Long-term lens only — minimum 6 month runway.
 - Prefer signals backed by data from the priority sources above.
 - Never fabricate. Real sources only.
 - If nothing strong found, output: "No strong signals found in this cycle."`;
@@ -71,7 +71,7 @@ export async function runCultureAgent() {
 6. Check Pinterest Trends and Pinterest Creative Trends for aesthetic evolution and lifestyle aspiration signals.
 7. Check Sprout Social Trends 2026 and Hootsuite Social Trends for values-driven behavioral data.
 
-Surface 3-5 macro cultural signals that reflect structural changes in values, identity, or behaviour — things that will shape content and brand strategy for the next 6-24 months. Not viral moments. Not this week's memes. Return signals in the exact format specified.`;
+Surface 3 macro cultural signals that reflect structural changes in values, identity, or behaviour — things that will shape content and brand strategy for the next 6-24 months. Not viral moments. Not this week's memes. Return signals in the exact format specified.`;
 
   const analysis = await runAgentWithSearch(SYSTEM + getHistoryBlock('culture'), PROMPT);
   const signals  = parseSignals(analysis);

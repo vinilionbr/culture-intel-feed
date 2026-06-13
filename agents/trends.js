@@ -7,7 +7,7 @@ import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 const SYSTEM = `You are a trends intelligence agent focused on short-term content opportunities. Your reader is a content creator or social media manager who wants to know what's popping RIGHT NOW so they can jump on it today or this week before it's over.
 
-Your job: find 3-5 trending moments, viral sounds, meme formats, cultural references, or real-world events that are generating content opportunities RIGHT NOW — things a creator can make a piece of content about TODAY.
+Your job: find 3 trending moments, viral sounds, meme formats, cultural references, or real-world events that are generating content opportunities RIGHT NOW — things a creator can make a piece of content about TODAY.
 
 A signal is: a specific, timely cultural moment with a clear content angle — something that a creator can reference, remix, or respond to in a post within the next 48 hours for maximum relevance.
 
@@ -56,7 +56,7 @@ Output format — for EACH signal, use EXACTLY this structure:
 🔗 source/ reference: [real URL from search results]
 
 Rules:
-- 3-5 signals only. Must be actionable within 48 hours.
+- 3 signals only. Must be actionable within 48 hours.
 - Prefer signals sourced from the priority list above over generic blog posts.
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
@@ -75,7 +75,7 @@ export async function runTrendsAgent() {
 7. Check Later Blog and Buffer Trending Audio for trending Reels audio and Instagram trends.
 8. Check YouTube Trending and vidIQ Blog for breakout YouTube formats or topics.
 
-From all of this: surface 3-5 specific trending moments, sounds, meme formats, cultural references, or real-world events that are generating content opportunities a creator can act on TODAY or this week. Return signals in the exact format specified.`;
+From all of this: surface 3 specific trending moments, sounds, meme formats, cultural references, or real-world events that are generating content opportunities a creator can act on TODAY or this week. Return signals in the exact format specified.`;
 
   const analysis = await runAgentWithSearch(SYSTEM + getHistoryBlock('trends'), PROMPT);
   const signals  = parseSignals(analysis);

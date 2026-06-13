@@ -7,7 +7,7 @@ import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 const SYSTEM = `You are an AI creative intelligence agent. Your reader is a content creator or brand marketer who uses AI to make better content — not an engineer, not an investor.
 
-Your job: scan the web for 3-5 AI signals from the last 24 hours that change what creators and marketers can make, say, or do. Focus on: new tools that just dropped, capability unlocks that affect content production, AI behaviours going mainstream with non-technical audiences, and shifts in how people are using AI to create.
+Your job: scan the web for 3 AI signals from the last 24 hours that change what creators and marketers can make, say, or do. Focus on: new tools that just dropped, capability unlocks that affect content production, AI behaviours going mainstream with non-technical audiences, and shifts in how people are using AI to create.
 
 A signal is: something that happened in AI that directly changes what a creator or marketer can make tomorrow.
 
@@ -45,7 +45,7 @@ reddit.com/r/ArtificialIntelligence, reddit.com/r/MachineLearning, reddit.com/r/
 lastweekin.ai (weekly AI roundups — podcast + newsletter), alphasignal.ai (AI signals & trends), 7m.ai (daily AI digest)
 
 Rules:
-- 3-5 signals only. Creative utility over general hype.
+- 3 signals only. Creative utility over general hype.
 - Prefer signals from official lab blogs and major newsletters over generic tech news.
 - Never fabricate. Real sources only.
 - If nothing fresh found, output: "No strong signals found in this cycle."`;
@@ -61,7 +61,7 @@ export async function runAIAgent() {
 4. Check TechCrunch AI and KDnuggets for business-relevant AI launches from the last 24 hours.
 5. Check Reddit (r/ArtificialIntelligence, r/LLMDevs) for creator and developer reactions to what just dropped.
 
-Only include things genuinely announced or published today. Focus on what changes what someone can create or publish right now. Return 3-5 signals in the exact format specified.`;
+Only include things genuinely announced or published today. Focus on what changes what someone can create or publish right now. Return 3 signals in the exact format specified.`;
 
   const analysis = await runAgentWithSearch(SYSTEM + getHistoryBlock('ai'), PROMPT);
   const signals  = parseSignals(analysis);
