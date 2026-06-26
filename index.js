@@ -20,11 +20,13 @@ const AGENT_GAP_MS = 70_000; // 70s between agents — keeps each run inside its
 async function runAll() {
   console.log(`\n🚀 SCOUT — ${new Date().toISOString()}\n`);
   const entries = Object.entries(AGENTS);
+  let failed = 0;
   for (let i = 0; i < entries.length; i++) {
     const [name, agent] = entries[i];
     try {
       await agent();
     } catch (err) {
+      failed++;
       console.error(`❌ ${name} agent failed:`, err.message);
     }
     if (i < entries.length - 1) {
@@ -32,7 +34,14 @@ async function runAll() {
       await new Promise(r => setTimeout(r, AGENT_GAP_MS));
     }
   }
-  console.log('\n✅ All agents complete.\n');
+  console.log(`\n✅ All agents complete. (${entries.length - failed}/${entries.length} succeeded)\n`);
+
+  // If every agent failed, this is an outage (e.g. API/connection down) —
+  // exit non-zero so the GitHub Actions run goes RED instead of silently green.
+  if (failed === entries.length) {
+    console.error('💥 Every agent failed — flagging the run as failed.');
+    process.exitCode = 1;
+  }
 }
 
 const args = process.argv.slice(2);
