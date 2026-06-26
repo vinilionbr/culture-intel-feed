@@ -1,202 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-06-09",
-      "channel": "social",
-      "topics": [
-        "Instagram — \"Your Algorithm\" now lets users manually declare topic interests that directly shape which Reels and Explore",
-        "TikTok — Creators can now manually manage, suggest, and block auto-assigned keywords on their videos, turning TikTok's m",
-        "LinkedIn — Native vertical video (1080×1920) is now receiving a distribution boost from the algorithm, while company pag",
-        "TikTok — The follower-first distribution model is now the dominant gating mechanism: your existing audience decides whet",
-        "Snapchat — AI Sponsored Snaps launch brand-owned AI agents directly inside the Chat tab, making conversational advertisi"
-      ]
-    },
-    {
-      "date": "2026-06-09",
-      "channel": "culture",
-      "topics": [
-        "The \"Soft Productivity\" Era: Work identity is being stripped of its status, and rest is the new flex.",
-        "Present-Tense Living: Long-horizon aspiration has collapsed — consumers now only plan 24 months ahead.",
-        "Anti-Algorithm Identity: Consumers are actively resisting the feeds that built them — and reclaiming taste as personal.",
-        "The Co-Creation Imperative: Consumers — especially Gen Z and Alpha — have stopped accepting brand output and demand auth",
-        "Aspirational Perfectionism Is Dying — \"Authentic Sufficiency\" Is the New Aesthetic Standard."
-      ]
-    },
-    {
-      "date": "2026-06-09",
-      "channel": "trends",
-      "topics": [
-        "Olivia Rodrigo's album drops in 3 DAYS — lyric-overlay & pre-reaction content is flooding TikTok RIGHT NOW",
-        "Charli XCX's \"Rock Music\" glitch/freeze-frame edit format is THIS WEEK's dominant TikTok mechanic",
-        "Taylor Swift × Toy Story 5 — \"I Knew It, I Knew You\" just broke streaming records; nostalgia content is exploding pre-Ju",
-        "Instagram's AI \"Flash Filter\" is the most talked-about creator tool of the month — and TikTok is where the results are g",
-        "The \"I Have Therapy\" POV format is taking over Instagram Reels — works for any niche"
-      ]
-    },
-    {
-      "date": "2026-06-09",
-      "channel": "ai",
-      "topics": [
-        "OpenAI is overhauling ChatGPT into a full \"superapp,\" rolling out in coming weeks with agents, Codex coding tools, and p",
-        "Google's \"Ask Advisor\" — a unified Gemini-powered agent spanning Google Ads, Analytics, Merchant Center, and Marketing P",
-        "Edimakor V5.0.0 drops a one-click AI Ads suite plus \"Reference to Video\" — upload a reference clip and it replicates the",
-        "Attentive's new \"AI Campaigns\" product fully orchestrates end-to-end campaign creation — from brief to send — using live",
-        "Google's upgraded Asset Studio (powered by Gemini Omni) now lets any advertiser generate production-quality video assets"
-      ]
-    },
-    {
-      "date": "2026-06-09",
-      "channel": "web3",
-      "topics": [
-        "The Piet Mondrian Estate partnered with Doodles to drop officially sanctioned digital collectibles on OpenSea — the firs",
-        "Binance is shutting down its centralized NFT service effective July 3, 2026 — the same week a 100-year-old art estate ch",
-        "Bybit launched \"IPO Express\" — letting retail users globally subscribe to tokenized SpaceX IPO shares via their crypto w",
-        "Solana Deads launched a fully integrated, no-code NFT ecosystem — from generative art creation to staking and Discord ac",
-        "The broader June 2026 Web3 moment is crystallising around a single operator shift: the market is now rewarding *useful* "
-      ]
-    },
-    {
-      "date": "2026-06-09",
-      "channel": "jobs",
-      "topics": [
-        "Remote Meta & Google Ads Specialist — Noventra Group Europe",
-        "Product Marketing Manager (B2B – Life Sciences / Pharma / Biotech) — Viseven",
-        "Agent Marketing Lead — Speechify",
-        "Marketing: Growth, Content & Acquisition — Everis",
-        "Growth Marketing Manager — Route"
-      ]
-    },
-    {
-      "date": "2026-06-10",
-      "channel": "social",
-      "topics": [
-        "Instagram — \"Reorder Your Grid\" goes global: creators can now drag-and-drop posts into any order without reposting or lo",
-        "LinkedIn — New \"In-Network vs. Out-of-Network Reach\" breakdown rolls out globally inside post analytics, showing creator",
-        "TikTok — Photo Mode (carousel) is structurally outperforming video for educational and lifestyle creators, with each swi",
-        "LinkedIn — LinkedIn's LLM-rebuilt feed is now actively suppressing generic AI content and \"engagement bait,\" rewarding p",
-        "Facebook — Creator Fast Track launches from Meta's official blog: established creators (100K+ followers on TikTok, Insta"
-      ]
-    },
-    {
-      "date": "2026-06-10",
-      "channel": "culture",
-      "topics": [
-        "\"Future Tradition\" is replacing nostalgia — consumers want heritage re-rooted in modern life, not merely replayed.",
-        "Fandom is evolving from entertainment behaviour into a primary identity structure — and Gen Z now expects brands to earn",
-        "The AI trust deficit is structurally reshaping brand content strategy — human provenance is becoming a premium signal, n",
-        "Gen Z is abandoning long-horizon aspiration entirely — joy, access, and small treats are replacing ownership and traditi",
-        "\"Soft living\" is maturing into a design principle — calm, sensory satisfaction, and manageable pleasure are becoming the"
-      ]
-    },
-    {
-      "date": "2026-06-10",
-      "channel": "trends",
-      "topics": [
-        "The \"Top Five Horror Movies\" list format (set to Katy Perry) is TikTok's funniest meme right now — completely niche-adap",
-        "FIFA World Cup 2026 opening ceremony is TOMORROW (June 11) — the biggest content window of the year opens NOW",
-        "\"My nervous system thinking ___ / when in reality ___\" is a breakout TikTok anxiety-humour format crossing every niche r",
-        "House of the Dragon Season 3 gets its first audience reactions TODAY (Taormina screening June 10) — 11 days before HBO p"
-      ]
-    },
-    {
-      "date": "2026-06-10",
-      "channel": "ai",
-      "topics": [
-        "The first fully AI-generated feature film premieres at Tribeca TODAY — made for $2,000 with no actors, sets, or cameras.",
-        "Google's Gemini image model can now auto-generate thumbnails, posters, and infographics directly from a YouTube URL — no",
-        "Claude Design — Anthropic's chat-to-slides and pitch-deck tool — is now being actively used in production by marketing t",
-        "Martin Scorsese goes public using Black Forest Labs' FLUX AI to storyboard his next film — normalising AI pre-viz for an",
-        "Google's Gemini 3.5 Pro is now confirmed to drop this month — the model that beats every current flagship on deep reason"
-      ]
-    },
-    {
-      "date": "2026-06-10",
-      "channel": "web3",
-      "topics": [
-        "Kraken became FIFA's Official Crypto Exchange Supporter TODAY, kicking off with a multi-city Countdown Concert series.",
-        "Yuga Labs executed a white-hat NFT rescue operation on June 8, saving $500K+ in Bored Apes and CryptoPunks from a live e",
-        "Alpha Compute (Nasdaq-listed AI infrastructure) completed its acquisition of GAMEE from Animoca Brands — merging a 120M-",
-        "Mask Network's Orb and Firefly apps — built on Lens Protocol's decentralised social graph — are becoming Vitalik Buterin"
-      ]
-    },
-    {
-      "date": "2026-06-10",
-      "channel": "jobs",
-      "topics": [
-        "Growth & B2B Marketing Manager — Generation",
-        "Senior Digital Growth Manager — Zencare",
-        "ABM & Marketing Operations Manager — Machinify",
-        "Marketing Specialist — Helix",
-        "Marketing Coordinator (Content Marketing Specialist) — Tablet Command"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "channel": "social",
-      "topics": [
-        "TikTok — TikTok's \"Flip Story\" feature is going viral as a FYP-access mechanic for creators of all sizes",
-        "Instagram — Instagram's full-platform originality crackdown has cut aggregator and repost-heavy accounts from ALL recomm",
-        "LinkedIn — PDF document carousels are the highest-engagement format on LinkedIn in 2026, but most creators are still ign",
-        "TikTok — TikTok's FIFA World Cup 2026 Creator Correspondent programme is live NOW — unlocking a massive sports content s",
-        "Facebook — Facebook is testing \"Friends with Things in Common\" — a new interest-matching discovery section that signals "
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "channel": "culture",
-      "topics": [
-        "Culture is switching to \"Hard Mode\" — discomfort, challenge, and earned experience are becoming the new aspirational cur",
-        "Cultural identity is re-rooting in the local, the ancestral, and the inherited — global homogeneity is losing its aspira",
-        "\"Trend Curation\" is replacing \"Trend Participation\" — consumers now remix, not follow, as their primary mode of self-exp",
-        "Clean living is maturing into a full-spectrum identity — \"less but better\" is becoming the organising logic of consumpti",
-        "The private social layer is becoming the primary trust infrastructure — brands that don't exist in intimate spaces will "
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "channel": "trends",
-      "topics": [
-        "The \"Wow, OK\" acting challenge is flooding TikTok & Reels — say one phrase six different ways",
-        "\"Hurt the Paper\" is Instagram's breakout product-reveal format this week — niche-adaptable and high-save",
-        "Justin Bieber's \"Everything Hallelujah\" Coachella-born gratitude format is still actively spreading — now crossing into ",
-        "Toy Story 5 \"Toy vs. Tech\" nostalgia wave is peaking RIGHT NOW — film drops in 8 days and the FYP is already flooded",
-        "\"Rich in Life\" TikTok format is surging — the soft-abundance carousel that works in any niche right now"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "channel": "ai",
-      "topics": [
-        "OpenAI's GPT models and Codex are now accessible through Oracle cloud commitments, announced today.",
-        "Reddit enables video in comments for all public communities — rolling out to all users today, June 11, 2026.",
-        "Anthropic's Claude Fable 5 — the public release of its previously restricted Claude Mythos model — is now live.",
-        "Claude for Microsoft 365 — covering Word, Excel, PowerPoint, and Outlook — is now generally available across all paid pl",
-        "OpenAI's Codex is now actively used by non-developers — marketers and designers — growing 3x faster than its developer u"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "channel": "web3",
-      "topics": [
-        "The 2026 FIFA World Cup kicks off TODAY — and for the first time, fan identity is onchain at a mass-audience scale via C",
-        "FIFA Collect's \"Dynamic Collectible\" NFTs — which literally evolve as teams progress through the World Cup — go live for",
-        "OpenSea — the original NFT marketplace — has signalled a \"trade everything\" pivot, teasing Hyperliquid-powered perpetual",
-        "Chiliz is migrating fan tokens to an omnichain model — moving sport identity assets off a siloed blockchain and into Sol",
-        "A June 2026 analysis of the Web3 creator economy crystallises a market-wide shift: audiences now reward \"quietly useful\""
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "channel": "jobs",
-      "topics": [
-        "Video Content Strategist / Storyboards — Spiralyze",
-        "Senior Amazon Brand Manager — GNO Partners",
-        "Product Marketing Manager — Filestage",
-        "Staff Product Marketing Manager — Hospitable",
-        "Personal Brand Growth Manager — Alyssa Nobriga"
-      ]
-    },
-    {
       "date": "2026-06-12",
       "channel": "social",
       "topics": [
@@ -644,6 +448,33 @@
         "The carousel keys off the verse lyric \"baby boy, honeybee, god I love the way you look at me\" from Olivia Rodrigo's new ",
         "Game Time by Future and Tyla just dropped today as part of the FIFA World Cup 2026 soundtrack, and Instagram is all over",
         "Cleaning, packing, and morning routines are leaning into sharp physical sounds: peeling tape, opening jars, spraying, wi"
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "channel": "social",
+      "topics": [
+        "YouTube Shorts — Clear Screen mode hides all UI icons and text for immersive, distraction-free viewing",
+        "Instagram — \"Views\" is now the unified primary metric across all formats (Reels, Stories, Photos, Carousels), replacing ",
+        "Facebook — New \"User True Interest Survey\" (UTIS) model directly asks viewers \"How well does this video match your inter"
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "channel": "culture",
+      "topics": [
+        "\udc49 WHY IT MATTERS:",
+        "\udc49 WHY IT MATTERS:",
+        "\udc49 WHY IT MATTERS:"
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "channel": "trends",
+      "topics": [
+        "\udc49 WHY IT MATTERS:",
+        "\udc49 WHY IT MATTERS:",
+        "\udc49 WHY IT MATTERS:"
       ]
     }
   ]
