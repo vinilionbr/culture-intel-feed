@@ -1,70 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-06-12",
-      "channel": "social",
-      "topics": [
-        "TikTok — Community Fest 2026 launches TODAY (June 11–12), turning TikTok LIVE into a gamified creator growth engine with",
-        "TikTok — TikTok + ATP tennis partnership expands TODAY with the \"On Tour With\" creator programme scaling to ALL ATP Mast",
-        "Instagram — Instagram for TV is now live on Google TV (February update now fully active), meaning Reels are being indexe",
-        "X (Twitter) — Grok Imagine Video 1.5 (launched May 31) just claimed the #1 spot on the Image-to-Video Arena leaderboard,",
-        "Facebook — Meta's engineering team has confirmed Facebook Groups Search has been rebuilt with a hybrid AI semantic retri"
-      ]
-    },
-    {
-      "date": "2026-06-12",
-      "channel": "culture",
-      "topics": [
-        "Sport is becoming the dominant cultural language of everyday identity — not a spectator event, but a lifestyle aesthetic",
-        "The \"Pragmatic Generation\" is rewriting the ambition contract — stability and skill-depth are replacing career accelerat",
-        "The mid-market is structurally collapsing — consumers are splitting into \"strategic spenders\" and \"emotional investors,\"",
-        "The aesthetics of self-expression are turning against perfectionism — imperfection, asymmetry, and anti-polish are becom"
-      ]
-    },
-    {
-      "date": "2026-06-12",
-      "channel": "trends",
-      "topics": [
-        "Olivia Rodrigo's album *you seem pretty sad for a girl so in love* dropped TODAY (June 12) — first-listen reactions and ",
-        "The NY Knicks just pulled off the biggest comeback in NBA Finals history — TikTok and Reels are erupting with reaction a",
-        "Taylor Swift's surprise live debut of \"I Knew It, I Knew You\" at the Toy Story 5 premiere (June 9) is still generating m",
-        "The \"Color Walk\" format is this week's breakout low-effort, high-reward Instagram Reels and TikTok trend — with no audio"
-      ]
-    },
-    {
-      "date": "2026-06-12",
-      "channel": "ai",
-      "topics": [
-        "Apple's iOS 27 Foundation Models framework goes live today, letting any app swap between Claude, Gemini or on-device AI ",
-        "Claude now natively integrates into Apple's Foundation Models across iOS 27, iPadOS 27, macOS 27, and watchOS 27 — annou",
-        "GetMentions AI launches YouTube Mentions — a managed service that places brands inside YouTube videos specifically to ge",
-        "CoSchedule Smart Editor launches: an AI writing workspace embedded directly inside the marketing calendar, with brand co",
-        "Claude Fable 5 — Anthropic's first Mythos-class model for general use — dropped June 9 with always-on adaptive thinking,"
-      ]
-    },
-    {
-      "date": "2026-06-12",
-      "channel": "web3",
-      "topics": [
-        "Japan's parliament is passing a sweeping bill TODAY to regulate crypto like stocks, with effects rippling into how digit",
-        "The NFT market is now confirmed K-shaped in 2026: a tiny set of IPs with real products and communities are thriving — ev",
-        "Magic Eden — once the dominant NFT marketplace — has now fully pivoted away from Bitcoin and Ethereum NFTs toward its on",
-        "SuperRare launched \"Liquid Editions\" — a new format where ERC-20 tokens *are* the artwork, and the art visually evolves ",
-        "The NFT drop calendar for today shows football-themed digital art collections launching in direct cultural sync with the"
-      ]
-    },
-    {
-      "date": "2026-06-12",
-      "channel": "jobs",
-      "topics": [
-        "Head of Marketing — Solé Bicycles",
-        "Senior Director of Product Marketing — Bitwarden",
-        "Growth Lead — Forager.ai",
-        "Amazon & Walmart PPC Advertising Account Manager — Amazowl",
-        "Principal Product Marketing Manager — Kentik"
-      ]
-    },
-    {
       "date": "2026-06-13",
       "channel": "social",
       "topics": [
@@ -475,6 +411,15 @@
         "\udc49 WHY IT MATTERS:",
         "\udc49 WHY IT MATTERS:",
         "\udc49 WHY IT MATTERS:"
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "channel": "social",
+      "topics": [
+        "LinkedIn — Native text posts outperforming PDF carousels by 28% reach, 34% better engagement for B2B organic reach",
+        "Threads — \"Your Algo\" feature now live as of June 16; users can privately customize feed preferences for 1–7 days withou",
+        "TikTok — Olivia Rodrigo's \"honeybee\" carousel format: 3-slide lyric overlay posts showing two photos of person with lyri"
       ]
     }
   ]
