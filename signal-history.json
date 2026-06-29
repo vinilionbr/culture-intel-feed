@@ -1,51 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-06-14",
-      "channel": "social",
-      "topics": [
-        "Instagram — Creator-built handwritten fonts are landing natively in Reels & Stories on June 20, six days from now",
-        "YouTube Shorts — Google Veo 3 Fast is now live and free inside the Shorts camera, generating AI video clips with sound f",
-        "X (Twitter) — Native AI text-to-video is arriving: X is integrating Hotshot into Grok under the name \"Imagine\", giving a"
-      ]
-    },
-    {
-      "date": "2026-06-14",
-      "channel": "culture",
-      "topics": [
-        "Brands are being forced to become serialised entertainment studios — or become invisible.",
-        "Gen Z is spending to declare tribal allegiance — not to express personal identity.",
-        "Self-preservation has replaced self-optimisation as the dominant emotional contract between consumers and culture."
-      ]
-    },
-    {
-      "date": "2026-06-14",
-      "channel": "trends",
-      "topics": [
-        "\"Melissa, I'm Drunk and Outside\" has just crossed from viral TikTok meme into full summer anthem — with a major label re",
-        "House of the Dragon Season 3 premieres in exactly 7 days (June 21) — the pre-hype content window opens RIGHT NOW",
-        "The Jon Hamm \"Turn the Lights Off\" escapism meme is still TikTok's go-to \"mentally clocking out\" format — and it just go"
-      ]
-    },
-    {
-      "date": "2026-06-14",
-      "channel": "ai",
-      "topics": [
-        "The US government just forced Anthropic to pull its two most powerful models — Claude Fable 5 and Mythos 5 — offline for",
-        "Moonshot AI's Kimi K2.7 Code — a 1-trillion-parameter open-source coding agent — launched free on Hugging Face with a co",
-        "Huawei's HarmonyOS 7 — now in developer beta — rewires its 66-million-device OS around an \"Agentic AI\" architecture that"
-      ]
-    },
-    {
-      "date": "2026-06-14",
-      "channel": "web3",
-      "topics": [
-        "Chainlink goes live, settling 104 World Cup matches onchain — fans get instant payouts for the first time.",
-        "Pi Network's Consensus 2026 event shirt is being minted as a community-owned NFT collectible, turning a shared milestone",
-        "A wave of creator-built onchain fantasy football games — GOALR, $FANTASY, PlayGoal — launched on Solana this week, auto-"
-      ]
-    },
-    {
       "date": "2026-06-15",
       "channel": "social",
       "topics": [
@@ -376,6 +331,23 @@
         "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity",
         "MiniMax M3, the first open-weight model to combine frontier-tier software engineering capabilities with a 1-million-toke",
         "Meta's new \"AI Mode,\" a new way to search Facebook that uses Meta AI to surface answers pulled from public posts across "
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "channel": "social",
+      "topics": [
+        "Threads — Launched new communities features after reaching 500M MAU on June 23",
+        "TikTok/Instagram — Olivia Rodrigo album carousel format dominates (emotional multi-slide templates)"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "channel": "ai",
+      "topics": [
+        "OpenAI previews GPT-5.6 family: Sol flagship, Terra for everyday work at 2x lower cost, Luna for speed",
+        "Codex Remote now generally available on all ChatGPT plans—control Mac/Windows hosts from mobile app via QR pairing",
+        "GPT-5.6 introduces max reasoning effort and ultra mode leveraging subagents for complex work acceleration"
       ]
     }
   ]
