@@ -1,51 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-06-15",
-      "channel": "social",
-      "topics": [
-        "X (Twitter) — React with Video is confirmed expanding to Android TODAY, turning every post on X into a video-reaction co",
-        "TikTok — \"Shared Feed\" is now live, placing creator content inside friends' private DM feeds daily — a new passive disco",
-        "YouTube — New \"News Watch\" mobile experience gives verified commentary creators a curated placement below breaking news "
-      ]
-    },
-    {
-      "date": "2026-06-15",
-      "channel": "culture",
-      "topics": [
-        "Wellness has structurally migrated from goal to identity — and it's rewriting the entire consumer self-concept.",
-        "Consumers are replacing status-performance with emotional comfort as the primary organising logic of self-expression, sp",
-        "The \"internet innocence\" era is being grieved publicly — and that grief is becoming a generational identity anchor for G"
-      ]
-    },
-    {
-      "date": "2026-06-15",
-      "channel": "trends",
-      "topics": [
-        "The \"Seeing if the Algorithm Prefers\" format is TikTok & Reels' breakout meta-humour trend this week — no audio required",
-        "The \"Jet2 Holiday\" disaster jingle is back and BIGGER for summer 2026 — and it's now hitting non-travel niches hard",
-        "House of the Dragon Season 3 premieres in 6 DAYS — the pre-hype content window is NOW at its absolute peak"
-      ]
-    },
-    {
-      "date": "2026-06-15",
-      "channel": "ai",
-      "topics": [
-        "Higgsfield relaunches as a \"Creative OS\" — now plugged directly into Adobe Premiere Pro, After Effects, and Claude via M",
-        "ChatGPT's full-screen writing editor is live — Canvas is retired, and long-form drafts now save to a permanent Library",
-        "Instagram's \"AI Creator\" account label is rolling out — it tags your profile AND every piece of content you post, perman"
-      ]
-    },
-    {
-      "date": "2026-06-15",
-      "channel": "web3",
-      "topics": [
-        "Foundation — one of Web3's most beloved creator marketplaces — has shut down entirely, leaving NFTs intact onchain but f",
-        "Camp Network's onchain IP layer is now tokenising 53 music festivals as programmable real-world assets — turning live cu",
-        "Mythical Games' FIFA Rivals has now fully completed its NFT migration to the USDC stablecoin-based Pulse Market — the Wo"
-      ]
-    },
-    {
       "date": "2026-06-16",
       "channel": "social",
       "topics": [
@@ -348,6 +303,15 @@
         "OpenAI previews GPT-5.6 family: Sol flagship, Terra for everyday work at 2x lower cost, Luna for speed",
         "Codex Remote now generally available on all ChatGPT plans—control Mac/Windows hosts from mobile app via QR pairing",
         "GPT-5.6 introduces max reasoning effort and ultra mode leveraging subagents for complex work acceleration"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "channel": "social",
+      "topics": [
+        "Instagram — New fonts rolling out for Reels and Stories starting June 30, expanding creator design flexibility",
+        "Instagram — Your Algorithm feature is receiving new access points and features",
+        "X — Grok AI upgraded to support video generation from up to 7 input images, creating videos up to 30 seconds long, avail"
       ]
     }
   ]
