@@ -1,51 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-06-17",
-      "channel": "social",
-      "topics": [
-        "TikTok — Olivia Rodrigo's album drop is powering a live fan-experience mechanic that turns album audio into a mass conte",
-        "LinkedIn — LinkedIn's first-ever native Creator Marketplace just launched, making B2B creator partnerships a structured,",
-        "Instagram — Native Teleprompter inside the main Reels camera (not just Edits) is now rolling out to iOS, eliminating the"
-      ]
-    },
-    {
-      "date": "2026-06-17",
-      "channel": "culture",
-      "topics": [
-        "Gen Z is entering a period of deliberate self-contraction — editing their identities down, not expanding them outward.",
-        "Wellness is becoming the primary cross-category consumer identity infrastructure — eclipsing lifestyle, status, and aspi",
-        "Escapism is maturing from entertainment behaviour into a survival-coded identity value — consumers are building psycholo"
-      ]
-    },
-    {
-      "date": "2026-06-17",
-      "channel": "trends",
-      "topics": [
-        "\"Du bist gut genug\" (\"You are good enough\") — the German falsetto meme is TikTok's breakout audio of the week, going glo",
-        "The \"2026 Summer Anthem\" lip-sync — Josh Fawaz's \"Like a Prayer\" remix is TikTok's easiest viral entry point of the seas",
-        "House of the Dragon Season 3 premieres in 4 DAYS (Sunday June 21) — the final pre-premiere hype window closes THIS WEEK,"
-      ]
-    },
-    {
-      "date": "2026-06-17",
-      "channel": "ai",
-      "topics": [
-        "Adobe Creative Cloud rolls out on-device AI in Photoshop, Lightroom, and Premiere — no cloud, no wait, no connection req",
-        "Perfect Corp. debuts a Claude- and ChatGPT-compatible Beauty AI Agent Skill at VivaTech Paris today — one image triggers",
-        "VivaTech 2026 opens today in Paris with \"AI: Impact, Not Illusion\" as its theme — Europe's largest tech event is now a l"
-      ]
-    },
-    {
-      "date": "2026-06-17",
-      "channel": "web3",
-      "topics": [
-        "Pudgy Penguins killed its flagship NFT mobile game after 1M+ downloads, pivoting all resources to a single owned browser",
-        "The TON community voted — with 81% approval — to rebrand its native token from Toncoin to Gram, a name originally suppre",
-        "The Berlin Blockchain Festival — running TODAY through June 21 — is hosting 7,000+ attendees clustering around self-sove"
-      ]
-    },
-    {
       "date": "2026-06-18",
       "channel": "social",
       "topics": [
@@ -276,6 +231,24 @@
         "Google search integration turns professional account content into organic SEO discovery",
         "\"Make me move\" AI turns static photos into short-form video with one click",
         "AI Sponsored Snaps embed brands as conversational chat partners, not interrupting ads"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "channel": "social",
+      "topics": [
+        "LinkedIn — Video views grew 36% year-over-year, with video creation growing 2x faster than any other post type",
+        "Facebook — Views and time spent watching Reels approximately doubled in the second half of 2025 compared to the same per",
+        "Threads — In January 2026, Threads reached 141.5 million daily active app users, officially surpassing X's 125 million"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "channel": "ai",
+      "topics": [
+        "Google announced Gemini Omni Flash on June 30, 2026 — a high-quality, cost-efficient model for video generation and conv",
+        "Workspace admins and owners can now manage plugins from Workspace settings > Plugins, and can review and manage actions ",
+        "Gemini now lets you turn photos into eight-second videos with sound, rolling out today to Google AI Pro and Ultra subscr"
       ]
     }
   ]
