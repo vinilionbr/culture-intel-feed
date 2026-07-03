@@ -1,51 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-06-18",
-      "channel": "social",
-      "topics": [
-        "TikTok — Temper City's \"Self Aware\" has 6.6M+ posts and no locked format — maximum brand adaptability window still open",
-        "Instagram — Native 3:4 aspect ratio (1080×1440px) now fully supported for Feed posts, ending the grid-vs-feed cropping p",
-        "X (Twitter) — Grok AI now algorithmically ranks the \"Following\" feed by predicted relevance, killing chronological order"
-      ]
-    },
-    {
-      "date": "2026-06-18",
-      "channel": "culture",
-      "topics": [
-        "\"Fourth Spaces\" are emerging as the new primary social infrastructure for Gen Z and Millennial identity formation.",
-        "Aesthetic homogeneity is triggering a consumer identity rebellion — \"remixing\" is replacing trend-following as the domin",
-        "Purchasing is becoming a durable act of political and moral declaration — \"voting with dollars\" is now structurally resh"
-      ]
-    },
-    {
-      "date": "2026-06-18",
-      "channel": "trends",
-      "topics": [
-        "Toy Story 5 opens in cinemas TOMORROW (June 19) — the most emotional Pixar reaction moment in years, and the FYP is alre",
-        "The *Apex* Netflix \"until the end of this song\" scene is TikTok's breakout participation challenge right now — set to \"G",
-        "Temper City's \"Self Aware\" is TikTok's biggest alt-rock soundtrack right now — 6.6M+ posts, no strict format required, w"
-      ]
-    },
-    {
-      "date": "2026-06-18",
-      "channel": "ai",
-      "topics": [
-        "ChatGPT launches a full Scheduled Tasks hub — your AI can now monitor and brief you autonomously.",
-        "OpenAI's self-serve ChatGPT Ads Manager opens to all U.S. businesses — no minimum spend, CPC bidding live.",
-        "ChatGPT iOS gets a new camera/photo UX and real-time World Cup visuals — AI is now a live sports content layer."
-      ]
-    },
-    {
-      "date": "2026-06-18",
-      "channel": "web3",
-      "topics": [
-        "Pudgy Penguins and Moonbirds launch their joint physical trading card set — \"Birb & Pengu\" — in retail stores worldwide ",
-        "Axie Infinity launches Terrariums V1 THIS WEEK — turning years-old land NFTs into a living, hourly-earning ecosystem for",
-        "Tokenised Pokémon card platform Collector Crypt — via a major Decrypt feature this week — confirms the physical collecti"
-      ]
-    },
-    {
       "date": "2026-06-19",
       "channel": "social",
       "topics": [
@@ -249,6 +204,33 @@
         "Google announced Gemini Omni Flash on June 30, 2026 — a high-quality, cost-efficient model for video generation and conv",
         "Workspace admins and owners can now manage plugins from Workspace settings > Plugins, and can review and manage actions ",
         "Gemini now lets you turn photos into eight-second videos with sound, rolling out today to Google AI Pro and Ultra subscr"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "social",
+      "topics": [
+        "Pinterest — AI tools for shopping and discovery: Business Assistant, new Performance+ creative model, Ask Pinterest laun",
+        "Facebook — New \"User True Interest Survey\" tests viewer feedback (1-5 scale) after Reel playback to refine recommendatio",
+        "X (formerly Twitter) — Grok-powered transformer algorithm now weights replies 27x more than likes; conversation (reply +"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "ai",
+      "topics": [
+        "Claude Sonnet 5 launched June 30 and is now the default model for Free and Pro plans, approaching Opus 4.8 performance a",
+        "Google released Gemini 3.1 Flash Image at $0.50 input per million tokens and $3.00 output, and Gemini 3 Pro Image at $2.",
+        "Fable 5 is fully restored as of July 1, 2026—20 days after the US government's export control order pulled it offline on"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "web3",
+      "topics": [
+        "World launched on July 1, 2026, as a fully onchain prediction market available inside the Phantom wallet and at world.xy",
+        "A new independent nonprofit, Ethereum Institutional, has launched to accelerate institutional adoption of Ethereum, prov",
+        "A consortium of more than 140 financial and technology companies introduced Open USD, a dollar stablecoin whose reserve "
       ]
     }
   ]
