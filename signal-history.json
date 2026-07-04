@@ -1,51 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-06-19",
-      "channel": "social",
-      "topics": [
-        "LinkedIn — Native GIF picker now live in comments via Tenor, eliminating the old convert-to-MP4 friction entirely",
-        "Pinterest — \"Ask Pinterest\" standalone AI shopping app launches (limited US access), turning visual discovery into a con",
-        "Instagram — Trial Reels completes its global rollout, and Instagram's own data reveals the engagement case is now overwh"
-      ]
-    },
-    {
-      "date": "2026-06-19",
-      "channel": "culture",
-      "topics": [
-        "The \"Scarcity Economy of Attention\" — consumers are structurally migrating from mass, open feeds to smaller, earned, int",
-        "\"Analog Ownership\" is becoming a generational identity statement — physical media is being adopted as a deliberate act o",
-        "The \"Aesthetic Sameness Revolt\" — consumers are actively rejecting algorithmic cultural homogeneity and treating visible"
-      ]
-    },
-    {
-      "date": "2026-06-19",
-      "channel": "trends",
-      "topics": [
-        "World Cup foreign visitors reacting to normal American life is TikTok's breakout viral subgenre right now",
-        "The \"Food Jutsu\" anime-inspired food-summoning transition is TikTok's dominant video format this week — 2.5M+ posts",
-        "Nyck Caution's \"PRESSURE!\" is TikTok's breakout hype track — 120K+ videos, used by Real Madrid, FIFA & the Premier Leagu"
-      ]
-    },
-    {
-      "date": "2026-06-19",
-      "channel": "ai",
-      "topics": [
-        "Claude Code now turns live AI sessions into shareable, auto-updating interactive web pages called Artifacts.",
-        "OpenAI confirms GPT-5.5 Instant now delivers frontier-level health intelligence to all 230M free ChatGPT users.",
-        "MiniMax launches Hub at Shanghai Film Festival — one platform for image, video, voiceover, music, and editing via a sing"
-      ]
-    },
-    {
-      "date": "2026-06-19",
-      "channel": "web3",
-      "topics": [
-        "MegaETH's MOSS launches as a single \"one wallet, every app\" identity layer — with an AI agent that can physically buy yo",
-        "World Liberty Financial paid UFC fighters $250K in its own stablecoin at a White House sporting event — making crypto th",
-        "The Web3 Summit wraps TODAY in Berlin — framed not as a tech conference but as a \"festival for digital freedom\" mixing b"
-      ]
-    },
-    {
       "date": "2026-06-20",
       "channel": "social",
       "topics": [
@@ -231,6 +186,33 @@
         "World launched on July 1, 2026, as a fully onchain prediction market available inside the Phantom wallet and at world.xy",
         "A new independent nonprofit, Ethereum Institutional, has launched to accelerate institutional adoption of Ethereum, prov",
         "A consortium of more than 140 financial and technology companies introduced Open USD, a dollar stablecoin whose reserve "
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "social",
+      "topics": [
+        "Instagram comments are getting visual—users can now add photos directly in the comment section under Instagram posts and",
+        "Threads has reached 500 million monthly active users and is launching a suite of highly-requested features including cus",
+        "The \"You Look Like the 4th of July\" audio (Jennifer Coolidge clip) spikes hard over the holiday weekend—post July 3rd or"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "ai",
+      "topics": [
+        "Anthropic launched Claude Sonnet 5 on June 30, 2026 and made it the default model for every Free and Pro Claude user sta",
+        "Claude Platform rate limits increased with simplified tiers no longer based on API spend and 5x higher limits for the la",
+        "Square has launched a ChatGPT app and Claude plugin letting U.S. Food and Beverage sellers accept orders placed directly"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "web3",
+      "topics": [
+        "World prediction market launched July 1 inside Phantom wallet, enabling on-chain event contract trading powered by Chain",
+        "OKX unveiled OKX.ai on June 30—a marketplace combining AI agent hiring, onchain identity, stablecoin payments and reputa",
+        "Solana implemented Solana Governance Proposals system where validators with 100,000 SOL can signal network direction, an"
       ]
     }
   ]
