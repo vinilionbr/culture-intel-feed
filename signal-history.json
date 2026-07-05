@@ -1,42 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-06-20",
-      "channel": "social",
-      "topics": [
-        "Instagram — The AI Flash Filter (inside \"Create with AI\" Stories tools) is the most-used effect on the platform right no",
-        "YouTube Shorts — YouTube is adding a native app-promotion CTA panel to Shorts, opening a brand-new monetisation lane for",
-        "TikTok — Creator Chat Rooms are now live: a private, capped community space (up to 300 followers) that replaces the comm"
-      ]
-    },
-    {
-      "date": "2026-06-20",
-      "channel": "culture",
-      "topics": [
-        "Gen Z is replacing endless self-reinvention with the \"personal uniform\" — identity is becoming operational, not expressi",
-        "The \"Depth Economy\" is rising — consumers are structurally migrating from surface scrolling to substance-seeking, and br",
-        "Gen Z is pioneering \"Hyperreality\" as a lived identity space — the boundary between digital and physical selfhood has st"
-      ]
-    },
-    {
-      "date": "2026-06-20",
-      "channel": "trends",
-      "topics": [
-        "House of the Dragon Season 3 premieres TONIGHT — the biggest TV moment of the summer opens right now",
-        "\"Same phrase, four emotions\" acting challenge is TikTok's breakout participation format this week — zero equipment neede",
-        "\"My partner/parent is a…\" carousel (set to Meg Myers' *Desire*) is TikTok's most-shared format right now — and it's cros"
-      ]
-    },
-    {
-      "date": "2026-06-20",
-      "channel": "ai",
-      "topics": [
-        "Google's Gemini API Veo docs updated June 15–18, forcing all creators and developers off older video models onto Veo 3.1",
-        "Adobe's Marketing Agent is now live inside Amazon Quick — published to the AWS Machine Learning blog today — letting mar",
-        "The Reuters Institute 2026 Digital News Report — published this week and circulating widely today — confirms AI chatbots"
-      ]
-    },
-    {
       "date": "2026-06-23",
       "channel": "social",
       "topics": [
@@ -190,15 +154,6 @@
     },
     {
       "date": "2026-07-04",
-      "channel": "social",
-      "topics": [
-        "Instagram comments are getting visual—users can now add photos directly in the comment section under Instagram posts and",
-        "Threads has reached 500 million monthly active users and is launching a suite of highly-requested features including cus",
-        "The \"You Look Like the 4th of July\" audio (Jennifer Coolidge clip) spikes hard over the holiday weekend—post July 3rd or"
-      ]
-    },
-    {
-      "date": "2026-07-04",
       "channel": "ai",
       "topics": [
         "Anthropic launched Claude Sonnet 5 on June 30, 2026 and made it the default model for every Free and Pro Claude user sta",
@@ -213,6 +168,33 @@
         "World prediction market launched July 1 inside Phantom wallet, enabling on-chain event contract trading powered by Chain",
         "OKX unveiled OKX.ai on June 30—a marketplace combining AI agent hiring, onchain identity, stablecoin payments and reputa",
         "Solana implemented Solana Governance Proposals system where validators with 100,000 SOL can signal network direction, an"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "social",
+      "topics": [
+        "Instagram Threads — Live Chat now supports up to three co-hosts to manage conversations",
+        "Reddit — Split Testing now rolled out to all advertisers, a self-serve A/B testing tool inside Reddit Ads Manager to com",
+        "Instagram — \"Wait, Let Me Wipe the Camera\" transition and \"What Sound Does It Make?\" format are driving serious swipe-th"
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "channel": "ai",
+      "topics": [
+        "Cursor launches native iOS app in public beta, letting developers launch cloud agents and control local agents from iPho",
+        "X launched a hosted MCP so Grok, Cursor and other MCP-compatible tools can connect to X API and developer docs without b",
+        "Cursor iOS app in public beta lets developers launch AI coding agents in cloud or remotely control local agents from pho"
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "channel": "web3",
+      "topics": [
+        "On July 2, 2026, Securitize became the first company to debut its stock simultaneously on NYSE and on-chain, issuing $26",
+        "Robinhood unveiled the Public Mainnet of Robinhood Chain at a London keynote on July 1, 2026, as part of the company's l",
+        "Ondo Finance announced the first live solution of third-party tokenized U.S. securities operating entirely within the ex"
       ]
     }
   ]
