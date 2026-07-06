@@ -196,6 +196,24 @@
         "Robinhood unveiled the Public Mainnet of Robinhood Chain at a London keynote on July 1, 2026, as part of the company's l",
         "Ondo Finance announced the first live solution of third-party tokenized U.S. securities operating entirely within the ex"
       ]
+    },
+    {
+      "date": "2026-07-06",
+      "channel": "social",
+      "topics": [
+        "Snapchat — AI conversational agents embed directly in Chat feed, not as interruption ads; conversational commerce moving",
+        "TikTok — Emotional authenticity (\"hiding the joy God gave me\") and event-driven content spiking; July is stacked with bl",
+        "Instagram + Google Search —"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "channel": "ai",
+      "topics": [
+        "Cloudflare launches granular AI bot controls distinguishing Search, Agent, and Training crawlers, available to all custo",
+        "Cloudflare evolving \"Pay Per Crawl\" into \"Pay Per Use\" model allowing publishers to charge AI companies when their conte",
+        "Mistral opening early access to open-weight frontier model in July 2026, positioning to compete with closed OpenAI/Anthr"
+      ]
     }
   ]
 }
