@@ -214,6 +214,22 @@
         "Cloudflare evolving \"Pay Per Crawl\" into \"Pay Per Use\" model allowing publishers to charge AI companies when their conte",
         "Mistral opening early access to open-weight frontier model in July 2026, positioning to compete with closed OpenAI/Anthr"
       ]
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "social",
+      "topics": [
+        "Instagram —"
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "ai",
+      "topics": [
+        "Google's NotebookLM now turns dense documents into 60-second vertical TikTok-style videos, announced June 30 and rolling",
+        "Grok's Voice Agent Builder opened to everyone on July 1: a no-code tool to create a talking AI agent with 80+ voices and",
+        "Alteryx Agent Studio entered preview in June 2026, allowing analysts to convert existing analytics workflows into autono"
+      ]
     }
   ]
 }
