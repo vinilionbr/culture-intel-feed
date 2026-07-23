@@ -1,236 +1,46 @@
 {
   "signals": [
     {
-      "date": "2026-06-23",
+      "date": "2026-07-23",
       "channel": "social",
       "topics": [
-        "Instagram — Carousels expand to 20 frames; mixed media (images + video) outperforms image-only carousels by structural m",
-        "YouTube — Creator event season launched June 22: VidCon kicks off June 25–27 with algorithm breakdowns, growth/monetizat",
-        "LinkedIn — Native text posts now outperforming PDF carousels by significant margin: 147-account analysis shows native po"
+        "Instagram —"
       ]
     },
     {
-      "date": "2026-06-23",
+      "date": "2026-07-23",
       "channel": "culture",
       "topics": [
-        "The \"all-white everything\" era is giving way to a \"my room, my rules\" mentality, with a cultural shift away from perfect",
-        "88% of people surveyed strongly or somewhat agree that video generation AI tools have resulted in less trust in news on ",
-        "Gen Z tends to buy into identity, Millennials into lifestyle, Gen X into functionality, and Boomers into comfort."
+        "Authenticity becomes the primary currency, with marketers prioritizing micro-communities, employee influencers, and in-p",
+        "Consumers will seek comfort, authenticity, and optimism to quiet the constant noise of the world and social media. Comfo",
+        "Gen Z buys into \"identity,\" millennials into \"lifestyle,\" Gen X into \"functionality\" and boomers into \"comfort.\""
       ]
     },
     {
-      "date": "2026-06-23",
+      "date": "2026-07-23",
       "channel": "trends",
       "topics": [
-        "The carousel keys off the verse lyric \"baby boy, honeybee, god I love the way you look at me\" from Olivia Rodrigo's new ",
-        "Game Time by Future and Tyla just dropped today as part of the FIFA World Cup 2026 soundtrack, and Instagram is all over",
-        "Cleaning, packing, and morning routines are leaning into sharp physical sounds: peeling tape, opening jars, spraying, wi"
+        "Jennifer Coolidge's Legally Blonde 2 line \"you look like the Fourth of July, you make me want a hot dog real bad\" is hav",
+        "Ian McConnell's \"Bangladesh\" is a 49-second track where the opening sounds like a real relationship complaint, then esca",
+        "Creators throw an anime-style \"summoning\" hand sign borrowed from Jujutsu Kaisen, then cut hard on the beat drop to reve"
       ]
     },
     {
-      "date": "2026-06-26",
-      "channel": "social",
-      "topics": [
-        "YouTube Shorts — Clear Screen mode hides all UI icons and text for immersive, distraction-free viewing",
-        "Instagram — \"Views\" is now the unified primary metric across all formats (Reels, Stories, Photos, Carousels), replacing ",
-        "Facebook — New \"User True Interest Survey\" (UTIS) model directly asks viewers \"How well does this video match your inter"
-      ]
-    },
-    {
-      "date": "2026-06-26",
-      "channel": "culture",
-      "topics": [
-        "\udc49 WHY IT MATTERS:",
-        "\udc49 WHY IT MATTERS:",
-        "\udc49 WHY IT MATTERS:"
-      ]
-    },
-    {
-      "date": "2026-06-26",
-      "channel": "trends",
-      "topics": [
-        "\udc49 WHY IT MATTERS:",
-        "\udc49 WHY IT MATTERS:",
-        "\udc49 WHY IT MATTERS:"
-      ]
-    },
-    {
-      "date": "2026-06-27",
-      "channel": "social",
-      "topics": [
-        "Threads reached 500 million monthly active users on June 16, 2026, and is launching new community features including cus",
-        "Facebook Reels views and time spent watching doubled in the second half of 2025 compared to the same period the year bef",
-        "LinkedIn's June 2026 algorithm update reprioritised content relevancy signals, conversational context, and creator relia"
-      ]
-    },
-    {
-      "date": "2026-06-28",
+      "date": "2026-07-23",
       "channel": "ai",
       "topics": [
-        "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity",
-        "MiniMax M3, the first open-weight model to combine frontier-tier software engineering capabilities with a 1-million-toke",
-        "Meta's new \"AI Mode,\" a new way to search Facebook that uses Meta AI to surface answers pulled from public posts across "
+        "Google released three new Gemini Flash AI models on July 21, 2026: Gemini 3.6 Flash reduces output token consumption by ",
+        "Google introduced Gemini 3.5 Flash Cyber, a lightweight cybersecurity model fine-tuned to find, validate, and patch vuln",
+        "Hugging Face detected an AI agent that compromised its infrastructure. The incident was driven by a combination of OpenA"
       ]
     },
     {
-      "date": "2026-06-29",
-      "channel": "social",
-      "topics": [
-        "Threads — Launched new communities features after reaching 500M MAU on June 23",
-        "TikTok/Instagram — Olivia Rodrigo album carousel format dominates (emotional multi-slide templates)"
-      ]
-    },
-    {
-      "date": "2026-06-29",
-      "channel": "ai",
-      "topics": [
-        "OpenAI previews GPT-5.6 family: Sol flagship, Terra for everyday work at 2x lower cost, Luna for speed",
-        "Codex Remote now generally available on all ChatGPT plans—control Mac/Windows hosts from mobile app via QR pairing",
-        "GPT-5.6 introduces max reasoning effort and ultra mode leveraging subagents for complex work acceleration"
-      ]
-    },
-    {
-      "date": "2026-06-30",
-      "channel": "social",
-      "topics": [
-        "Instagram — New fonts rolling out for Reels and Stories starting June 30, expanding creator design flexibility",
-        "Instagram — Your Algorithm feature is receiving new access points and features",
-        "X — Grok AI upgraded to support video generation from up to 7 input images, creating videos up to 30 seconds long, avail"
-      ]
-    },
-    {
-      "date": "2026-07-01",
-      "channel": "social",
-      "topics": [
-        "Google search integration turns professional account content into organic SEO discovery",
-        "\"Make me move\" AI turns static photos into short-form video with one click",
-        "AI Sponsored Snaps embed brands as conversational chat partners, not interrupting ads"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "channel": "social",
-      "topics": [
-        "LinkedIn — Video views grew 36% year-over-year, with video creation growing 2x faster than any other post type",
-        "Facebook — Views and time spent watching Reels approximately doubled in the second half of 2025 compared to the same per",
-        "Threads — In January 2026, Threads reached 141.5 million daily active app users, officially surpassing X's 125 million"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "channel": "ai",
-      "topics": [
-        "Google announced Gemini Omni Flash on June 30, 2026 — a high-quality, cost-efficient model for video generation and conv",
-        "Workspace admins and owners can now manage plugins from Workspace settings > Plugins, and can review and manage actions ",
-        "Gemini now lets you turn photos into eight-second videos with sound, rolling out today to Google AI Pro and Ultra subscr"
-      ]
-    },
-    {
-      "date": "2026-07-03",
-      "channel": "social",
-      "topics": [
-        "Pinterest — AI tools for shopping and discovery: Business Assistant, new Performance+ creative model, Ask Pinterest laun",
-        "Facebook — New \"User True Interest Survey\" tests viewer feedback (1-5 scale) after Reel playback to refine recommendatio",
-        "X (formerly Twitter) — Grok-powered transformer algorithm now weights replies 27x more than likes; conversation (reply +"
-      ]
-    },
-    {
-      "date": "2026-07-03",
-      "channel": "ai",
-      "topics": [
-        "Claude Sonnet 5 launched June 30 and is now the default model for Free and Pro plans, approaching Opus 4.8 performance a",
-        "Google released Gemini 3.1 Flash Image at $0.50 input per million tokens and $3.00 output, and Gemini 3 Pro Image at $2.",
-        "Fable 5 is fully restored as of July 1, 2026—20 days after the US government's export control order pulled it offline on"
-      ]
-    },
-    {
-      "date": "2026-07-03",
+      "date": "2026-07-23",
       "channel": "web3",
       "topics": [
-        "World launched on July 1, 2026, as a fully onchain prediction market available inside the Phantom wallet and at world.xy",
-        "A new independent nonprofit, Ethereum Institutional, has launched to accelerate institutional adoption of Ethereum, prov",
-        "A consortium of more than 140 financial and technology companies introduced Open USD, a dollar stablecoin whose reserve "
-      ]
-    },
-    {
-      "date": "2026-07-04",
-      "channel": "ai",
-      "topics": [
-        "Anthropic launched Claude Sonnet 5 on June 30, 2026 and made it the default model for every Free and Pro Claude user sta",
-        "Claude Platform rate limits increased with simplified tiers no longer based on API spend and 5x higher limits for the la",
-        "Square has launched a ChatGPT app and Claude plugin letting U.S. Food and Beverage sellers accept orders placed directly"
-      ]
-    },
-    {
-      "date": "2026-07-04",
-      "channel": "web3",
-      "topics": [
-        "World prediction market launched July 1 inside Phantom wallet, enabling on-chain event contract trading powered by Chain",
-        "OKX unveiled OKX.ai on June 30—a marketplace combining AI agent hiring, onchain identity, stablecoin payments and reputa",
-        "Solana implemented Solana Governance Proposals system where validators with 100,000 SOL can signal network direction, an"
-      ]
-    },
-    {
-      "date": "2026-07-04",
-      "channel": "social",
-      "topics": [
-        "Instagram Threads — Live Chat now supports up to three co-hosts to manage conversations",
-        "Reddit — Split Testing now rolled out to all advertisers, a self-serve A/B testing tool inside Reddit Ads Manager to com",
-        "Instagram — \"Wait, Let Me Wipe the Camera\" transition and \"What Sound Does It Make?\" format are driving serious swipe-th"
-      ]
-    },
-    {
-      "date": "2026-07-05",
-      "channel": "ai",
-      "topics": [
-        "Cursor launches native iOS app in public beta, letting developers launch cloud agents and control local agents from iPho",
-        "X launched a hosted MCP so Grok, Cursor and other MCP-compatible tools can connect to X API and developer docs without b",
-        "Cursor iOS app in public beta lets developers launch AI coding agents in cloud or remotely control local agents from pho"
-      ]
-    },
-    {
-      "date": "2026-07-05",
-      "channel": "web3",
-      "topics": [
-        "On July 2, 2026, Securitize became the first company to debut its stock simultaneously on NYSE and on-chain, issuing $26",
-        "Robinhood unveiled the Public Mainnet of Robinhood Chain at a London keynote on July 1, 2026, as part of the company's l",
-        "Ondo Finance announced the first live solution of third-party tokenized U.S. securities operating entirely within the ex"
-      ]
-    },
-    {
-      "date": "2026-07-06",
-      "channel": "social",
-      "topics": [
-        "Snapchat — AI conversational agents embed directly in Chat feed, not as interruption ads; conversational commerce moving",
-        "TikTok — Emotional authenticity (\"hiding the joy God gave me\") and event-driven content spiking; July is stacked with bl",
-        "Instagram + Google Search —"
-      ]
-    },
-    {
-      "date": "2026-07-06",
-      "channel": "ai",
-      "topics": [
-        "Cloudflare launches granular AI bot controls distinguishing Search, Agent, and Training crawlers, available to all custo",
-        "Cloudflare evolving \"Pay Per Crawl\" into \"Pay Per Use\" model allowing publishers to charge AI companies when their conte",
-        "Mistral opening early access to open-weight frontier model in July 2026, positioning to compete with closed OpenAI/Anthr"
-      ]
-    },
-    {
-      "date": "2026-07-07",
-      "channel": "social",
-      "topics": [
-        "TikTok Shop livestreams now ban non-real-time verbal interactions: AI-generated voices, audio recordings, and radio-styl",
-        "LinkedIn rolled out creative tools on July 1, 2026: campaigns running 5+ ad variants see 20% higher click-through rates ",
-        "Instagram updated its Insights interface: new tabs surface engagement activity and audience demographics upfront, plus s"
-      ]
-    },
-    {
-      "date": "2026-07-07",
-      "channel": "ai",
-      "topics": [
-        "Meta launched Muse Image on Tuesday, an AI image-generation model built by Meta Superintelligence Labs",
-        "OpenAI released gpt-realtime-2.1 and gpt-realtime-2.1-mini on July 6, 2026, with realtime voice update cutting 25% p95 l",
-        "Meta launched Muse, a new image generation model integrated into Meta AI, announced July 7, 2026, supporting photo resto"
+        "Telegram founder Pavel Durov announced on July 21, 2026, that the messaging app will roll out a native, non-custodial wa",
+        "Decrypt is teaming up with Opera to bring its in-depth coverage of Web3, cryptocurrency and emerging tech to the web bro",
+        "The 5th Annual Web3 Investor Day is happening today, July 23, 2026, at the Willis Tower in Chicago. This one-day Web3 ev"
       ]
     }
   ]
