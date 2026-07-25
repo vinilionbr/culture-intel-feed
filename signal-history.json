@@ -78,6 +78,36 @@
         "Telegram will ship a native non-custodial Gram wallet to all 1 billion+ monthly active users \"this summer,\" with default",
         "July's NFT market shows fewer transactions but a doubling in average prices, driven by creator-focused platforms."
       ]
+    },
+    {
+      "date": "2026-07-25",
+      "channel": "social",
+      "topics": [
+        "Instagram — Photo comments now live; visual reactions outperforming text-only engagement",
+        "TikTok & Instagram — Absurdist audio combined with single-take skits now outperforming polished brand content",
+        "All platforms — Searchable captions and social SEO now primary discovery mechanic, outweighting hashtags"
+      ]
+    },
+    {
+      "date": "2026-07-25",
+      "channel": "culture",
+      "topics": [
+        "SIGNAL 1: FROM VIRALITY TO NICHE COMMUNITY — THE DEATH OF THE FEED'S CULTURAL CENTRALITY",
+        "Consumers rejecting algorithmic feeds for smaller, intentional communities; social discovery fractured by identity-drive",
+        "SIGNAL 2: IDENTITY CURATION OVER PERFECTIONISM — THE \"MOOD-SHIFTING\" CONSUMER",
+        "Generational shift from \"reinvention\" to \"self-expression as it is\"; comfort and authenticity prioritized over aspiratio",
+        "SIGNAL 3: THE POLARIZATION ECONOMY — MIDDLE MARKET COLLAPSE & BIFURCATED CONSUMER VALUE SYSTEMS",
+        "Consumer spending fragmented into luxury/premium and value/budget extremes; middle-market brands losing relevance; incom"
+      ]
+    },
+    {
+      "date": "2026-07-25",
+      "channel": "web3",
+      "topics": [
+        "Zora hits record creator participation with 100K+ new assets in 48 hours, 22K+ unique creators in late July",
+        "Claynosaurz allocates real equity—15% of company stock options—to NFT holders, not just tokens",
+        "140-company consortium (Visa, Mastercard, BlackRock, Coinbase) unveils Open USD—a partner-governed stablecoin where yiel"
+      ]
     }
   ]
 }
