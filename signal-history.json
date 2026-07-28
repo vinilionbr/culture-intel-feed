@@ -162,6 +162,33 @@
         "Ethereum Foundation livestream on July 30 at 14:30 UTC with free Torch commemorative NFT minting within 24 hours after",
         "Rare Evo 2026 returns to Las Vegas July 28-31 at ARIA, bringing chain-agnostic communities, industry leaders, developers"
       ]
+    },
+    {
+      "date": "2026-07-28",
+      "channel": "social",
+      "topics": [
+        "Threads — Meta AI chatbot integrated into DMs, rolling out July 27, 2026",
+        "Instagram — AI-powered detection of unoriginal content, with reposts/aggregated videos getting suppressed reach while or",
+        "TikTok — Completion rate bar for viral reach now at 70%, up from ~50% in 2024"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "channel": "culture",
+      "topics": [
+        "The real career shift in 2026 is not laziness or disengagement. It's discernment.",
+        "The wellness trends of 2026 share a common thread: wellness is becoming a lifestyle, not a luxury. From functional foods",
+        "Social media in 2026 is defined by three structural shifts: platforms functioning as primary search engines, the primacy"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "channel": "ai",
+      "topics": [
+        "Microsoft launched MAI-Image-2.5-Pro and MAI-Voice-2-Flash on July 23, 2026",
+        "Runway launched Media Router, the world's first model router for generative media on July 23, 2026, which automatically ",
+        "Anthropic shipped \"Record a Skill\" inside Claude Cowork on July 21, 2026—a feature that lets Pro, Max, and Team users sc"
+      ]
     }
   ]
 }
