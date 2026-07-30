@@ -198,6 +198,33 @@
         "The macro cultural shift:",
         "The macro cultural shift:"
       ]
+    },
+    {
+      "date": "2026-07-30",
+      "channel": "social",
+      "topics": [
+        "YouTube — Custom Shorts thumbnails + new Shorts TV prominence reshaping discovery hierarchy for Shorts creators",
+        "Snapchat — Creator Agency Partner Program officially launching, codifying agencies as distinct partner category",
+        "Instagram/TikTok — Single-take, low-production before-and-after formats outperforming polished content by 2-3x; editing "
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "channel": "culture",
+      "topics": [
+        "\udc49 WHY IT MATTERS:",
+        "\udc49 WHY IT MATTERS:",
+        "\udc49 WHY IT MATTERS:"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "channel": "web3",
+      "topics": [
+        "MetaMask adds VietQR bank-to-wallet on-ramp in Vietnam, letting users fund wallets via familiar QR payment method",
+        "Grvt holds Token Generation Event on July 30, with airdrop claims opening at 21:00 same day",
+        "Base launches Verify Onchain—privacy-focused identity tool letting smart contracts verify unique users and reduce Sybil "
+      ]
     }
   ]
 }
