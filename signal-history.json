@@ -261,6 +261,33 @@
         "Google Gemini is offering a free video creation trial that lets users generate up to ten videos at no cost through Augus",
         "OpenAI is launching ChatGPT for Academic Researchers, a free program giving 100,000 scientists, mathematicians, and engi"
       ]
+    },
+    {
+      "date": "2026-08-01",
+      "channel": "social",
+      "topics": [
+        "TikTok — ChatGPT script skits delivered deadpan + nostalgic glow-up transitions (Pitbull/Lady Gaga audio) dominating Aug",
+        "Instagram — Single-take unpolished skits + absurdist audio formats now 2-3x higher reach than edited/polished content; l",
+        "Threads — Live Chat feature now live for community hosts + emoji reactions on individual words reshaping real-time engag"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "channel": "ai",
+      "topics": [
+        "Grok Voice Think Fast 2.0 becomes default model August 5, 2026 with 1.5-2x transcription accuracy improvement",
+        "Meta AI upgraded with Muse Spark 1.1 to plan tasks, integrate email/calendar, create presentations, run multi-step workf",
+        "EU AI Act transparency obligations (marking AI-generated content, disclosing AI interaction) go live August 2, 2026 acro"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "channel": "web3",
+      "topics": [
+        "Bundle, a Web3 rewards startup, emerged from stealth with $5.5M, enabling brands to pool marketing budgets into shared i",
+        "Filta, a face filter NFT marketplace built by veterans from Pixar/Oculus/Facebook, partners with creators to release lim",
+        "Atlas System launched on August 1, 2026, as a Web3 infrastructure project focused on voluntary mutual financing, on-chai"
+      ]
     }
   ]
 }
