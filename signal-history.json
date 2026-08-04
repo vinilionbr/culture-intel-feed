@@ -297,6 +297,33 @@
         "Instagram — Public Story comments now live; visible to all viewers instead of DM-only replies reshaping community dynami",
         "TikTok — Commerce-tagged content now gets algorithmic distribution boost; TikTok Shop product anchors signal prioritized"
       ]
+    },
+    {
+      "date": "2026-08-04",
+      "channel": "social",
+      "topics": [
+        "Facebook — Meta now testing Series Reels format for episodic creator content distribution",
+        "Reddit — CEO Steve Huffman announced platform building TikTok-like video experience converting text posts into multimedi",
+        "Instagram/TikTok — August 2026 shows absurdist audio, single-take skits, and raw unpolished content 2-3x higher reach th"
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "channel": "ai",
+      "topics": [
+        "Grok Voice Think Fast 2.0 becomes default August 5 with 1.5-2× transcription accuracy improvement",
+        "Google Gemini free video creation trial ends today August 4 at 11:59pm PT—10 free videos for users without subscriptions",
+        "AI-driven traffic to Shopify stores grew 8× year-over-year in Q1 2026, with AI-powered order volumes up 13× as agentic c"
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "channel": "web3",
+      "topics": [
+        "Fake World Assets' 1% daily token emission phase ends today (August 4), 2026",
+        "OpenSea Mobile rolled out on iOS and Android, enabling multi-chain portfolio trading and token swaps across 27 chains in",
+        "Fake World Assets became Ethereum's second-highest revenue protocol in 4 days post-launch (July 20–25), generating $1.6M"
+      ]
     }
   ]
 }
