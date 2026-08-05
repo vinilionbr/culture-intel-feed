@@ -324,6 +324,33 @@
         "OpenSea Mobile rolled out on iOS and Android, enabling multi-chain portfolio trading and token swaps across 27 chains in",
         "Fake World Assets became Ethereum's second-highest revenue protocol in 4 days post-launch (July 20–25), generating $1.6M"
       ]
+    },
+    {
+      "date": "2026-08-05",
+      "channel": "social",
+      "topics": [
+        "Snapchat — Algorithm now deprioritizes wholly AI-generated videos in Spotlight feed, rewarding authentic human-made cont",
+        "Instagram — Reels hitting emotional extremes (panic, rage, frustration) outperforming neutral content by 2-5x; raw audio",
+        "Facebook — New Seller app launched (Aug 3-4) giving Marketplace sellers centralized tool to manage listings, reach buyer"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "channel": "ai",
+      "topics": [
+        "Grok Voice Think Fast 2.0 becomes default model today, August 5, 2026",
+        "Claude Opus 4.1 retires from API today, August 5, 2026",
+        "YouTube Shorts rolling out Veo 3 Fast for text-to-video generation with native audio for first time"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "channel": "web3",
+      "topics": [
+        "Cloudflare launches programmable stablecoin wallets for AI agents to independently purchase APIs and online content",
+        "CryptoMondays launches 12-month partnership program for Web3 brands seeking global IRL-to-digital activation across 60+ ",
+        "Syntax Verse, a learn-to-earn platform, has grown to 300K+ users by rewarding daily blockchain education with $SYNTAX to"
+      ]
     }
   ]
 }
