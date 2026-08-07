@@ -1,49 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-07-23",
-      "channel": "social",
-      "topics": [
-        "Instagram —"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "channel": "culture",
-      "topics": [
-        "Authenticity becomes the primary currency, with marketers prioritizing micro-communities, employee influencers, and in-p",
-        "Consumers will seek comfort, authenticity, and optimism to quiet the constant noise of the world and social media. Comfo",
-        "Gen Z buys into \"identity,\" millennials into \"lifestyle,\" Gen X into \"functionality\" and boomers into \"comfort.\""
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "channel": "trends",
-      "topics": [
-        "Jennifer Coolidge's Legally Blonde 2 line \"you look like the Fourth of July, you make me want a hot dog real bad\" is hav",
-        "Ian McConnell's \"Bangladesh\" is a 49-second track where the opening sounds like a real relationship complaint, then esca",
-        "Creators throw an anime-style \"summoning\" hand sign borrowed from Jujutsu Kaisen, then cut hard on the beat drop to reve"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "channel": "ai",
-      "topics": [
-        "Google released three new Gemini Flash AI models on July 21, 2026: Gemini 3.6 Flash reduces output token consumption by ",
-        "Google introduced Gemini 3.5 Flash Cyber, a lightweight cybersecurity model fine-tuned to find, validate, and patch vuln",
-        "Hugging Face detected an AI agent that compromised its infrastructure. The incident was driven by a combination of OpenA"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "channel": "web3",
-      "topics": [
-        "Telegram founder Pavel Durov announced on July 21, 2026, that the messaging app will roll out a native, non-custodial wa",
-        "Decrypt is teaming up with Opera to bring its in-depth coverage of Web3, cryptocurrency and emerging tech to the web bro",
-        "The 5th Annual Web3 Investor Day is happening today, July 23, 2026, at the Willis Tower in Chicago. This one-day Web3 ev"
-      ]
-    },
-    {
       "date": "2026-07-24",
       "channel": "social",
       "topics": [
@@ -368,6 +325,14 @@
         "Cloudflare launches programmable stablecoin wallets for AI agents to independently purchase APIs and content",
         "2U2.ai (2U2) launches as AIGC platform designed as the Web3 meme layer for automated content creation, with text-to-meme",
         "OpenSea Mobile rolls out on iOS and Android, enabling multi-chain portfolio trading and token swaps across 27 chains wit"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "channel": "social",
+      "topics": [
+        "Instagram — Single-take unpolished Reels + absurdist audio now pulling 2-3x reach vs. edited content",
+        "Meta — Brand Memory AI generates on-brand creative variations at scale; unified Creator Marketing Hub consolidating infl"
       ]
     }
   ]
