@@ -1,36 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-07-25",
-      "channel": "social",
-      "topics": [
-        "Instagram — Photo comments now live; visual reactions outperforming text-only engagement",
-        "TikTok & Instagram — Absurdist audio combined with single-take skits now outperforming polished brand content",
-        "All platforms — Searchable captions and social SEO now primary discovery mechanic, outweighting hashtags"
-      ]
-    },
-    {
-      "date": "2026-07-25",
-      "channel": "culture",
-      "topics": [
-        "SIGNAL 1: FROM VIRALITY TO NICHE COMMUNITY — THE DEATH OF THE FEED'S CULTURAL CENTRALITY",
-        "Consumers rejecting algorithmic feeds for smaller, intentional communities; social discovery fractured by identity-drive",
-        "SIGNAL 2: IDENTITY CURATION OVER PERFECTIONISM — THE \"MOOD-SHIFTING\" CONSUMER",
-        "Generational shift from \"reinvention\" to \"self-expression as it is\"; comfort and authenticity prioritized over aspiratio",
-        "SIGNAL 3: THE POLARIZATION ECONOMY — MIDDLE MARKET COLLAPSE & BIFURCATED CONSUMER VALUE SYSTEMS",
-        "Consumer spending fragmented into luxury/premium and value/budget extremes; middle-market brands losing relevance; incom"
-      ]
-    },
-    {
-      "date": "2026-07-25",
-      "channel": "web3",
-      "topics": [
-        "Zora hits record creator participation with 100K+ new assets in 48 hours, 22K+ unique creators in late July",
-        "Claynosaurz allocates real equity—15% of company stock options—to NFT holders, not just tokens",
-        "140-company consortium (Visa, Mastercard, BlackRock, Coinbase) unveils Open USD—a partner-governed stablecoin where yiel"
-      ]
-    },
-    {
       "date": "2026-07-26",
       "channel": "social",
       "topics": [
@@ -325,6 +295,24 @@
         "\"Bangladesh\" by Ian McConnell — absurdist audio breaking Instagram Reels after TikTok dominance",
         "\"Seeing How My X Would Respond to a Bully\" — TikTok's trending format where on-screen text sets up (e.g., \"insulting my ",
         "Netflix Documentary Chair-Sit Format — set a slow, swelling documentary score, place a chair in frame, walk in slowly an"
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "channel": "trends",
+      "topics": [
+        "Ian McConnell's \"Bangladesh\" — a 49-second track where the opening line \"you never take me to Bangladesh\" sounds like a ",
+        "This format just crossed over from TikTok and it's already independently trending on Instagram — set a slow, swelling do",
+        "Taylor Swift's \"August\" is the #1 trending song on Instagram Reels as of August 9, 2026, with 2.5M reels using it"
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "channel": "ai",
+      "topics": [
+        "Claude Code auto mode becomes default for Pro, Max, Team users on August 14, 2026",
+        "OpenAI released updated GPT-5.6 Sol on August 6 with 68% fewer factual errors and a reasoning effort slider",
+        "Alibaba released Qwen3.8-Max on August 3—2.4T-param multimodal model supporting text, image, and video input at $2/$6 pe"
       ]
     }
   ]
