@@ -1,42 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-07-27",
-      "channel": "social",
-      "topics": [
-        "Instagram has rolled out a new carousel upgrade that lets users give each slide its own caption, allowing creators to ad",
-        "X now runs on a Grok-powered transformer model with steep engagement weighting, where a reply is worth roughly 27 times ",
-        "Instagram is rolling out Your Algo to all English-speaking users worldwide, allowing people to fine-tune their Reels fee"
-      ]
-    },
-    {
-      "date": "2026-07-27",
-      "channel": "culture",
-      "topics": [
-        "In an era of sustained uncertainty, long-term goals are losing power.",
-        "Only 19% of users in 2026 say they feel excited about AI, down from 50% just two years ago — a collapse in sentiment dri",
-        "Consumer behavior is shifting—from episodic content that builds long-term engagement to smaller, niche spaces that drive"
-      ]
-    },
-    {
-      "date": "2026-07-27",
-      "channel": "ai",
-      "topics": [
-        "<cite index=\"84-1,85-2\">Kimi K3's 2.8-trillion-parameter model weights arrive today at 00:00 UTC July 27 (July 26, 8 PM ",
-        "<cite index=\"100-2,100-7\">Claude Opus 5 launched July 24, 2026, and is a real improvement for the harder parts of market",
-        "<cite index=\"34-1,34-2\">Meta AI releases Muse Spark 1.1, a major multimodal reasoning upgrade with stronger agentic task"
-      ]
-    },
-    {
-      "date": "2026-07-27",
-      "channel": "web3",
-      "topics": [
-        "SuperRare releases collection by eleven artists on July 27 in support of Rhizome's 25th anniversary",
-        "Ethereum Foundation livestream on July 30 at 14:30 UTC with free Torch commemorative NFT minting within 24 hours after",
-        "Rare Evo 2026 returns to Las Vegas July 28-31 at ARIA, bringing chain-agnostic communities, industry leaders, developers"
-      ]
-    },
-    {
       "date": "2026-07-28",
       "channel": "culture",
       "topics": [
@@ -322,6 +286,24 @@
         "GPT-Live in ChatGPT Voice now supports file uploads and Projects. You can now upload files in a voice conversation and a",
         "Claude Code will soon run auto mode by default for Pro, Max, and Team plans, enabling longer-running autonomous work. St",
         "As of July 30, the AI agent can now use your actual desktop Chrome browser to complete tasks — including accessing sites"
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "channel": "ai",
+      "topics": [
+        "Meta's Muse Glimmer runs entirely on consumer hardware, free, released Aug 10",
+        "Seedance 2.5 enables 30-second continuous AI video + 50 multimodal reference assets in one workflow",
+        "Gemini Intelligence on Pixel 11 brings task automation, screen context, Superfill for Chrome, and Create My Widget from "
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "channel": "web3",
+      "topics": [
+        "ether.fi teased major announcement for August 13, 2026, typically involving new product features, strategic partnerships",
+        "AI agents now contribute over 30% of total prediction market volume; Polymarket and Kalshi are locked in supremacy battl",
+        "ANOME Protocol restarted Block Burst Mining on August 11, 2026 with all five features unlocked, adding dynamic reward ca"
       ]
     }
   ]
