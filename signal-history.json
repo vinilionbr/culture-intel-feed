@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-07-28",
-      "channel": "culture",
-      "topics": [
-        "The real career shift in 2026 is not laziness or disengagement. It's discernment.",
-        "The wellness trends of 2026 share a common thread: wellness is becoming a lifestyle, not a luxury. From functional foods",
-        "Social media in 2026 is defined by three structural shifts: platforms functioning as primary search engines, the primacy"
-      ]
-    },
-    {
-      "date": "2026-07-28",
-      "channel": "ai",
-      "topics": [
-        "Microsoft launched MAI-Image-2.5-Pro and MAI-Voice-2-Flash on July 23, 2026",
-        "Runway launched Media Router, the world's first model router for generative media on July 23, 2026, which automatically ",
-        "Anthropic shipped \"Record a Skill\" inside Claude Cowork on July 21, 2026—a feature that lets Pro, Max, and Team users sc"
-      ]
-    },
-    {
-      "date": "2026-07-28",
-      "channel": "social",
-      "topics": [
-        "Instagram — Low-production single-take Reels, raw unpolished content with strong first-3-second hooks outperforming high",
-        "Instagram — \"Your Algo\" rolling out worldwide to English speakers, letting users manually add/remove topics from Reels f",
-        "TikTok — Completion rate bar for viral reach now 70% (up from ~50% in 2024); videos in 60-to-180-second range pulling mo"
-      ]
-    },
-    {
       "date": "2026-07-29",
       "channel": "culture",
       "topics": [
@@ -304,6 +277,24 @@
         "ether.fi teased major announcement for August 13, 2026, typically involving new product features, strategic partnerships",
         "AI agents now contribute over 30% of total prediction market volume; Polymarket and Kalshi are locked in supremacy battl",
         "ANOME Protocol restarted Block Burst Mining on August 11, 2026 with all five features unlocked, adding dynamic reward ca"
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "channel": "social",
+      "topics": [
+        "Facebook — Stand-alone Creator Studio app officially rolls out with AI-powered personalized tips to grow audiences",
+        "Meta/Facebook — New \"Target audience\" filter now live in Facebook Creator Marketplace and Instagram Creator Marketplace",
+        "Pinterest — Adds toggle to dial down AI-generated content in feed, currently the only real off-switch any major platform"
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "channel": "ai",
+      "topics": [
+        "Google unveiled the Pixel 11 series at Made by Google 2026 on August 12, showing off new Gemini-powered features across ",
+        "OpenAI's Astra reasoning family was officially unveiled and used as an autonomous system to solve ten long-standing math",
+        "Google expanded \"Live Transcribe\" to support American Sign Language; using the Pixel Camera, users can have sign languag"
       ]
     }
   ]
