@@ -1,15 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-07-29",
-      "channel": "culture",
-      "topics": [
-        "The macro cultural shift:",
-        "The macro cultural shift:",
-        "The macro cultural shift:"
-      ]
-    },
-    {
       "date": "2026-07-30",
       "channel": "social",
       "topics": [
@@ -295,6 +286,33 @@
         "Google unveiled the Pixel 11 series at Made by Google 2026 on August 12, showing off new Gemini-powered features across ",
         "OpenAI's Astra reasoning family was officially unveiled and used as an autonomous system to solve ten long-standing math",
         "Google expanded \"Live Transcribe\" to support American Sign Language; using the Pixel Camera, users can have sign languag"
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "channel": "social",
+      "topics": [
+        "Facebook — Meta announced 5 core changes around August 8, 2026: redesigned post composer, simpler \"For You\" feed layout,",
+        "TikTok — Phoebe Bridgers' Lost Weekend album drops August 14th; Weezer and Prince posthumous releases land same week, dr",
+        "Facebook/Meta — New \"AI Mode\" powered by Meta AI for Facebook Search; AI-powered photo and video editing tools for Stori"
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "channel": "ai",
+      "topics": [
+        "Grok 4.6 launches with 500K context, optimized for long-running agents at $2/$6 per million tokens",
+        "Google DeepMind releases SL2T—massively multilingual sign-language-to-text model powering sign-to-text dictation in Gboa",
+        "Twitch adds AI training opt-out on August 12; all creators auto-enrolled in Amazon generative AI model training without "
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "channel": "web3",
+      "topics": [
+        "ether.fi launches next-generation crypto neobank adding tokenized stocks, metals, portfolio borrowing and expanded fiat ",
+        "SEC scheduled open meeting for August 14 at 10:00 a.m. ET to consider proposed tailored offering regime for certain inve",
+        "Uniswap launched Pools, a token-launch platform on Robinhood Chain, supporting crowd and instant launch models with auto"
       ]
     }
   ]
