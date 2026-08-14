@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-07-30",
-      "channel": "social",
-      "topics": [
-        "YouTube — Custom Shorts thumbnails + new Shorts TV prominence reshaping discovery hierarchy for Shorts creators",
-        "Snapchat — Creator Agency Partner Program officially launching, codifying agencies as distinct partner category",
-        "Instagram/TikTok — Single-take, low-production before-and-after formats outperforming polished content by 2-3x; editing "
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "channel": "culture",
-      "topics": [
-        "\udc49 WHY IT MATTERS:",
-        "\udc49 WHY IT MATTERS:",
-        "\udc49 WHY IT MATTERS:"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "channel": "web3",
-      "topics": [
-        "MetaMask adds VietQR bank-to-wallet on-ramp in Vietnam, letting users fund wallets via familiar QR payment method",
-        "Grvt holds Token Generation Event on July 30, with airdrop claims opening at 21:00 same day",
-        "Base launches Verify Onchain—privacy-focused identity tool letting smart contracts verify unique users and reduce Sybil "
-      ]
-    },
-    {
       "date": "2026-07-31",
       "channel": "social",
       "topics": [
@@ -313,6 +286,33 @@
         "ether.fi launches next-generation crypto neobank adding tokenized stocks, metals, portfolio borrowing and expanded fiat ",
         "SEC scheduled open meeting for August 14 at 10:00 a.m. ET to consider proposed tailored offering regime for certain inve",
         "Uniswap launched Pools, a token-launch platform on Robinhood Chain, supporting crowd and instant launch models with auto"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "channel": "social",
+      "topics": [
+        "TikTok — Phoebe Bridgers' Lost Weekend album drops today (August 14); simultaneous Weezer/Prince posthumous releases sam",
+        "Instagram — Ian McConnell's \"Bangladesh\" audio format; \"Netflix Documentary\" chair-sit crossing from TikTok with 336M-vi",
+        "Multi-platform — Authenticity beats polish: human-made imperfect content + community interaction (saves, replies, commen"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "channel": "culture",
+      "topics": [
+        "Consumer behavior is shifting—from episodic content that builds long-term engagement to smaller, niche spaces that drive",
+        "Consumers will seek comfort, authenticity, and optimism to quiet the constant noise of the world and social media. Comfo",
+        "Social media in 2026 is defined by three structural shifts: platforms functioning as primary search engines, the primacy"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "channel": "ai",
+      "topics": [
+        "OpenAI launches Ultrafast, a new service tier running GPT-5.6 Sol up to 14× faster than Standard processing",
+        "DeepSeek launches V4 Pro GA with flexible reasoning effort: low for simple tasks, high for daily agent workflows, max fo",
+        "Alibaba's Wan 3.0 in public beta generates native 30-second video clips with audio in a single pass, accepting documents"
       ]
     }
   ]
