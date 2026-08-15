@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-07-31",
-      "channel": "social",
-      "topics": [
-        "YouTube Shorts — Partner Program creators now upload custom thumbnails to Shorts; TV browsing surfaces drive thumbnail i",
-        "TikTok — Two massive album/film releases dropping same day (today, July 31); synchronized audio collision driving event-",
-        "Facebook/Meta — Community content now dictates AI search visibility; Forum + AI Mode shifts discovery from individuals t"
-      ]
-    },
-    {
-      "date": "2026-07-31",
-      "channel": "ai",
-      "topics": [
-        "Ideogram has launched Object Remover, which erases selected objects, text, or distractions while preserving shadows, ref",
-        "xAI announced Grok Voice Think Fast 2.0, a next-generation voice model with improved intelligence, transcription accurac",
-        "Starting today, you can create ten videos at no cost in Gemini until 11:59pm PT on August 4th, 2026, by selecting \"Creat"
-      ]
-    },
-    {
-      "date": "2026-07-31",
-      "channel": "web3",
-      "topics": [
-        "Ten European financial institutions launched Regulated Layer One (RL1) on July 29, 2026—a member-owned blockchain cooper",
-        "NBA veteran Tristan Thompson launched basketball.fun, a new prediction market platform that turns top athletes into trad",
-        "Hamster Kombat's smooth integration between the game and its wallet is one of the main reasons it has become one of the "
-      ]
-    },
-    {
       "date": "2026-08-01",
       "channel": "ai",
       "topics": [
@@ -313,6 +286,45 @@
         "OpenAI launches Ultrafast, a new service tier running GPT-5.6 Sol up to 14× faster than Standard processing",
         "DeepSeek launches V4 Pro GA with flexible reasoning effort: low for simple tasks, high for daily agent workflows, max fo",
         "Alibaba's Wan 3.0 in public beta generates native 30-second video clips with audio in a single pass, accepting documents"
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "channel": "social",
+      "topics": [
+        "Replace Audio feature lets creators change soundtrack on published feed posts or carousels without deleting them, refres",
+        "LinkedIn's new reporting tool lets any member flag a post that \"seems like AI slop,\" giving the platform a live signal t",
+        "Let me search one more time for today's most recent signals:",
+        "Instagram — Replace Audio feature lets creators change music on published feed posts and carousels without deleting them",
+        "LinkedIn — New \"seems like AI slop\" reporting button lets members flag AI-generated posts; platform has also removed \"Wr",
+        "TikTok Shop — Five new merchant tools added: Automated Affiliate Commission Receipts, Creator Picks, Bulk Editing Tools,"
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "channel": "culture",
+      "topics": [
+        "Consumer engagement is migrating from episodic, broad-reach content toward smaller, community-driven spaces where depth ",
+        "Younger consumers now prioritize functional, convenient wellness options; older households focus on preventive care—a li",
+        "The five-year plan is dead; consumers can't envision futures beyond 24 months and seek grounded optimism in the present "
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "channel": "ai",
+      "topics": [
+        "DeepSeek launches DeepSeek-V4-Pro in general availability with flexible reasoning effort levels—low for simple tasks, hi",
+        "Wan 3.0 is in public beta since August 6, generating native 30-second clips at up to 1080p with audio in the same pass",
+        "OpenAI made GPT-5.6 Luna text chat unlimited for Free and Go users starting August 7, 2026"
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "channel": "web3",
+      "topics": [
+        "Spritehood NFT mint generated $1.28M on Robinhood Chain in 53 minutes on August 11, 2026.",
+        "Circle announced founding validator cohort for Arc on August 5, 2026; Arc is on track for public mainnet launch Septembe",
+        "Robinhood Chain is processing roughly twice the NFT trading volume of Ethereum as of August 13, 2026."
       ]
     }
   ]
