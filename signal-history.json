@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-08-01",
-      "channel": "ai",
-      "topics": [
-        "xAI launched Grok Voice Think Fast 2.0, its most capable speech-to-speech voice model with improved intelligence and tra",
-        "Google Gemini is offering a free video creation trial that lets users generate up to ten videos at no cost through Augus",
-        "OpenAI is launching ChatGPT for Academic Researchers, a free program giving 100,000 scientists, mathematicians, and engi"
-      ]
-    },
-    {
-      "date": "2026-08-01",
-      "channel": "social",
-      "topics": [
-        "TikTok — ChatGPT script skits delivered deadpan + nostalgic glow-up transitions (Pitbull/Lady Gaga audio) dominating Aug",
-        "Instagram — Single-take unpolished skits + absurdist audio formats now 2-3x higher reach than edited/polished content; l",
-        "Threads — Live Chat feature now live for community hosts + emoji reactions on individual words reshaping real-time engag"
-      ]
-    },
-    {
       "date": "2026-08-02",
       "channel": "ai",
       "topics": [
@@ -325,6 +307,32 @@
         "Spritehood NFT mint generated $1.28M on Robinhood Chain in 53 minutes on August 11, 2026.",
         "Circle announced founding validator cohort for Arc on August 5, 2026; Arc is on track for public mainnet launch Septembe",
         "Robinhood Chain is processing roughly twice the NFT trading volume of Ethereum as of August 13, 2026."
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "channel": "social",
+      "topics": [
+        "X (Twitter) — Replacing Creator Revenue Sharing with Original Content Rewards; stopped new enrollments August 7, rolling",
+        "Facebook Creator Studio app (iOS) — AI-powered standalone app launched August 12 with personalized recommendations, AI c",
+        "Reddit — Testing \"Read\" and \"Watch\" feeds splitting text and video content into separate feeds; rolling out fully in com"
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "channel": "culture",
+      "topics": [
+        "Younger consumers rejecting minimalism, using collectibles, vintage pieces, and tangible objects as primary identity sig",
+        "Consumers actively penalizing AI-generated brand content; trust and long-term ROI shifting to creators with genuine cred",
+        "Younger consumers selectively curating trends that align with personal identity rather than adopting dominant trends; tr"
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "channel": "ai",
+      "topics": [
+        "Suno released Studio 2.0 on August 13, 2026, a major upgrade adding MIDI recording and editing, a session-aware chat col",
+        "DeepSeek officially released its V4-Pro model on Thursday, making it available across the company's app, web interface, "
       ]
     }
   ]
