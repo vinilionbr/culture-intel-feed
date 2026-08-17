@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-08-02",
-      "channel": "ai",
-      "topics": [
-        "Grok Voice Think Fast 2.0 becomes default model August 5, 2026 with 1.5-2x transcription accuracy improvement",
-        "Meta AI upgraded with Muse Spark 1.1 to plan tasks, integrate email/calendar, create presentations, run multi-step workf",
-        "EU AI Act transparency obligations (marking AI-generated content, disclosing AI interaction) go live August 2, 2026 acro"
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "channel": "web3",
-      "topics": [
-        "Bundle, a Web3 rewards startup, emerged from stealth with $5.5M, enabling brands to pool marketing budgets into shared i",
-        "Filta, a face filter NFT marketplace built by veterans from Pixar/Oculus/Facebook, partners with creators to release lim",
-        "Atlas System launched on August 1, 2026, as a Web3 infrastructure project focused on voluntary mutual financing, on-chai"
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "channel": "social",
-      "topics": [
-        "Instagram & TikTok — Absurdist single-take skits + low-production audio formats outperforming polished edits by 2-3x",
-        "Instagram — Public Story comments now live; visible to all viewers instead of DM-only replies reshaping community dynami",
-        "TikTok — Commerce-tagged content now gets algorithmic distribution boost; TikTok Shop product anchors signal prioritized"
-      ]
-    },
-    {
       "date": "2026-08-04",
       "channel": "social",
       "topics": [
@@ -333,6 +306,31 @@
       "topics": [
         "Suno released Studio 2.0 on August 13, 2026, a major upgrade adding MIDI recording and editing, a session-aware chat col",
         "DeepSeek officially released its V4-Pro model on Thursday, making it available across the company's app, web interface, "
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "channel": "social",
+      "topics": [
+        "Reddit — CEO confirmed \"Spoken Reddit\" video format testing before year-end; AI narration of viral posts",
+        "Instagram — Official creator advisory emphasizes first 1-3 seconds as completion-rate lever for algorithm distribution",
+        "Snapchat — AI-powered chatbot now embedded in Ads Manager for campaign planning, creative improvement, and performance o"
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "channel": "culture",
+      "topics": [
+        "Gen Z is rejecting algorithmic performance culture—seeking spontaneity, offline authenticity, and unmediated social spac",
+        "Younger consumers are radically fragmenting their identities across platforms—treating each space as a \"side quest\" requ",
+        "Maximal, \"anti-perfect\" aesthetics are replacing minimalism—signalling a cultural rejection of polished aspiration in fa"
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "channel": "web3",
+      "topics": [
+        "I'll search systematically for Web3 signals from today (August 18, 2026) with cultural and creative relevance."
       ]
     }
   ]
