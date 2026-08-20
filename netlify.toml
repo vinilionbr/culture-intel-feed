@@ -1,5 +1,9 @@
-# SCOUT dashboard — static site, no build step.
+# Culture Scout dashboard — static site, no build step.
 # Netlify publishes only the docs/ folder; the rest of the repo stays private.
 [build]
   publish = "docs"
   command = ""
+
+# Serverless function powering the in-dashboard "Refresh now" button.
+[functions]
+  directory = "netlify/functions"

@@ -32,8 +32,14 @@ header{position:sticky;top:0;z-index:10;background:rgba(251,250,242,.94);backdro
 .brand .sub{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--slate);margin-top:2px}
 .updated{font-family:var(--mono);font-size:11px;letter-spacing:.06em;color:var(--slate);text-align:right}
 .updated b{color:var(--ink);font-weight:500}
-.refresh-btn{border:1px solid var(--line);background:transparent;color:var(--ink);font-family:var(--mono);text-transform:uppercase;letter-spacing:.1em;font-size:11px;padding:9px 14px;border-radius:var(--r);cursor:pointer}
-.refresh-btn:hover{border-color:var(--ink)}
+.refresh-btn{border:1px solid var(--blue);background:var(--blue);color:var(--linen);font-family:var(--mono);text-transform:uppercase;letter-spacing:.1em;font-size:11px;padding:9px 14px;border-radius:var(--r);cursor:pointer}
+.refresh-btn:hover{background:var(--navy);border-color:var(--navy)}
+.refresh-btn:disabled{opacity:.55;cursor:default;background:var(--slate);border-color:var(--slate)}
+.rstatus{display:none;background:var(--mist);border-bottom:1px solid var(--line)}
+.rstatus.show{display:block}
+.rstatus .bar{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink);padding:10px 0}
+.rstatus .dot{display:inline-block;width:7px;height:7px;background:var(--blue);border-radius:99px;margin-right:8px;vertical-align:middle;animation:pulse 1.1s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
 
 /* Controls */
 .controls{padding:22px 0 14px;border-bottom:1px solid var(--line)}
@@ -93,10 +99,11 @@ footer{border-top:1px solid var(--line);margin-top:50px;padding:26px 0;font-fami
     </div>
     <div style="display:flex;align-items:center;gap:14px">
       <div class="updated" id="updated"></div>
-      <button class="refresh-btn" id="howto">How to refresh</button>
+      <button class="refresh-btn" id="refreshNow">⟳ Refresh now</button>
     </div>
   </div>
 </header>
+<div class="rstatus" id="rstatus"><div class="wrap bar" id="rstatusText"></div></div>
 
 <div class="wrap">
   <div class="controls" id="controls" style="display:none">
@@ -231,7 +238,65 @@ function cardHTML(s){
 document.getElementById('search').oninput = e => { state.q = e.target.value; render(); };
 document.getElementById('favToggle').onclick = e => { state.favOnly = !state.favOnly; e.target.classList.toggle('on', state.favOnly); render(); };
 document.getElementById('hiddenToggle').onclick = e => { state.showHidden = !state.showHidden; e.target.classList.toggle('on', state.showHidden); render(); };
-document.getElementById('howto').onclick = () => alert('Culture Scout refreshes automatically every morning.\\n\\nWant fresh signals right now?\\n  • Run  npm run refresh  in the project folder, or\\n  • Trigger "Culture Scout Refresh" in the GitHub Actions tab.\\n\\nThe dashboard updates about a minute later.');
+// ── Refresh now ─────────────────────────────────────────────────────────────
+const btn = document.getElementById('refreshNow');
+const rstatus = document.getElementById('rstatus');
+const rtext = document.getElementById('rstatusText');
+let polling = null, clearTimer = null;
+
+function status(msg, spinning){
+  rstatus.classList.add('show');
+  rtext.innerHTML = (spinning ? '<span class="dot"></span>' : '') + msg;
+}
+function autoHide(ms){ clearTimeout(clearTimer); clearTimer = setTimeout(()=>rstatus.classList.remove('show'), ms); }
+
+btn.onclick = async () => {
+  btn.disabled = true;
+  status('Requesting a refresh...', true);
+  let res;
+  try{
+    res = await fetch('/.netlify/functions/refresh', { method:'POST' });
+  }catch(e){
+    status('Refresh only works on the live site, not the local preview.', false);
+    btn.disabled = false; autoHide(6000); return;
+  }
+  let data = {};
+  try{ data = await res.json(); }catch(e){}
+  if(data.status === 'triggered'){
+    status(data.message || 'Refreshing. New signals in a few minutes.', true);
+    startPolling();
+  }else{
+    status(data.message || 'Could not start a refresh right now.', false);
+    btn.disabled = false; autoHide(7000);
+  }
+};
+
+function startPolling(){
+  const baseline = DATA.updated || '';
+  let elapsed = 0;
+  clearInterval(polling);
+  polling = setInterval(async () => {
+    elapsed += 25;
+    try{
+      const r = await fetch('data.json?' + Date.now());
+      if(r.ok){
+        const fresh = await r.json();
+        if(fresh.updated && fresh.updated !== baseline){
+          DATA = fresh; render();
+          clearInterval(polling);
+          status('Fresh signals in ✓', false);
+          btn.disabled = false; autoHide(5000);
+          return;
+        }
+      }
+    }catch(e){}
+    if(elapsed >= 720){ // ~12 min safety timeout
+      clearInterval(polling);
+      status('Still working. Reload the page in a minute.', false);
+      btn.disabled = false; autoHide(9000);
+    }
+  }, 25000);
+}
 
 load();
 </script>
