@@ -1,4 +1,3 @@
-import cron from 'node-cron';
 import dotenv from 'dotenv';
 dotenv.config({ override: true });
 import { runSocialAgent }  from './agents/social.js';
@@ -7,13 +6,25 @@ import { runTrendsAgent }  from './agents/trends.js';
 import { runAIAgent }      from './agents/ai.js';
 import { runWeb3Agent }    from './agents/web3.js';
 
-const AGENTS = {
+// ─── Channel registry ────────────────────────────────────────────────────────
+// Every channel SCOUT knows how to run.
+const REGISTRY = {
   social:  runSocialAgent,
   culture: runCultureAgent,
   trends:  runTrendsAgent,
   ai:      runAIAgent,
   web3:    runWeb3Agent,
 };
+
+// ─── MANAGE YOUR CHANNELS HERE ───────────────────────────────────────────────
+// This is the one line to edit. Remove a channel to stop tracking it,
+// re-add it to bring it back. (To add a brand-new beat, ask Claude to
+// create the agent, then add its key here.)
+const ENABLED = ['social', 'culture', 'trends', 'ai', 'web3'];
+
+const AGENTS = Object.fromEntries(
+  ENABLED.filter(k => REGISTRY[k]).map(k => [k, REGISTRY[k]])
+);
 
 const AGENT_GAP_MS = 70_000; // 70s between agents — keeps each run inside its own TPM window
 
@@ -34,34 +45,31 @@ async function runAll() {
       await new Promise(r => setTimeout(r, AGENT_GAP_MS));
     }
   }
-  console.log(`\n✅ All agents complete. (${entries.length - failed}/${entries.length} succeeded)\n`);
+  console.log(`\n✅ Refresh complete. (${entries.length - failed}/${entries.length} channels succeeded)\n`);
 
-  // If every agent failed, this is an outage (e.g. API/connection down) —
-  // exit non-zero so the GitHub Actions run goes RED instead of silently green.
+  // If every agent failed, this is an outage — exit non-zero so a manual
+  // GitHub run goes RED instead of silently green.
   if (failed === entries.length) {
-    console.error('💥 Every agent failed — flagging the run as failed.');
+    console.error('💥 Every channel failed — flagging the run as failed.');
     process.exitCode = 1;
   }
 }
 
+// ─── On-demand entry point ───────────────────────────────────────────────────
+// SCOUT is pull-based now: it runs when you ask it to, not on a schedule.
+//   node index.js               → refresh all enabled channels
+//   node index.js --channel ai  → refresh a single channel
 const args = process.argv.slice(2);
 const channelIdx = args.indexOf('--channel');
-const runNow = args.includes('--now');
 
 if (channelIdx !== -1) {
   const channel = args[channelIdx + 1];
   const agent = AGENTS[channel];
   if (!agent) {
-    console.error(`Unknown channel: "${channel}". Valid options: ${Object.keys(AGENTS).join(', ')}`);
+    console.error(`Unknown or disabled channel: "${channel}". Enabled: ${Object.keys(AGENTS).join(', ')}`);
     process.exit(1);
   }
   agent().catch(err => { console.error(err.message); process.exit(1); });
-} else if (runNow) {
-  runAll().catch(err => { console.error(err.message); process.exit(1); });
 } else {
-  const schedule = process.env.CRON_SCHEDULE || '0 21 * * *';
-  const tz = process.env.TIMEZONE || 'Australia/Brisbane';
-  console.log(`⏰ Scheduler active — cron: ${schedule} (${tz})`);
-  cron.schedule(schedule, runAll, { timezone: tz });
-  runAll();
+  runAll().catch(err => { console.error(err.message); process.exit(1); });
 }

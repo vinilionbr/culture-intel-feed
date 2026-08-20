@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SCOUT — Cultural Intelligence Briefing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;800;900&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --blue:#0471DE; --ink:#001426; --linen:#FBFAF2;
+  --navy:#004A80; --signal:#3D9BFF; --sky:#62BBF9;
+  --mist:#F4F1E6; --line:#E5E0D0; --slate:#586D84;
+  --display:'Archivo',Inter,system-ui,sans-serif;
+  --body:'Inter',system-ui,sans-serif;
+  --mono:'IBM Plex Mono',ui-monospace,monospace;
+  --r:4px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--body);background:var(--linen);color:var(--ink);-webkit-font-smoothing:antialiased;line-height:1.5}
+.wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+a{color:var(--blue);text-decoration:none}
+.mono{font-family:var(--mono);text-transform:uppercase;letter-spacing:.12em;font-size:11px}
+
+/* Header */
+header{position:sticky;top:0;z-index:10;background:rgba(251,250,242,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.head-inner{display:flex;align-items:center;justify-content:space-between;gap:16px;height:66px}
+.brand{display:flex;align-items:center;gap:10px}
+.brand svg{width:28px;height:28px;color:var(--ink)}
+.brand .wm{font-family:var(--display);font-weight:900;letter-spacing:-.02em;font-size:19px;line-height:1}
+.brand .sub{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--slate);margin-top:2px}
+.updated{font-family:var(--mono);font-size:11px;letter-spacing:.06em;color:var(--slate);text-align:right}
+.updated b{color:var(--ink);font-weight:500}
+.refresh-btn{border:1px solid var(--line);background:transparent;color:var(--ink);font-family:var(--mono);text-transform:uppercase;letter-spacing:.1em;font-size:11px;padding:9px 14px;border-radius:var(--r);cursor:pointer}
+.refresh-btn:hover{border-color:var(--ink)}
+
+/* Controls */
+.controls{padding:22px 0 14px;border-bottom:1px solid var(--line)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+.chip{font-family:var(--mono);text-transform:uppercase;letter-spacing:.1em;font-size:11px;padding:7px 13px;border:1px solid var(--line);border-radius:99px;background:var(--linen);color:var(--slate);cursor:pointer}
+.chip.active{background:var(--blue);border-color:var(--blue);color:var(--linen)}
+.controls-row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.search{flex:1;min-width:200px;border:1px solid var(--line);border-radius:var(--r);padding:11px 14px;font-family:var(--body);font-size:14px;background:var(--linen);color:var(--ink)}
+.search:focus{outline:none;border-color:var(--blue)}
+.toggle{font-family:var(--mono);text-transform:uppercase;letter-spacing:.1em;font-size:11px;padding:10px 13px;border:1px solid var(--line);border-radius:var(--r);background:var(--linen);color:var(--slate);cursor:pointer}
+.toggle.on{background:var(--ink);border-color:var(--ink);color:var(--linen)}
+
+/* Day / channel groups */
+.day{margin-top:34px}
+.day-label{font-family:var(--display);font-weight:900;letter-spacing:-.02em;font-size:26px;margin-bottom:4px}
+.day-sub{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--slate);margin-bottom:18px}
+.chan-label{display:flex;align-items:center;gap:10px;margin:26px 0 12px}
+.chan-label .tag{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--blue)}
+.chan-label .rule{height:1px;flex:1;background:var(--line)}
+
+/* Cards */
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:720px){.grid{grid-template-columns:1fr}}
+.card{border:1px solid var(--line);border-radius:var(--r);background:var(--linen);padding:20px;display:flex;flex-direction:column;gap:12px}
+.card.fav{border-color:var(--blue);box-shadow:inset 3px 0 0 var(--blue)}
+.card h3{font-family:var(--display);font-weight:800;font-size:17px;letter-spacing:-.01em;line-height:1.25}
+.card .block .lbl{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--slate);display:block;margin-bottom:3px}
+.card .block p{font-size:14px;color:var(--ink);line-height:1.5}
+.card .why p{color:var(--slate)}
+.card .src{font-family:var(--mono);font-size:11px;letter-spacing:.04em;word-break:break-all}
+.card .src a{color:var(--blue)}
+.card-actions{display:flex;gap:8px;margin-top:auto;padding-top:6px;border-top:1px solid var(--line)}
+.act{border:1px solid var(--line);background:transparent;border-radius:var(--r);font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:7px 11px;cursor:pointer;color:var(--slate)}
+.act:hover{border-color:var(--ink);color:var(--ink)}
+.act.on{background:var(--blue);border-color:var(--blue);color:var(--linen)}
+.note{width:100%;border:1px solid var(--line);border-radius:var(--r);padding:9px 11px;font-family:var(--body);font-size:13px;background:var(--mist);color:var(--ink);resize:vertical;min-height:38px;display:none}
+.note.show{display:block}
+
+.empty{text-align:center;padding:90px 20px;color:var(--slate)}
+.empty h2{font-family:var(--display);font-weight:900;font-size:26px;color:var(--ink);margin-bottom:12px;letter-spacing:-.02em}
+.empty code{font-family:var(--mono);font-size:13px;background:var(--mist);border:1px solid var(--line);padding:3px 8px;border-radius:var(--r);color:var(--ink)}
+footer{border-top:1px solid var(--line);margin-top:50px;padding:26px 0;font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--slate)}
+</style>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><symbol id="lion" viewBox="0 0 1024 999.18"><path fill="currentColor" fill-rule="evenodd" d="M278.29 228.63l.69 5.68-.69 17.02.69 18.44-.69 13.01.69 11.82 5.33 32.5 11.58 4.91 7.81 2.5 51.88 21.55 9.35 3.03 9.46 5.37 13.01 4.18 9.67 4.69 9.24 3.68 8.37 2.78 7.47 4.3 13.24 5.7 9.93 3.47 4.02 2.59 8.28 3.49 7.63-.59 29.11-4.97 12.07-2.83 9.26-1.42 13.01-2.18 4.1 4.06-13.95 6.93-6.48 4.92-6.6 1.16-7.01 3.33-12.77 6.11-7.8 2.68-8.28 3.79-9.6 4.44-4.03 2.56-14.98-4.53-12.76-5.59-15.11-6.16-20.83-8.78-15.25-6.85-7.25-2.58-5.24-2.58-19.07-7.58-9.7-5-10.57-4.25-11.89-5.16-11.12-5.29-8.51-3.55-18.91-6.27-10.64-6.81-9.93-4.53-2.49-67.55.71-31.21-.7-5.67v-7.35l.7-14.88-.69-11.12.74-24.58-1.35-6.39-4.69-2.24-7.76-2.57-15.67-5.95-6.13-2.87-11.81-3.73-10.37-4.75-4.93 13.13-.69 20.57.69 5.67-.69 10.64.69 12.77-.69 14.89.68 8.04-.68 33.81.68 40.67-.68 19.62.68 19.39-.68 8.28 1.86 7.62 12.13 4.34 7.87 4.69 10.17 3.09 14.89 7.73 15.77 5.1 13.83 7.94 17.45 6.95 7.81 4.26 10.16 3.98 9.94 5.36 14.65 6.26 4.02 2.38 12.53 5.57 14.04 5.21 6.35 4.9 8.46 3.83 12.06 4.36 19.62 9.46 11.09 5.89 5.22 2.97 21.03 9.09 17.75 9.91 7.09 3.29 13.01 4.61 7.8-.63 9.93-3.52 15.6-6.27 4.5-2.65 10.16-2.68 15.64-6.32 8.48-3.85 8.28-2.3 7.46-1.31-5.94 8.61-9.46 5.48-16.09 10.66-3.52 4.89-7.68 4.19-6.84 2.96-8.62 6.78-10.32 6.1-8.37 5.03-12.16 8.16-13.28-4.64-5.43-2.31-7.43-4.09-9.35-4.33-7.81 1.66-9.46 7.09-4.41 5.06-10.96 8.23-6.09 5.52-5.49 3.52-11.59 9.92-13 9.41-3.79 3.2-5.67 4.95-4.48 3.56-11.36 8.69-13.95 10.45-5.77 4.9-5.34 3.96-20.11 17.28-5.43 3.32-19.14 16.41-15.41 11.09-8.72 7.25-6.18 4.91-26.4 21.04-15 11.68-6.97 6.05-8.22 16.32.69 9.69-.7 86.77.13 41.72 5.67.13 5.91-6.72 9.22-9.22 4.73-4.1 5.41-5.96 7.97-6.53 14.68-15.46 3.86-4.66 7.12-6.22 4.7-4.72 9.7-9.05 8.57-9.4 18.85-17.34 3.15-3.94 4.32-5.08 28.49-27.55 6.13-6.22 15.37-16.23 7.56-6.68 4.26-4.21 19.76-19.77 4.97-4.96 3.14-4.04 8.83-8.18 5.67-4.89 4.64-4.97 11.39-10.95 10.94-11.75 5.37-4.57 7.47-9.03 10.56-9.8 7.74-5.64 4.5-2.99 11.82 4.82 4.73 3.62 5.87 3.42 6.36 4.92 8.95 5.05 8.63-5.67 9.4-8.13 13.99-11.75 10.16-8.96 5.44-4.62 7.09-6.27 4.02-3.44 8.75-7.31 7.8-6.99 6.11-5.54 5.73-3.72 5.81-1.75-4.33 12.74-8.35 8.93-3.99 4.52-5.78 7.8-1.46 7.19-12.43 8.42-4.64 9.45-10.03 8.04-5.58 6.86-5.2 8.01-5.61 4.89-5.25 6.01-4.58 8.08-5.82 4.32-9.55-1.47-11.31-7.09-7.37-5.45-8.92-3.79-8-3.94-9.65 8.81-7.86 6.89-6.33 6.28-3.38 5.53-8.11 6.51-3.92 4.23-3.48 3.49-3.76 3.18-6.1 6.7-7.86 8.56-8.13 7.9-8.98 8.47-5.17 5.69-4.3 3.71-5.75 5.17-20.45 21.64-6.27 5.65-6.38 5.83-8.34 9-27.25 26.68-8.98 10.77-6.13 4.97-3.54 5.45-5.58 5.26-1.55 70.52 2.19 65.97 1.39 4.73-3.45 13.58 8.75-5.02 12.18-13.4 14.77-17.17 11.36-14.17 5.97-8.75 7.68-9.69 10.27-11.68 3.88-5.27 8.15-10.36 3.84-4.61 8.2-10.87 14.02-17.03 5.79-7.09 9.1-11.35 16.32-20.57 4.84-6.15 7.82-9.22 8.02-10.02 12.42-15.51 4.63-5.2 6.01-8.28 10.57-12.62 11.04-13.5 4.99-5.29 5.1-5.95 7.45-5.61 2.09 10.81-1.24 12.47.59 10.23-11.56 14.43-14.39 17.96-3.92 4.73-7.63 8.99-13.17 17.49-10.64 13.48-11.09 12.22-14.39 17.6-2.92 7.97-5.46 4.68-4.02 22.79-.71 15.6-.7 74.48-.7 5.2.71 14.9-.72 10.31 14.35 6.71 6.34-6.34 8.82-10.21 7.53-6.86 5.79-6.38 3.87-4.67 9.13-10.1 3.94-9.13 3.11-6.94 5.69-12.09 5.43-12.85 12.35-24.85 3.66-7.33 5.83-13.17 21.26-43.1 9.91-19.11 6.75-14.22 3.6-7.91 7.17-13.58 8.27-17.44 15.72-32.01 2.89-6.5 3.55-7.79 9.23-19.18 7.85-14.29 6.05-9.69 6.51-7.8 4.02-5.44 9.46-11.59 8.43-11.17 5.31 6.07-6.27 10.76-5.2 16.23-3.77 11.82-2.77 5.54-3.18 5.63-2.58 13.72-7.15 17.06-1.51 10.17-7.66 14.75-1.47 5.58-3.71 8.66-3.27 11.2-2.36 5.24-3.19 8.48-2.53 6.31-6.14 19.58-2.19 5.79-4.23 11.35-3.49 9.93-4.94 17.03-8.09 21.59-5.67 27.82.71 4.96.7 5.68-.7 21.99.7 12.76-.71 11.35-.71 11.26 1.25 10.02-1.29 11.59 10.87-2.13 6.19-5.09 4.07-4.6 8.51-9.93 4.26-4.97 5.48-6.86 5.37-6.14 12.31-14.37 12.83-15.66 7.4-8.51 4.25-11.35 16.11-46.4 17.83-52.67 2.13-5.67 6.32-16.41 17.92-52.19 6.3 3.81-2.7 7.17 2.17 13.17-2.17 10.84-.7 37.63.69 14.42-.69 13.24.69 10.17-.69 29.55 1.41 12.53-.7 7.33.82 22.81 7.54-1.77 6.06-8.78 10.34-12.99 5.67-9.2 4.31-7.21.77-1.65 13.32-25.67 11.67-22.62 5.41-11.44 2.45-5.41 3.76-8.51 10.64-24.82 3.36-7.34 2.98-7.41 3.56-9.38 5.57-3.01 13.48 3.12 23.64 8.84 13.01 6.09 19.66 8 7.76 1.78 9.73-2.19 6.35-2.45 8.22-2.82 11.97-5.87 16.82-7.06 8.97-12.23 4.23-17.02.91-6.62 9.95-42.09 4.24-17.5 1.25-9.6-3.29-10.07-3.1-14.71.95-5.65 7.45-6.83 4.67-7.52 4.7-11.34 5.9-17.5 2.59-4.6 3.32-9 2.32-6.62 2.46-4.13 11.58-20.06 7.09-5.72 8.88-13.73 4.28-6.36 6.15-13.79 3.56-7.6-3.19-7.87-8.3-8.1-15.44-12.93-2.87-6.5-6.02-5.75-6.23-7.21-6.06-5.28-5.57-6.89-6.73-6.2-5.9-3.3-8.35-10.96-10.81-9.28-7.28-8.69-5.55-6.43-13.09-12.89-9.94-14.82 1.9-5.38 3.1-10 -16.19-20.87-5.28-5.27-10.17-8.68-5.23-4.96-11.01-11.22-3.78-4.66-13.19-12.43-8.37-13.12-4.14-14.89-2.78-10.71-4.59-11.75-9.39-19.99-4.07-7.2-3.23-4.02-11.33-14.19-34.69-33.88-4.25-3.55-4.26-3.55-7.09-6.38-9.7-7.63-6.61-5.3-5.83-4.37-5.53-4.43-5.91-3.46-7.79-5.18-6.84-3.7-17.76-7.89-12.06-4.71-12.52-4.02-8.05-3.33-33.1-11.28-34.28-11.15-8.99-2.27-55.15-16.13-6.56-3.38-12.16-2.89 1.21 7.42 9.01 6.21 8.98 11.77 5.63 2.89 5.1 5.99 7.77 8.89 5.85 4.35 9.99 11.4 16.31 16.43 9.16 9.06 13.31 12.71 4.08 4.78 4.9 4.93 3.97 7.76-17.21-5.7-6.04-1.96-6.02-5.09-6.38-3.54-10.33-5.75-11.22-5.44-15.34-8.22-7.09-3.51-11.35-5.45-17.02-7.89-12.3-6.43-6.14-3.41-7.36-3.3-5.88-3.56-10.41-5.28-9.03-3.68-14.31-5.54-7.08-4.3-7.41-3.73-6.38-.93-4.6 4.96-1.67 8.79.58 27.97-1.33 9.46.75 13.24-.7 7.57.7 36.64-.7 5.2v7.33l-.71 39.02-.71 48.23.7 7.33-.7 12.53 15.01 12.9 12.53 5.75 13.09 5.09 7.97 4.7 6.37 3.54 12.08 4.97 7.09 4.26 10.38 4.37 12.3 6.51 10.42 4.25 8.45 4.9 7.37-.63 16.44-2.8 18.21-4.97 21.86-4.52 13.14-1.7-9.45 9.27-11.02 7.19-6.09 1.31-14.95 7.69-13.68 5.88-13.89 6.55-10.09 2.97-11.95-5.55-5.25-2.84-6.88-3.23-6.9-3.42-7.26-3.23-10.82-4.34-9.1-4.94-7.27-3.94-15.84-7.37-7.19-3.98-12.97-6.06-9.63-4.08-9.87-1.21-16.61-10.32-.84-23.34.71-43.27-.69-9.46.69-10.4-.69-8.04.69-6.15.71-56.74-.7-8.75.7-5.44-.75-6.62-7.07-4.61-13.55-5.96-12.55-4.86-13.24-3.36-9.26-4.38-11.39-4.19-6.06-1.98z"/></symbol></svg>
+
+<header>
+  <div class="wrap head-inner">
+    <div class="brand">
+      <svg><use href="#lion"/></svg>
+      <div>
+        <div class="wm">SCOUT</div>
+        <div class="sub">Cultural Intelligence Briefing</div>
+      </div>
+    </div>
+    <div style="display:flex;align-items:center;gap:14px">
+      <div class="updated" id="updated"></div>
+      <button class="refresh-btn" id="howto">How to refresh</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="controls" id="controls" style="display:none">
+    <div class="chips" id="chips"></div>
+    <div class="controls-row">
+      <input class="search" id="search" placeholder="Search signals...">
+      <button class="toggle" id="favToggle">★ Favorites</button>
+      <button class="toggle" id="hiddenToggle">Show hidden</button>
+    </div>
+  </div>
+  <div id="feed"></div>
+</div>
+
+<footer><div class="wrap">SCOUT · A LionCreative system · Runs on demand · Your notes and stars are saved in this browser only</div></footer>
+
+<script>
+const CH = {
+  social:  'Social',
+  culture: 'Culture',
+  trends:  'Trends',
+  ai:      'AI',
+  web3:    'Web3',
+};
+const CUR_KEY = 'scout-curation';
+let curation = JSON.parse(localStorage.getItem(CUR_KEY) || '{}');
+let state = { channel: 'all', q: '', favOnly: false, showHidden: false };
+let DATA = { signals: [] };
+
+const sid = s => `${s.date}|${s.channel}|${(s.headline||'').slice(0,60)}`;
+const saveCur = () => localStorage.setItem(CUR_KEY, JSON.stringify(curation));
+const getCur = id => curation[id] || {};
+
+function fmtDate(d){
+  const dt = new Date(d + 'T00:00:00');
+  return dt.toLocaleDateString('en-AU',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+}
+
+async function load(){
+  try{
+    const res = await fetch('data.json?' + Date.now());
+    if(!res.ok) throw new Error('no data');
+    DATA = await res.json();
+  }catch(e){ DATA = { signals: [] }; }
+  render();
+}
+
+function render(){
+  const feed = document.getElementById('feed');
+  const updated = document.getElementById('updated');
+  const controls = document.getElementById('controls');
+
+  if(!DATA.signals || DATA.signals.length === 0){
+    controls.style.display = 'none';
+    updated.innerHTML = '';
+    feed.innerHTML = `<div class="empty"><h2>No signals yet</h2>
+      <p>Run a refresh to pull the latest.</p>
+      <p style="margin-top:16px">On your machine: <code>node index.js</code><br>then commit and push, or trigger the GitHub refresh.</p></div>`;
+    return;
+  }
+  controls.style.display = 'block';
+  updated.innerHTML = DATA.updated ? `Updated<br><b>${new Date(DATA.updated).toLocaleString('en-AU',{timeZone:'Australia/Brisbane',day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}</b>` : '';
+
+  // channel chips
+  const channels = [...new Set(DATA.signals.map(s=>s.channel))];
+  const chips = document.getElementById('chips');
+  chips.innerHTML = ['all', ...channels].map(c =>
+    `<button class="chip ${state.channel===c?'active':''}" data-ch="${c}">${c==='all'?'All':(CH[c]||c)}</button>`
+  ).join('');
+  chips.querySelectorAll('.chip').forEach(el => el.onclick = () => { state.channel = el.dataset.ch; render(); });
+
+  // filter
+  let rows = DATA.signals.filter(s=>{
+    const c = getCur(sid(s));
+    if(c.hidden && !state.showHidden) return false;
+    if(state.favOnly && !c.fav) return false;
+    if(state.channel!=='all' && s.channel!==state.channel) return false;
+    if(state.q){
+      const hay = `${s.headline} ${s.why} ${s.what}`.toLowerCase();
+      if(!hay.includes(state.q.toLowerCase())) return false;
+    }
+    return true;
+  });
+
+  // group by date desc, then channel
+  const byDate = {};
+  rows.forEach(s=>{ (byDate[s.date] = byDate[s.date] || []).push(s); });
+  const dates = Object.keys(byDate).sort().reverse();
+
+  feed.innerHTML = dates.map(date=>{
+    const dayRows = byDate[date];
+    const chans = [...new Set(dayRows.map(s=>s.channel))];
+    const chanBlocks = chans.map(ch=>{
+      const cards = dayRows.filter(s=>s.channel===ch).map(cardHTML).join('');
+      return `<div class="chan-label"><span class="tag">${CH[ch]||ch}</span><span class="rule"></span></div><div class="grid">${cards}</div>`;
+    }).join('');
+    return `<div class="day"><div class="day-label">${fmtDate(date)}</div><div class="day-sub">${dayRows.length} signal${dayRows.length>1?'s':''}</div>${chanBlocks}</div>`;
+  }).join('');
+
+  // wire card actions
+  feed.querySelectorAll('[data-act]').forEach(el=>{
+    el.onclick = () => {
+      const id = el.dataset.id, act = el.dataset.act;
+      const c = curation[id] = curation[id] || {};
+      if(act==='fav') c.fav = !c.fav;
+      if(act==='hide') c.hidden = !c.hidden;
+      if(act==='note'){ const ta = document.querySelector(`textarea[data-id="${CSS.escape(id)}"]`); ta.classList.toggle('show'); ta.focus(); return; }
+      saveCur(); render();
+    };
+  });
+  feed.querySelectorAll('textarea[data-id]').forEach(ta=>{
+    ta.oninput = () => { const c = curation[ta.dataset.id] = curation[ta.dataset.id]||{}; c.note = ta.value; saveCur(); };
+  });
+}
+
+function cardHTML(s){
+  const id = sid(s); const c = getCur(id);
+  const esc = t => (t||'').replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]));
+  return `<div class="card ${c.fav?'fav':''}">
+    <h3>${esc(s.headline)}</h3>
+    ${s.why?`<div class="block why"><span class="lbl">Why it matters</span><p>${esc(s.why)}</p></div>`:''}
+    ${s.what?`<div class="block"><span class="lbl">What to do</span><p>${esc(s.what)}</p></div>`:''}
+    ${s.source?`<div class="src">🔗 <a href="${esc(s.source)}" target="_blank" rel="noopener">${esc(s.source)}</a></div>`:''}
+    <textarea class="note ${c.note?'show':''}" data-id="${id}" placeholder="Your note...">${esc(c.note||'')}</textarea>
+    <div class="card-actions">
+      <button class="act ${c.fav?'on':''}" data-act="fav" data-id="${id}">★ ${c.fav?'Saved':'Save'}</button>
+      <button class="act" data-act="note" data-id="${id}">✎ Note</button>
+      <button class="act" data-act="hide" data-id="${id}">${c.hidden?'Unhide':'Hide'}</button>
+    </div>
+  </div>`;
+}
+
+document.getElementById('search').oninput = e => { state.q = e.target.value; render(); };
+document.getElementById('favToggle').onclick = e => { state.favOnly = !state.favOnly; e.target.classList.toggle('on', state.favOnly); render(); };
+document.getElementById('hiddenToggle').onclick = e => { state.showHidden = !state.showHidden; e.target.classList.toggle('on', state.showHidden); render(); };
+document.getElementById('howto').onclick = () => alert('SCOUT runs on demand.\\n\\n1. On your Mac, in the project folder:\\n   node index.js\\n\\n2. Then push the update:\\n   git add docs/data.json && git commit -m "refresh" && git push\\n\\nThe dashboard updates about a minute later.\\n\\n(Or trigger the refresh from the GitHub Actions tab.)');
+
+load();
+</script>
+</body>
+</html>

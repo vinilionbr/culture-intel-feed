@@ -1,5 +1,5 @@
 import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
-import { postToSlack, postSignals, formatDayHeader } from '../lib/discord.js';
+import { saveToDashboard } from '../lib/dashboard.js';
 import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 // Source: Claude web_search — all 7 platforms
@@ -65,9 +65,8 @@ Then pick the 3 strongest signals using the selection filter: rank by what's get
     return;
   }
 
-  await postToSlack('social', formatDayHeader('social'));
-  await postSignals('social', signals);
+  saveToDashboard('social', signals);
   saveSignalHistory('social', signals);
 
-  console.log(`📊 Social: posted ${signals.length} signal(s)`);
+  console.log(`📊 Social: saved ${signals.length} signal(s)`);
 }

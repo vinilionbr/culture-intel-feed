@@ -1,5 +1,5 @@
 import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
-import { postToSlack, postSignals, formatDayHeader } from '../lib/discord.js';
+import { saveToDashboard } from '../lib/dashboard.js';
 import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 // Source: Claude web_search — AI tools & creative unlocks
@@ -71,9 +71,8 @@ Only include things genuinely announced or published today. Focus on what change
     return;
   }
 
-  await postToSlack('ai', formatDayHeader('ai'));
-  await postSignals('ai', signals);
+  saveToDashboard('ai', signals);
   saveSignalHistory('ai', signals);
 
-  console.log(`📊 AI: posted ${signals.length} signal(s)`);
+  console.log(`📊 AI: saved ${signals.length} signal(s)`);
 }

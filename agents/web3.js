@@ -1,5 +1,5 @@
 import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
-import { postToSlack, postSignals, formatDayHeader } from '../lib/discord.js';
+import { saveToDashboard } from '../lib/dashboard.js';
 import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 // Source: Claude web_search — cultural Web3 moves
@@ -74,9 +74,8 @@ Only include things genuinely new as of today. Filter out price movements with n
     return;
   }
 
-  await postToSlack('web3', formatDayHeader('web3'));
-  await postSignals('web3', signals);
+  saveToDashboard('web3', signals);
   saveSignalHistory('web3', signals);
 
-  console.log(`📊 Web3: posted ${signals.length} signal(s)`);
+  console.log(`📊 Web3: saved ${signals.length} signal(s)`);
 }

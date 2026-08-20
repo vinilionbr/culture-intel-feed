@@ -1,5 +1,5 @@
 import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
-import { postToSlack, postSignals, formatDayHeader } from '../lib/discord.js';
+import { saveToDashboard } from '../lib/dashboard.js';
 import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 // Source: Claude web_search — short-term viral moments & tactical content opportunities
@@ -85,9 +85,8 @@ From all of this: surface 3 specific trending moments, sounds, meme formats, cul
     return;
   }
 
-  await postToSlack('trends', formatDayHeader('trends'));
-  await postSignals('trends', signals);
+  saveToDashboard('trends', signals);
   saveSignalHistory('trends', signals);
 
-  console.log(`📊 Trends: posted ${signals.length} signal(s)`);
+  console.log(`📊 Trends: saved ${signals.length} signal(s)`);
 }

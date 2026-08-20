@@ -1,5 +1,5 @@
 import { runAgentWithSearch, parseSignals, todayStr } from '../lib/claude.js';
-import { postToSlack, postSignals, formatDayHeader } from '../lib/discord.js';
+import { saveToDashboard } from '../lib/dashboard.js';
 import { getHistoryBlock, saveSignalHistory } from '../lib/history.js';
 
 // Source: Claude web_search — long-term pop culture & consumer behaviour
@@ -81,9 +81,8 @@ Surface 3 macro cultural signals that reflect structural changes in values, iden
     return;
   }
 
-  await postToSlack('culture', formatDayHeader('culture'));
-  await postSignals('culture', signals);
+  saveToDashboard('culture', signals);
   saveSignalHistory('culture', signals);
 
-  console.log(`📊 Culture: posted ${signals.length} signal(s)`);
+  console.log(`📊 Culture: saved ${signals.length} signal(s)`);
 }

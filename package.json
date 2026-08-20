@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "refresh": "node index.js && git add docs/data.json && git commit -m \"refresh signals\" && git push",
     "start": "node index.js",
-    "dev": "node index.js --now"
+    "channel": "node index.js --channel"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.106.0",
