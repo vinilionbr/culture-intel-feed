@@ -63,12 +63,14 @@ header{position:sticky;top:0;z-index:10;background:rgba(251,250,242,.94);backdro
 /* Cards */
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
 @media(max-width:720px){.grid{grid-template-columns:1fr}}
-.card{border:1px solid var(--line);border-radius:var(--r);background:var(--linen);padding:20px;display:flex;flex-direction:column;gap:12px}
+.card{border:1px solid var(--line);border-radius:var(--r);background:var(--linen);padding:20px;display:flex;flex-direction:column;gap:12px;overflow:hidden}
+.card .thumb{width:calc(100% + 40px);margin:-20px -20px 2px;height:154px;object-fit:cover;background:var(--mist);border-bottom:1px solid var(--line);display:block}
 .card.fav{border-color:var(--blue);box-shadow:inset 3px 0 0 var(--blue)}
 .card h3{font-family:var(--display);font-weight:800;font-size:17px;letter-spacing:-.01em;line-height:1.25}
 .card .block .lbl{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--slate);display:block;margin-bottom:3px}
 .card .block p{font-size:14px;color:var(--ink);line-height:1.5}
 .card .why p{color:var(--slate)}
+.card .whatis p{font-size:15px}
 .card .src{font-family:var(--mono);font-size:11px;letter-spacing:.04em;word-break:break-all}
 .card .src a{color:var(--blue)}
 .card-actions{display:flex;gap:8px;margin-top:auto;padding-top:6px;border-top:1px solid var(--line)}
@@ -132,7 +134,7 @@ let curation = JSON.parse(localStorage.getItem(CUR_KEY) || '{}');
 let state = { channel: 'all', q: '', favOnly: false, showHidden: false };
 let DATA = { signals: [] };
 
-const sid = s => `${s.date}|${s.channel}|${(s.headline||'').slice(0,60)}`;
+const sid = s => `${s.date}|${s.channel}|${(s.title||s.headline||'').slice(0,60)}`;
 const saveCur = () => localStorage.setItem(CUR_KEY, JSON.stringify(curation));
 const getCur = id => curation[id] || {};
 
@@ -220,9 +222,13 @@ function render(){
 
 function cardHTML(s){
   const id = sid(s); const c = getCur(id);
-  const esc = t => (t||'').replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]));
+  const esc = t => (t||'').replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+  const title = s.title || s.headline || 'Untitled';
+  const whatIs = s.whatIs || '';
   return `<div class="card ${c.fav?'fav':''}">
-    <h3>${esc(s.headline)}</h3>
+    ${s.image?`<img class="thumb" src="${esc(s.image)}" alt="" loading="lazy" onerror="this.remove()">`:''}
+    <h3>${esc(title)}</h3>
+    ${whatIs?`<div class="block whatis"><span class="lbl">What it is</span><p>${esc(whatIs)}</p></div>`:''}
     ${s.why?`<div class="block why"><span class="lbl">Why it matters</span><p>${esc(s.why)}</p></div>`:''}
     ${s.what?`<div class="block"><span class="lbl">What to do</span><p>${esc(s.what)}</p></div>`:''}
     ${s.source?`<div class="src">🔗 <a href="${esc(s.source)}" target="_blank" rel="noopener">${esc(s.source)}</a></div>`:''}

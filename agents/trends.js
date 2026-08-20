@@ -47,7 +47,8 @@ ritetag.com (currently trending hashtags), hashtagify.me, allhashtag.com, flipbo
 Output format — for EACH signal, use EXACTLY this structure:
 
 🚨 **SIGNAL**
-[The specific trending moment or format, stated in 10-20 words]
+**TITLE:** [a short, punchy title — max 8 words]
+**WHAT IT IS:** [the specific trending moment or format, stated in 15-25 words]
 
 👉 **WHY IT MATTERS:** [20-30 words — why this is catching attention right now and who's engaging with it]
 
@@ -85,7 +86,7 @@ From all of this: surface 3 specific trending moments, sounds, meme formats, cul
     return;
   }
 
-  saveToDashboard('trends', signals);
+  await saveToDashboard('trends', signals);
   saveSignalHistory('trends', signals);
 
   console.log(`📊 Trends: saved ${signals.length} signal(s)`);

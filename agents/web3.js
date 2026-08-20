@@ -16,7 +16,8 @@ NOT a signal: price movements without cultural context, shill content, technical
 Output format — for EACH signal, use EXACTLY this structure:
 
 🚨 **SIGNAL**
-[what happened, stated in 10-20 words]
+**TITLE:** [a short, punchy title — max 8 words]
+**WHAT IT IS:** [what happened, stated in 15-25 words]
 
 👉 **WHY IT MATTERS:** [20-30 words — what this reveals about how audiences are forming identity, community, or loyalty online]
 
@@ -74,7 +75,7 @@ Only include things genuinely new as of today. Filter out price movements with n
     return;
   }
 
-  saveToDashboard('web3', signals);
+  await saveToDashboard('web3', signals);
   saveSignalHistory('web3', signals);
 
   console.log(`📊 Web3: saved ${signals.length} signal(s)`);

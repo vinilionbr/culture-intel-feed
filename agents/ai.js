@@ -16,7 +16,8 @@ NOT a signal: funding rounds without creative implication, AI ethics debates, ac
 Output format — for EACH signal, use EXACTLY this structure:
 
 🚨 **SIGNAL**
-[what happened, stated in 10-20 words]
+**TITLE:** [a short, punchy title — max 8 words]
+**WHAT IT IS:** [what happened, stated in 15-25 words]
 
 👉 **WHY IT MATTERS:** [20-30 words — what this changes about how content gets made or how audiences engage with it]
 
@@ -71,7 +72,7 @@ Only include things genuinely announced or published today. Focus on what change
     return;
   }
 
-  saveToDashboard('ai', signals);
+  await saveToDashboard('ai', signals);
   saveSignalHistory('ai', signals);
 
   console.log(`📊 AI: saved ${signals.length} signal(s)`);

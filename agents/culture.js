@@ -21,7 +21,8 @@ Examples of the right kind of signal:
 Output format — for EACH signal, use EXACTLY this structure:
 
 🚨 **SIGNAL**
-[The macro cultural shift, stated in 10-20 words]
+**TITLE:** [a short, punchy title — max 8 words]
+**WHAT IT IS:** [the macro cultural shift, stated in 15-25 words]
 
 👉 **WHY IT MATTERS:** [20-30 words — the underlying generational psychology, value shift, or identity behaviour driving it]
 
@@ -81,7 +82,7 @@ Surface 3 macro cultural signals that reflect structural changes in values, iden
     return;
   }
 
-  saveToDashboard('culture', signals);
+  await saveToDashboard('culture', signals);
   saveSignalHistory('culture', signals);
 
   console.log(`📊 Culture: saved ${signals.length} signal(s)`);

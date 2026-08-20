@@ -36,7 +36,8 @@ reddit.com/r/socialmedia, reddit.com/r/SocialMediaMarketing, reddit.com/r/TikTok
 Output format — for EACH signal, use EXACTLY this structure:
 
 🚨 **SIGNAL**
-[Platform] — [the specific format, mechanic, or behaviour, in 10-20 words]
+**TITLE:** [a short, punchy title — max 8 words]
+**WHAT IT IS:** [Platform] — [the specific format, mechanic, or behaviour, in 15-25 words]
 
 👉 **WHY IT MATTERS:** [20-30 words — the psychological or algorithmic reason this content is cutting through right now]
 
@@ -65,7 +66,7 @@ Then pick the 3 strongest signals using the selection filter: rank by what's get
     return;
   }
 
-  saveToDashboard('social', signals);
+  await saveToDashboard('social', signals);
   saveSignalHistory('social', signals);
 
   console.log(`📊 Social: saved ${signals.length} signal(s)`);
