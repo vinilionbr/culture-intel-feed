@@ -2,15 +2,6 @@
   "signals": [
     {
       "date": "2026-08-20",
-      "channel": "social",
-      "topics": [
-        "Snapchat — Fully AI-generated Spotlight videos no longer eligible for recommendations",
-        "Instagram — \"Replace Audio\" feature now live + AI Flash Filter driving nostalgia virality",
-        "Sprout Social — Trellis AI Agent Now Available to All Plans (breaking Aug 19, 2026)"
-      ]
-    },
-    {
-      "date": "2026-08-20",
       "channel": "culture",
       "topics": [
         "Marketers are shifting from chasing virality to building purposeful communities, while brands must prioritize human-led ",
@@ -29,11 +20,20 @@
     },
     {
       "date": "2026-08-20",
+      "channel": "social",
+      "topics": [
+        "TITLE: TikTok's \"Don't Show on Profile\" Unlocks Low-Risk Experimentation",
+        "TITLE: LinkedIn's AI-Powered Event Clips Now Turn Live into Weekly Content Feeds",
+        "TITLE: X Kills Engagement Bait—Monetization Now Rewards Original Voices Only"
+      ]
+    },
+    {
+      "date": "2026-08-20",
       "channel": "ai",
       "topics": [
-        "Meta launched a new Meta AI app for Mac on August 19, 2026, primarily meant for businesses and content creators",
-        "OpenAI cut GPT-5.6 Luna pricing by 80% to $0.20 per 1 million input tokens",
-        "Adobe Research and Johns Hopkins announced \"Wonder\" on July 29, 2026—a model that turns a static image or video into a p"
+        "TITLE: Ultra-cheap voice AI goes live for real-time agents",
+        "TITLE: AI routing API cuts inference costs 40% automatically",
+        "TITLE: ChatGPT Ads opens 31 European countries for creators"
       ]
     }
   ]
