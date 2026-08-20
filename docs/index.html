@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>SCOUT — Cultural Intelligence Briefing</title>
+<title>Culture Scout — Cultural Intelligence Briefing</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;800;900&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -87,7 +87,7 @@ footer{border-top:1px solid var(--line);margin-top:50px;padding:26px 0;font-fami
     <div class="brand">
       <svg><use href="#lion"/></svg>
       <div>
-        <div class="wm">SCOUT</div>
+        <div class="wm">Culture Scout</div>
         <div class="sub">Cultural Intelligence Briefing</div>
       </div>
     </div>
@@ -110,7 +110,7 @@ footer{border-top:1px solid var(--line);margin-top:50px;padding:26px 0;font-fami
   <div id="feed"></div>
 </div>
 
-<footer><div class="wrap">SCOUT · A LionCreative system · Runs on demand · Your notes and stars are saved in this browser only</div></footer>
+<footer><div class="wrap">Culture Scout · A LionCreative system · Refreshes daily · Your notes and stars are saved in this browser only</div></footer>
 
 <script>
 const CH = {
@@ -231,7 +231,7 @@ function cardHTML(s){
 document.getElementById('search').oninput = e => { state.q = e.target.value; render(); };
 document.getElementById('favToggle').onclick = e => { state.favOnly = !state.favOnly; e.target.classList.toggle('on', state.favOnly); render(); };
 document.getElementById('hiddenToggle').onclick = e => { state.showHidden = !state.showHidden; e.target.classList.toggle('on', state.showHidden); render(); };
-document.getElementById('howto').onclick = () => alert('SCOUT runs on demand.\\n\\n1. On your Mac, in the project folder:\\n   node index.js\\n\\n2. Then push the update:\\n   git add docs/data.json && git commit -m "refresh" && git push\\n\\nThe dashboard updates about a minute later.\\n\\n(Or trigger the refresh from the GitHub Actions tab.)');
+document.getElementById('howto').onclick = () => alert('Culture Scout refreshes automatically every morning.\\n\\nWant fresh signals right now?\\n  • Run  npm run refresh  in the project folder, or\\n  • Trigger "Culture Scout Refresh" in the GitHub Actions tab.\\n\\nThe dashboard updates about a minute later.');
 
 load();
 </script>

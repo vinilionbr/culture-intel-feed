@@ -1,8 +1,11 @@
-name: SCOUT Refresh
+name: Culture Scout Refresh
 
-# On-demand only. There is NO schedule, so this never runs on its own
-# and never costs you anything unless YOU trigger it from the Actions tab.
+# Runs once every morning (9am Brisbane) so the dashboard is always fresh
+# with no terminal needed. Only cost is the Claude API. You can also trigger
+# it manually any time from the Actions tab.
 on:
+  schedule:
+    - cron: '0 23 * * *'   # 23:00 UTC = 9:00am Brisbane (AEST, UTC+10)
   workflow_dispatch:
 
 jobs:
