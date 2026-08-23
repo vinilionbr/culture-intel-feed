@@ -60,6 +60,11 @@ header{position:sticky;top:0;z-index:10;background:rgba(251,250,242,.94);backdro
 .chan-label .tag{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--blue)}
 .chan-label .rule{height:1px;flex:1;background:var(--line)}
 
+/* View tabs */
+.viewtabs{display:inline-flex;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;margin-bottom:16px}
+.vtab{font-family:var(--mono);text-transform:uppercase;letter-spacing:.1em;font-size:11px;padding:9px 20px;background:var(--linen);color:var(--slate);border:none;cursor:pointer}
+.vtab.active{background:var(--ink);color:var(--linen)}
+
 /* Cards */
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
 @media(max-width:720px){.grid{grid-template-columns:1fr}}
@@ -109,17 +114,20 @@ footer{border-top:1px solid var(--line);margin-top:50px;padding:26px 0;font-fami
 
 <div class="wrap">
   <div class="controls" id="controls" style="display:none">
+    <div class="viewtabs">
+      <button class="vtab active" id="tabLatest">Latest</button>
+      <button class="vtab" id="tabArchive">Archive</button>
+    </div>
     <div class="chips" id="chips"></div>
     <div class="controls-row">
       <input class="search" id="search" placeholder="Search signals...">
       <button class="toggle" id="favToggle">★ Favorites</button>
-      <button class="toggle" id="hiddenToggle">Show hidden</button>
     </div>
   </div>
   <div id="feed"></div>
 </div>
 
-<footer><div class="wrap">Culture Scout · A LionCreative system · Refreshes daily · Your notes and stars are saved in this browser only</div></footer>
+<footer><div class="wrap">Culture Scout · A LionCreative system · Refreshes daily · Saved signals live in this browser</div></footer>
 
 <script>
 const CH = {
@@ -131,7 +139,9 @@ const CH = {
 };
 const CUR_KEY = 'scout-curation';
 let curation = JSON.parse(localStorage.getItem(CUR_KEY) || '{}');
-let state = { channel: 'all', q: '', favOnly: false, showHidden: false };
+let state = { channel: 'all', q: '', favOnly: false, view: 'latest' };
+const LATEST_DAYS = 14;
+function latestCutoff(){ const d = new Date(); d.setDate(d.getDate() - LATEST_DAYS); return d.toISOString().slice(0,10); }
 let DATA = { signals: [] };
 
 const sid = s => `${s.date}|${s.channel}|${(s.title||s.headline||'').slice(0,60)}`;
@@ -177,13 +187,14 @@ function render(){
   chips.querySelectorAll('.chip').forEach(el => el.onclick = () => { state.channel = el.dataset.ch; render(); });
 
   // filter
+  const cut = latestCutoff();
   let rows = DATA.signals.filter(s=>{
     const c = getCur(sid(s));
-    if(c.hidden && !state.showHidden) return false;
+    if(state.view === 'latest' && s.date < cut) return false;
     if(state.favOnly && !c.fav) return false;
     if(state.channel!=='all' && s.channel!==state.channel) return false;
     if(state.q){
-      const hay = `${s.headline} ${s.why} ${s.what}`.toLowerCase();
+      const hay = `${s.title||s.headline||''} ${s.whatIs||''} ${s.why||''} ${s.what||''}`.toLowerCase();
       if(!hay.includes(state.q.toLowerCase())) return false;
     }
     return true;
@@ -204,19 +215,14 @@ function render(){
     return `<div class="day"><div class="day-label">${fmtDate(date)}</div><div class="day-sub">${dayRows.length} signal${dayRows.length>1?'s':''}</div>${chanBlocks}</div>`;
   }).join('');
 
-  // wire card actions
-  feed.querySelectorAll('[data-act]').forEach(el=>{
+  // wire favorite buttons
+  feed.querySelectorAll('[data-act="fav"]').forEach(el=>{
     el.onclick = () => {
-      const id = el.dataset.id, act = el.dataset.act;
+      const id = el.dataset.id;
       const c = curation[id] = curation[id] || {};
-      if(act==='fav') c.fav = !c.fav;
-      if(act==='hide') c.hidden = !c.hidden;
-      if(act==='note'){ const ta = document.querySelector(`textarea[data-id="${CSS.escape(id)}"]`); ta.classList.toggle('show'); ta.focus(); return; }
+      c.fav = !c.fav;
       saveCur(); render();
     };
-  });
-  feed.querySelectorAll('textarea[data-id]').forEach(ta=>{
-    ta.oninput = () => { const c = curation[ta.dataset.id] = curation[ta.dataset.id]||{}; c.note = ta.value; saveCur(); };
   });
 }
 
@@ -232,18 +238,22 @@ function cardHTML(s){
     ${s.why?`<div class="block why"><span class="lbl">Why it matters</span><p>${esc(s.why)}</p></div>`:''}
     ${s.what?`<div class="block"><span class="lbl">What to do</span><p>${esc(s.what)}</p></div>`:''}
     ${s.source?`<div class="src">🔗 <a href="${esc(s.source)}" target="_blank" rel="noopener">${esc(s.source)}</a></div>`:''}
-    <textarea class="note ${c.note?'show':''}" data-id="${id}" placeholder="Your note...">${esc(c.note||'')}</textarea>
     <div class="card-actions">
       <button class="act ${c.fav?'on':''}" data-act="fav" data-id="${id}">★ ${c.fav?'Saved':'Save'}</button>
-      <button class="act" data-act="note" data-id="${id}">✎ Note</button>
-      <button class="act" data-act="hide" data-id="${id}">${c.hidden?'Unhide':'Hide'}</button>
     </div>
   </div>`;
 }
 
 document.getElementById('search').oninput = e => { state.q = e.target.value; render(); };
 document.getElementById('favToggle').onclick = e => { state.favOnly = !state.favOnly; e.target.classList.toggle('on', state.favOnly); render(); };
-document.getElementById('hiddenToggle').onclick = e => { state.showHidden = !state.showHidden; e.target.classList.toggle('on', state.showHidden); render(); };
+function setView(v){
+  state.view = v;
+  document.getElementById('tabLatest').classList.toggle('active', v==='latest');
+  document.getElementById('tabArchive').classList.toggle('active', v==='archive');
+  render();
+}
+document.getElementById('tabLatest').onclick = () => setView('latest');
+document.getElementById('tabArchive').onclick = () => setView('archive');
 // ── Refresh now ─────────────────────────────────────────────────────────────
 const btn = document.getElementById('refreshNow');
 const rstatus = document.getElementById('rstatus');
