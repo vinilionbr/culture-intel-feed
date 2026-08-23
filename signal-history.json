@@ -114,6 +114,24 @@
         "TITLE: Google ships sign-language AI to 70M Deaf users via phone keyboard",
         "TITLE: Agents can now browse the web 7x faster with Cloudflare's Kitesurf"
       ]
+    },
+    {
+      "date": "2026-08-23",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Wellness as Structural Identity, Not Aspiration",
+        "TITLE: Micro-Communities Over Viral Reach as Brand Strategy",
+        "TITLE: Intentional Grounding: The Quest for Identity Anchors"
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Solana Summer House Reframes Crypto Culture as Live Patronage Economy",
+        "TITLE: Superstate Unlocks SEC-Registered Stock Trading Directly Onchain",
+        "TITLE: Tether's $120M Mining Exit Shows Economics Shifting Away from Speculation"
+      ]
     }
   ]
 }
