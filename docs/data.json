@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T23:29:59.673Z",
+  "updated": "2026-08-24T23:28:22.173Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -510,6 +510,106 @@
       "what": "Shift from extraction-focused crypto initiatives to community-value-first strategies. If you're building onchain, anchor it to audience loyalty, not price volatility. Audiences notice who's betting on culture vs. who's betting on hype.",
       "source": "https://www.investing.com/news/commodities-news/how-tethers-bitcoin-mining-plans-in-uruguay-unraveled-4871245",
       "image": ""
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "social",
+      "title": "SIGNAL 2: YouTube Comments Moderation SIGNAL 3: Threads Topic-Based",
+      "whatIs": "SIGNAL 2: YouTube Comments Moderation SIGNAL 3: Threads Topic-Based Discovery ---",
+      "why": "",
+      "what": "",
+      "source": "",
+      "image": ""
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "social",
+      "title": "LinkedIn's AI Slop Button Crushes Low-Effort Posts (1M+ Flags)",
+      "whatIs": "LinkedIn — Users can flag posts as \"seems like AI slop\"; flagged content gets reduced reach. Platform tracking signals inform ranking algorithms in real-time.",
+      "why": "LinkedIn is working on automatic detection mechanisms for AI slop content , and when users flag a post, LinkedIn privately notifies the creator through analytics that members found it inauthentic, with data shaping how content is surfaced and ranked over time . Over 40% of long-form posts are fully AI-generated —this is a platform-wide reckoning forcing creators to choose authenticity over automation.",
+      "what": "Write in your own voice, use AI for proofreading only—never content generation. Pin founder insights, real examples, and personal perspective instead of polished templates.",
+      "source": "https://www.mmm-online.com/news/linkedin-automated-content-ai-slop-detection-button/",
+      "image": "https://www.mmm-online.com/wp-content/uploads/sites/2/2026/08/Linkedin-GettyImages-RM-586113536-MMM.jpg"
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "social",
+      "title": "YouTube Shorts Subscriber-Only Comments Filter Launches",
+      "whatIs": "YouTube — Creators can now restrict Shorts comments to subscribers/members only, with minimum subscription time requirements, shifting moderation from reactive to preventative.",
+      "why": "This feature limits comment posting on individual videos and Shorts to subscribers and paid channel members, with the ability to set a minimum subscription time before a viewer can comment . This works strongest in predictable attack scenarios: scam waves under finance, tech, and crypto content; harassment toward women, LGBTQ creators, and public figures; and coordinated brigading after clips circulate . Smaller creators can now maintain quality comment sections without hours of moderation.",
+      "what": "Enable subscriber-only comments on Shorts in high-spam niches (finance, crypto, product launches) to reduce bot spam and harassment while building community loyalty.",
+      "source": "https://support.google.com/youtube/answer/9072033?hl=en",
+      "image": ""
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "social",
+      "title": "Threads Trending Topics Now Drive Algorithm Distribution",
+      "whatIs": "Threads — Explore tab surfaces topic clusters based on follower network + platform discussions; posts tapping trending topics reach non-followers algorithmically, no follower count needed.",
+      "why": "Trending topics are more visible, more specific to your niche, and more integrated into how posts get distributed. When you tap into a trending topic with a relevant post, the algorithm surfaces your content to users who are actively engaging with that topic, even if they do not follow you . The platform is processing over 500 million daily interactions , making this a high-velocity discovery channel for small accounts.",
+      "what": "Check Explore tab daily for niche-specific trending topics. Post 1-2 replies or fresh takes on trending conversations within your expertise area each day.",
+      "source": "https://threadstomillions.com/blog/threads-app-update-2026",
+      "image": "https://threadstomillions.com/og-image-v6.jpg"
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "culture",
+      "title": "From Scarcity to Strategy: The Permanent Barbell Economy",
+      "whatIs": "The market is becoming increasingly polarized between premium purchases that promise lasting quality and discount alternatives that maximize affordability, leaving the middle ground under pressure. Mid-market positioning is no longer viable; consumer spending now bifurcates into value-seeking and luxury segments.",
+      "why": "Consumer behavior is shifting decisively toward value and cost-consciousness. Roughly 75% of US households are trading down to cheaper brands and retailers. By mid-2026, Gen Z is expected to spend a higher share of budgets on in-store brands than any other generation, suggesting the shift is structural rather than cyclical. This reflects deeper value realignment, not temporary belt-tightening.",
+      "what": "Choose a pole — premium quality with emotional justification, or transparent value leadership. Abandon middle-ground positioning entirely.",
+      "source": "https://www.rolandberger.com/en/Insights/Publications/Understanding-the-new-consumer-playbook-for-2026.html",
+      "image": "https://www.rolandberger.com/img/og/Roland_Berger_WEB_26_2217_Decoding_Consumer_Behavior_OG.jpg?v=1896473"
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "culture",
+      "title": "Wellness Becomes Measurable Personal Science, Not Lifestyle",
+      "whatIs": "Personalization continues to dominate wellness in 2026, powered by artificial intelligence, connected devices, and longitudinal health data. Consumers increasingly expect wellness plans — from fitness and nutrition to sleep and stress — to adapt dynamically based on their biomarkers, habits, and goals.",
+      "why": "Technology is no longer just reflecting habits; it's shaping them. This shift elevates the importance of personalization, interoperability, and proof. In a results-driven market, the behavioral impact of wearable health technology is becoming the ultimate measure of value. Wellness identity is now contingent on measurable data and algorithmic optimization.",
+      "what": "Build verifiable outcomes, integrate clinical credibility, position as data-backed performance tool, not aspirational lifestyle.",
+      "source": "https://www.dcreport.org/2026/06/25/wellness-in-2026-convenience-personalization-and-better-access/",
+      "image": "https://www.dcreport.org/wp-content/uploads/2026/06/DCR-wellness-2026-hero.jpg"
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "culture",
+      "title": "Reclaimed Nostalgia as Psychological Anchoring Strategy",
+      "whatIs": "Pinterest has seen a rise in nostalgic trends that transport people back to childhood because looking to the past provides people with comfort. Nostalgia is evolving into \"reclamation,\" fusing the past with the present to brace for a future unknown.",
+      "why": "For millennials and older Generation Z, these late-2000s anthems of resilience are more than catchy throwbacks. They're emotional anchors, comfort cues in an economy that feels unpredictable. Just as pop music offered escapism during the 2008 recession, today's \"Recession Pop\" offers stability and optimism amid headlines about inflation, layoffs and market uncertainty. In this era of peak anxiety—shaped by generative AI adoption, economic uncertainty, wealth inequality, and fragmented ideologies—people are seeking deeper connections, tangible realities, and playful escapism to navigate everyday chaos.",
+      "what": "Create safe-haven content and experiences. Mix past touchstones with present functionality. Avoid irony; double down on sincerity and emotional permission.",
+      "source": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/",
+      "image": "https://images.ctfassets.net/2pyx8rwuvz6x/12P0zqxkFVFpNUu9zjG6ZK/2a0958a06ba822d8a2a610cb87411ffb/2026_Report-OG__1_.jpg?fm=webp&q=85"
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "trends",
+      "title": "Ian McConnell's \"Bangladesh\" Absurdist Lip-Sync Trend",
+      "whatIs": "A 49-second track driving an escalating-demands lip sync format with sincere delivery and deliberately absurd \"you never…\" lists that's blown up fast with major creators jumping on it",
+      "why": "August 2026 on Instagram is shaping up around absurdist audio bits with a real shift toward low-production, single-take content outperforming polished posts , and Ian McConnell's \"Bangladesh\" is fueling an absurdist substitution format that's taken over Reels . This is actively spreading across both TikTok and Instagram with major engagement.",
+      "what": "Record a 10-15 second Reel using \"Bangladesh\" audio with deadpan frustration face + your niche-specific version of \"you never take me to...\"",
+      "source": "https://newengen.com/insights/instagram-trends/",
+      "image": "https://www.datocms-assets.com/151374/1773070097-influencer-marketing-trends-blog-post.jpg"
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "trends",
+      "title": "Petal by Ariana Grande + Trending Reels Audio Moment",
+      "whatIs": "Ariana Grande's \"petal\" just dropped and is driving content across Instagram Reels , and for the week of August 20, 2026, Petal by Ariana Grande is among the top trending audios",
+      "why": "Ariana Grande's Petal Chair Choreo both spreading fast with Spider-Man: Brand New Day soundtrack and new Ariana Grande releases powering cinematic edits and hype cuts across the app . This is a fresh music drop with established momentum RIGHT NOW.",
+      "what": "Create a cinematic reveal or transition Reel using Petal audio—glow-up transitions or product reveals perform best.",
+      "source": "https://creatordb.app/free-tools/trending-instagram-audio/",
+      "image": "https://creatordb.app/images/instagram-audio-banner.webp"
+    },
+    {
+      "date": "2026-08-24",
+      "channel": "trends",
+      "title": "\"Seeing How My X Would Respond to a Bully\" Format—Fastest-Spreading August Trend",
+      "whatIs": "The \"Seeing How My X Would Respond to a Bully\" format is one of August's fastest-spreading, with big formats right now including this alongside \"My Favorite Person\" and Paparazzi dubstep transitions",
+      "why": "The dominant pattern this cycle is format-first comedy: short, repeatable premises with a hard beat-drop or punchline, not polished lip-syncs . The most effective formats for small creators this week were split-screen comparisons and reaction content filmed from accessible locations , meaning this format works for any account size.",
+      "what": "Post text-overlay setup (\"test my sibling's comeback to insults\") + reaction video in split-screen format—no special audio needed.",
+      "source": "https://newengen.com/insights/august-tiktok-trends/",
+      "image": "https://www.datocms-assets.com/151374/1753738972-ne_blog_thumbnails_august_v3.png"
     }
   ]
 }
