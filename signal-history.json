@@ -1,42 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-08-20",
-      "channel": "culture",
-      "topics": [
-        "Marketers are shifting from chasing virality to building purposeful communities, while brands must prioritize human-led ",
-        "One of the clearest signals from Pinterest and Google Trends is the shift from aspirational hustle toward softer, calmer",
-        "The biggest social media trend for 2026 is how people now use social as a search and decision-making tool. More than 60%"
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "channel": "trends",
-      "topics": [
-        "The \"Six Seven\" (Seis Sete) Brazilian funk challenge featuring finger-counting choreography is the dominant trend, ampli",
-        "The song is now the number three most frequently used sound on TikTok and features in over 3.3 million videos that use t",
-        "The trend began with Kylie Jenner, who held her birthday eve celebrations for her 29th birthday early this month, and th"
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "channel": "social",
-      "topics": [
-        "TITLE: TikTok's \"Don't Show on Profile\" Unlocks Low-Risk Experimentation",
-        "TITLE: LinkedIn's AI-Powered Event Clips Now Turn Live into Weekly Content Feeds",
-        "TITLE: X Kills Engagement Bait—Monetization Now Rewards Original Voices Only"
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Ultra-cheap voice AI goes live for real-time agents",
-        "TITLE: AI routing API cuts inference costs 40% automatically",
-        "TITLE: ChatGPT Ads opens 31 European countries for creators"
-      ]
-    },
-    {
       "date": "2026-08-21",
       "channel": "social",
       "topics": [
@@ -338,6 +302,33 @@
         "TITLE: BONK‑Powered Casino Games Launch",
         "TITLE: Spritehood’s 44K‑Item Mint on Robinhood Chain",
         "TITLE: FLOQ & ASTER Boost Indonesian Web3 Access"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "channel": "culture",
+      "topics": [
+        "TITLE: GLP‑1 Drugs Redefine Weight‑Loss as Lifestyle Status",
+        "TITLE: Emerging‑Middle‑Class Premiumization of Spirits",
+        "TITLE: Hybrid Vehicles as the New “Affordable Green” Standard"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Saxophones Getting Louder” Meme Surge",
+        "TITLE: Lindsay Clancy Trial TikTok Frenzy",
+        "TITLE: “All Fake” Stolen‑Car Pursuit Challenge"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Spritehood Lets Owners Craft Their Own Avatars",
+        "TITLE: Pudgy Penguins Unveils $PENGU Utility Token",
+        "TITLE: BankChain Alliance Gives 3,283 Community Banks Ownership Stakes"
       ]
     }
   ]
