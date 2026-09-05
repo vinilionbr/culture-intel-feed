@@ -1,49 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-08-21",
-      "channel": "social",
-      "topics": [
-        "TITLE: YouTube Counts Views from First Frame (Aug 24)",
-        "TITLE: Snapchat Bans AI Videos from Spotlight Feed",
-        "TITLE: Instagram Replace Audio—No More Deleting Posts to Change Music"
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "channel": "culture",
-      "topics": [
-        "TITLE: From restriction to optimization: The end of \"more\"",
-        "TITLE: Digital identity as tactical choice, not permanent record",
-        "TITLE: Human-created content becomes luxury good as AI saturates feeds"
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Single-take truck driver lip sync—low-production content winning massive views"
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Murf Falcon 2 slashes voice AI costs 80% vs. competition",
-        "TITLE: Suno Studio 2.0 adds MIDI and audio effects to music creation",
-        "TITLE: Meta releases official Ads MCP for AI agents to manage campaigns"
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "channel": "web3",
-      "topics": [
-        "The Next NFT Era event held on August 20 in Dubai articulated a cultural reframe: the \"NFT Renaissance\" is not about rec",
-        "AI agents are fundamentally transforming Web3 gaming, moving from a disruptive force to a core, legitimized element—deve",
-        "CyberSpace secured a strategic investment from a Middle Eastern institution involving 99 Bored Ape Yacht Club (BAYC) NFT"
-      ]
-    },
-    {
       "date": "2026-08-22",
       "channel": "social",
       "topics": [
@@ -329,6 +286,42 @@
         "TITLE: Spritehood Lets Owners Craft Their Own Avatars",
         "TITLE: Pudgy Penguins Unveils $PENGU Utility Token",
         "TITLE: BankChain Alliance Gives 3,283 Community Banks Ownership Stakes"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "channel": "social",
+      "topics": [
+        "TITLE: TikTok LIVE + In‑App Fan Experience",
+        "TITLE: “Cat‑in‑the‑Hat” Hoax Spreads on TikTok",
+        "TITLE: TikTok African All‑Stars AI Series"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Heritage Playgrounds – Traditional Games Go Mainstream",
+        "TITLE: Indigenous Art as Global Narrative Driver",
+        "TITLE: Museum‑Powered Heritage Beverages"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Quiet on the Creek” Whisper Dance",
+        "TITLE: Google Docs Password Leak Panic",
+        "TITLE: “Spikes Under the Lights” Volleyball Buzz"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "channel": "ai",
+      "topics": [
+        "TITLE: GPT‑6 Astra Rolls Out to All Users",
+        "TITLE: Google’s Interactive E‑Book AI Tool Launches",
+        "TITLE: Claude Fable 5.1 Elevates Code Debugging"
       ]
     }
   ]
