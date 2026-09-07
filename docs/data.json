@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T00:44:35.947Z",
+  "updated": "2026-09-07T00:46:35.072Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -1410,6 +1410,36 @@
       "what": "Create a “what NOT to do” parody using the same footage style, adding safety tips and a comedic voice‑over.",
       "source": "https://www.theguardian.com/media/2026/aug/25/speeding-online-subculture-young-men-drive-dangerously-for-likes",
       "image": "https://i.guim.co.uk/img/media/a2a68455f3685e2bdbca272f8d53bbfd0635e3ca/1486_0_5268_4217/master/5268.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13e77740c3943dd9db5abedbd76cac8e"
+    },
+    {
+      "date": "2026-09-07",
+      "channel": "culture",
+      "title": "Longevity‑First Consumer Playbook",
+      "whatIs": "A growing cohort is re‑orienting spending toward products and services that promise long‑term health, mental resilience, and financial security, rejecting short‑term indulgences.",
+      "why": "Gen Z and older Millennials see health as a lifelong investment; they allocate more of their budget to preventive nutrition, fitness tech, and mental‑wellness, driving a durable premiumization of “future‑proof” brands.",
+      "what": "Position products as longevity‑enhancing, backed by science.",
+      "source": "https://www.bcg.com/publications/2026/five-consumer-shifts-reshaping-growth",
+      "image": "https://web-assets.bcg.com/dims4/default/b9fb3dc/2147483647/strip/true/crop/3520x1848+0+66/resize/1200x630!/format/webp/quality/80/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F46%2Fdf%2F2649f67d4fdda4eb27df19fb631f%2Fglobal-consumers-have-moved-on-has-your-growth-strategy-caught-up.gif"
+    },
+    {
+      "date": "2026-09-07",
+      "channel": "culture",
+      "title": "AI‑Guided Travel Becomes Loyalty Engine",
+      "whatIs": "AI‑powered itinerary planning and on‑the‑fly personalization have moved from novelty to the primary way travelers discover, book, and experience trips, reshaping loyalty cycles.",
+      "why": "Travel‑savvy consumers now trust generative AI for inspiration, leading brands that embed AI tools into loyalty programs to capture repeat spend and long‑term advocacy.",
+      "what": "Build AI‑driven travel assistants that reward repeat usage.",
+      "source": "https://creative.salon/articles/features/travel-summer-2026-wpp-media-sidney-draper",
+      "image": "https://img2.storyblok.com/560x300/f/102932/1240x697/24cbfde8ab/airplane-window.png"
+    },
+    {
+      "date": "2026-09-07",
+      "channel": "culture",
+      "title": "Organized AI‑Ethics Backlash as Political Force",
+      "whatIs": "Discontent over AI’s environmental and societal impacts has coalesced into a coordinated political movement, influencing policy and consumer expectations of responsible tech.",
+      "why": "Young voters demand transparent, sustainable AI practices; brands seen as complicit face reputational risk, while those championing ethical AI gain trust and market share.",
+      "what": "Publicly adopt verifiable AI‑ethics standards.",
+      "source": "https://www.theatlantic.com/technology/2026/08/irreplaceable-climate-activists-ai-backlash/688404",
+      "image": "https://cdn.theatlantic.com/thumbor/jBWVjvToeZSIGlfagUNyjpA_fKk=/0x43:2000x1085/1200x625/media/img/mt/2026/08/aiclimate/original.png"
     }
   ]
 }
