@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T00:46:35.072Z",
+  "updated": "2026-09-08T01:04:02.738Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -1440,6 +1440,66 @@
       "what": "Publicly adopt verifiable AI‑ethics standards.",
       "source": "https://www.theatlantic.com/technology/2026/08/irreplaceable-climate-activists-ai-backlash/688404",
       "image": "https://cdn.theatlantic.com/thumbor/jBWVjvToeZSIGlfagUNyjpA_fKk=/0x43:2000x1085/1200x625/media/img/mt/2026/08/aiclimate/original.png"
+    },
+    {
+      "date": "2026-09-08",
+      "channel": "culture",
+      "title": "Trust‑First Brand Architecture",
+      "whatIs": "Consumers are demanding transparent, consistent performance across every touchpoint, making trust a core brand capability rather than a peripheral promise.",
+      "why": "In an era of information overload and heightened scrutiny, Gen Z and Millennials equate brand reliability with personal values, rewarding firms that embed trust into product quality, data handling, and social impact.",
+      "what": "Build a “trust‑by‑design” narrative across all communications.",
+      "source": "https://www.bcg.com/publications/2026/five-consumer-shifts-reshaping-growth",
+      "image": ""
+    },
+    {
+      "date": "2026-09-08",
+      "channel": "culture",
+      "title": "Eco‑Luxury Furniture Boom",
+      "whatIs": "The market for high‑design, environmentally certified furniture is accelerating, positioning sustainability as a premium status symbol rather than a niche ethic.",
+      "why": "Affluent shoppers now signal identity through green aesthetics, merging ecological responsibility with aspirational home styling, driving long‑term demand for eco‑luxury pieces.",
+      "what": "Highlight sustainable sourcing and carbon‑neutral production in product storytelling.",
+      "source": "https://www.fortunebusinessinsights.com/eco-friendly-furniture-market-117969",
+      "image": ""
+    },
+    {
+      "date": "2026-09-08",
+      "channel": "culture",
+      "title": "Pharma‑Powered Wellness as Lifestyle Pillar",
+      "whatIs": "Weight‑loss and metabolic drugs (e.g., GLP‑1 analogues) are shifting from medical treatments to mainstream lifestyle choices, reshaping consumer health priorities.",
+      "why": "With adoption doubling in 18 months, consumers view these pharmaceuticals as essential tools for self‑optimization, prompting brands to integrate medical‑grade solutions into wellness portfolios.",
+      "what": "Partner with credible health providers to embed pharma‑grade options in brand‑led wellness programs.",
+      "source": "https://www.glossy.co/beauty/wellness/the-wellness-ma-hot-streak-shows-no-signs-of-slowing-down",
+      "image": "https://www.glossy.co/wp-content/uploads/sites/4/2026/08/Screenshot-2026-08-11-at-5.07.59-AM.png?w=1808"
+    },
+    {
+      "date": "2026-09-08",
+      "channel": "ai",
+      "title": "Adobe Firefly launches AI audio suite",
+      "whatIs": "Adobe Firefly added three generative audio tools—Music, Sound Effects, and Speech—now publicly available for creators and marketers.",
+      "why": "Enables instant, studio‑quality audio creation without engineers, letting brands produce custom tracks, ads, and voiceovers on‑the‑fly.",
+      "what": "Publish a short video ad with AI‑generated music and voiceover.",
+      "source": "https://www.techradar.com/pro/adobe-firefly-just-added-3-ai-audio-tools-for-creators-and-marketers-i-tested-them-all-to-see-if-theyre-any-good",
+      "image": "https://cdn.mos.cms.futurecdn.net/LX8ZzvuQBdaf9Xz7htbeyU-1920-80.png"
+    },
+    {
+      "date": "2026-09-08",
+      "channel": "ai",
+      "title": "Archie AI agent automates creator‑marketing matchmaking",
+      "whatIs": "Martech.org announced Archie, an AI‑powered agent that analyses brand briefs, creator histories, and audience data to deliver pre‑vetted creator shortlists for campaigns.",
+      "why": "Cuts weeks of manual outreach to minutes, letting marketers launch influencer collaborations instantly with data‑backed creator matches.",
+      "what": "Run a pilot campaign using Archie’s shortlist for a new product launch.",
+      "source": "https://martech.org/the-latest-ai-powered-martech-news-and-releases",
+      "image": "https://martech.org/wp-content/uploads/2026/07/AI-roundup2-800x450.png"
+    },
+    {
+      "date": "2026-09-08",
+      "channel": "ai",
+      "title": "New Beehiiv suite gives creators AI‑controlled SEO tools",
+      "whatIs": "Inc.com reports a fresh suite of Beehiiv tools that let publishers optimise for “answer engine” search, block unwanted AI crawlers, and add AI‑driven workflow insights.",
+      "why": "Empowers newsletter and blog creators to dominate AI‑driven search results and protect their content from unwanted scraping, boosting organic reach.",
+      "what": "Enable the new SEO controls on your next newsletter issue.",
+      "source": "https://www.inc.com/victoria-salves/bots-scanned-beehiiv-sites-500-million-times-last-month-new-tool-gives-creators-more-control/91393302",
+      "image": ""
     }
   ]
 }
