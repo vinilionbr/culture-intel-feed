@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T01:10:53.031Z",
+  "updated": "2026-09-10T01:00:08.932Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -1650,6 +1650,66 @@
       "what": "Bundle a redeemable NFT with your merch that unlocks exclusive digital content or future drops.",
       "source": "https://www.hokanews.com/2026/09/microstrategy-launches-250-bitcoin.html",
       "image": ""
+    },
+    {
+      "date": "2026-09-10",
+      "channel": "culture",
+      "title": "Value‑Driven Quality Eating Takes Center Stage",
+      "whatIs": "Consumers are prioritising affordable dining options without sacrificing quality, creating a “value‑plus‑quality” segment that blends cost‑consciousness with elevated taste experiences.",
+      "why": "Rising grocery‑bill stress (75% of shoppers) fuels a desire for meals that feel premium yet fit tighter budgets, reshaping expectations of restaurants and food brands.",
+      "what": "Highlight premium‑quality ingredients at accessible price points.",
+      "source": "https://www.mediapost.com/publications/article/417267/affordability-matters-but-quality-remains-king-in.html",
+      "image": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/08/14/study-story-25_UjsqORs.png"
+    },
+    {
+      "date": "2026-09-10",
+      "channel": "culture",
+      "title": "Hybrid Vehicles Become the New “Affordable Green” Standard",
+      "whatIs": "Hybrid cars are outpacing pure EVs in growth as consumers seek immediate fuel‑cost savings, government incentives, and broader model availability while still signaling environmental responsibility.",
+      "why": "Higher fuel prices and lingering range‑anxiety push buyers toward hybrids as the pragmatic, status‑neutral path to sustainability, reshaping automotive brand positioning.",
+      "what": "Emphasise hybrid efficiency and everyday practicality in campaigns.",
+      "source": "https://www.autonews.com/resource_center/roland-berger/an-ev-market-update-shifting-demand/",
+      "image": ""
+    },
+    {
+      "date": "2026-09-10",
+      "channel": "culture",
+      "title": "Attention‑First Marketing as the New Currency of Trust",
+      "whatIs": "Brands are shifting from impression‑based metrics to “attention” measurement, focusing on micro‑moments where consumers actively engage, to rebuild trust and impact in a fragmented media landscape.",
+      "why": "As media overload fragments focus, capturing genuine attention becomes the differentiator for brand relevance, prompting new analytics and creative formats.",
+      "what": "Design content for bite‑size, high‑engagement moments that earn measurable attention.",
+      "source": "https://www.campaignlive.co.uk/article/the-future-of-attention/49z6xqyq45yh5vxag12c00eswg",
+      "image": ""
+    },
+    {
+      "date": "2026-09-10",
+      "channel": "web3",
+      "title": "Spritehood Brings Mass‑Mint to Robinhood Chain",
+      "whatIs": "Robinhood’s new “Spritehood” collection launched 44,444 NFTs on its public mainnet, positioning the chain as a hub for digital identity, games, and community art.",
+      "why": "Shows a non‑traditional finance platform using NFTs to build cultural relevance and on‑chain personas, signaling where everyday users will first encounter ownership.",
+      "what": "Create a branded micro‑mint that ties your audience’s social profile to a unique on‑chain avatar.",
+      "source": "https://www.nftculture.com/nft-news/spritehood-everything-you-wanted-to-know-about-the-latest-nft-project-on-robinhood",
+      "image": "https://www.nftculture.com/wp-content/uploads/2026/08/Screenshot-2026-08-11-062259.png"
+    },
+    {
+      "date": "2026-09-10",
+      "channel": "web3",
+      "title": "1win Adds USDC on Solana, Joins Sona Relief Drive",
+      "whatIs": "Gaming sportsbook 1win now supports USDC deposits/withdrawals via Solana and is backing Sona’s Nepal emergency fundraiser, merging crypto utility with community‑focused philanthropy.",
+      "why": "Demonstrates brands leveraging fast, low‑fee on‑chain payments to deepen user engagement and showcase social impact, a template for creators seeking tangible utility.",
+      "what": "Partner with a cause‑aligned DAO to accept USDC on a low‑cost layer‑2 for fan‑driven fundraising.",
+      "source": "https://captainaltcoin.com/1win-expands-crypto-offering-with-usdc-on-solana-and-new-ecosystem-developments",
+      "image": "https://captainaltcoin.com/wp-content/uploads/2026/09/1200720_1788786976iMR9vx8sG5.jpg"
+    },
+    {
+      "date": "2026-09-10",
+      "channel": "web3",
+      "title": "Cosmos Launches Partner Network for Tokenization",
+      "whatIs": "Cosmos announced a Partner Network to help financial institutions accelerate tokenization projects using its Tokenization Suite and digital ledger solutions.",
+      "why": "Signals a move toward mainstream, institution‑backed digital ownership, paving the way for creators to issue verifiable, regulated NFTs tied to real‑world assets.",
+      "what": "Explore Cosmos’ SDK to issue a limited‑edition, token‑backed collectible that can be traded on traditional finance platforms.",
+      "source": "https://www.tradingview.com/news/prnewswire:9b3a6b2d351c9:0-cosmos-launches-partner-network-to-help-financial-institutions-accelerate-tokenization-and-digital-assets-initiatives",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
     }
   ]
 }
