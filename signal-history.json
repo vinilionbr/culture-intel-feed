@@ -1,51 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-08-27",
-      "channel": "social",
-      "topics": [
-        "TITLE: X Pays Influencers Hourly for Polarizing Posts",
-        "TITLE: Crocs Launches Live‑Hatching Mascot Campaign",
-        "TITLE: Meta’s New 2‑Hour Daily Limit for Teens"
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Heritage‑Game Revival Fuels Community‑First Leisure",
-        "TITLE: Indigenous Artistry Moves to Mainstream Narrative",
-        "TITLE: AI‑Augmented Shopping Becomes Baseline Expectation"
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "channel": "trends",
-      "topics": [
-        "TITLE: TikTok $400M Settlement Shock",
-        "TITLE: “No Block, No Rock” Dolphins Meme",
-        "TITLE: Kyle Busch Day Countdown"
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Meta AI launches Mac‑only desktop app",
-        "TITLE: Google Gemini 3.7 Flash debuts for instant creatives",
-        "TITLE: DeepSeek’s GLM‑5.3‑Flash opens high‑quality content generation"
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "channel": "web3",
-      "topics": [
-        "TITLE: 6529 Meme Artist Baku Launches Limited‑Edition Card",
-        "TITLE: NOXCAT Unveils Consumer‑First Web3 Vision at MYBW",
-        "TITLE: Cwallet Rolls Out Integrated Social Wallet Ecosystem"
-      ]
-    },
-    {
       "date": "2026-08-28",
       "channel": "culture",
       "topics": [
@@ -394,6 +349,15 @@
         "TITLE: Spritehood Brings Mass‑Mint to Robinhood Chain",
         "TITLE: 1win Adds USDC on Solana, Joins Sona Relief Drive",
         "TITLE: Cosmos Launches Partner Network for Tokenization"
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Kitchen‑Witch DIY Rituals",
+        "TITLE: Community Art Hubs as Social Anchors",
+        "TITLE: Frugal‑Value Shopping & Private‑Label Rise"
       ]
     }
   ]
