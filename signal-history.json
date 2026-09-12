@@ -1,15 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-08-28",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Mahjong‑Driven Social Re‑Gathering",
-        "TITLE: Decolonising the Art Narrative",
-        "TITLE: The “Little Treat” Economy"
-      ]
-    },
-    {
       "date": "2026-08-29",
       "channel": "culture",
       "topics": [
@@ -358,6 +349,33 @@
         "TITLE: Kitchen‑Witch DIY Rituals",
         "TITLE: Community Art Hubs as Social Anchors",
         "TITLE: Frugal‑Value Shopping & Private‑Label Rise"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "channel": "culture",
+      "topics": [
+        "TITLE: DIY “Kitchen Witch” Home Rituals",
+        "TITLE: Hybrid Community Art Hubs",
+        "TITLE: Hybrid‑Vehicle “Affordable Green” Standard"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "channel": "ai",
+      "topics": [
+        "TITLE: Interactive‑E‑Book AI Assistant",
+        "TITLE: AI Planner for Account‑Based Campaigns",
+        "TITLE: Week‑Wide Multi‑Model Launch Surge"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "channel": "web3",
+      "topics": [
+        "TITLE: 6529 Meme Card Drop Sparks Creator Buzz",
+        "TITLE: SpaceTrade Rebrands for Wider Web3 Reach",
+        "TITLE: StonkBrokers NFT Floor Ignites Community Play"
       ]
     }
   ]
