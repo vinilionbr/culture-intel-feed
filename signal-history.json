@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-08-29",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Longevity‑First Wellness Economy",
-        "TITLE: Emerging‑Middle‑Class Premiumization",
-        "TITLE: Wellness‑Sector Consolidation as Infrastructure"
-      ]
-    },
-    {
-      "date": "2026-08-29",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Elumelu” Sound Surge",
-        "TITLE: 2026 Rebrand Challenge",
-        "TITLE: Minnesota State Fair Frenzy"
-      ]
-    },
-    {
-      "date": "2026-08-29",
-      "channel": "web3",
-      "topics": [
-        "TITLE: LBank Teams Up with Pudgy Penguins",
-        "TITLE: Spritehood Drops 44K NFTs on Robinhood Chain",
-        "TITLE: Film‑Finance NFTs Highlight New Ownership Model"
-      ]
-    },
-    {
       "date": "2026-08-30",
       "channel": "culture",
       "topics": [
@@ -376,6 +349,33 @@
         "TITLE: 6529 Meme Card Drop Sparks Creator Buzz",
         "TITLE: SpaceTrade Rebrands for Wider Web3 Reach",
         "TITLE: StonkBrokers NFT Floor Ignites Community Play"
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Kitchen‑Witch Domestic Rituals",
+        "TITLE: AI‑Powered Travel Curation Becomes Habitual",
+        "TITLE: Archive‑Driven Nostalgia as Cultural Currency"
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Katy Perry’s “The One That Got Away” Reigns Summer 2026",
+        "TITLE: Ube & Hōjicha Drink Craze Hits India",
+        "TITLE: Claressa Shields vs. Kaye Scott Fight Hype"
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "channel": "web3",
+      "topics": [
+        "TITLE: LimeWire Revives as NFT Marketplace",
+        "TITLE: Worldcoin Identity Spike Sparks Public Debate",
+        "TITLE: Apeing Presale Launches Meme‑Driven Identity Token"
       ]
     }
   ]
