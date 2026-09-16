@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-01",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Emerging‑Middle‑Class Premiumization",
-        "TITLE: Pharma‑Powered Wellness Consumerism",
-        "TITLE: Longevity‑First Lifestyle Economy"
-      ]
-    },
-    {
-      "date": "2026-09-01",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Jay‑Z “Tom Ford” TikTok Surge",
-        "TITLE: FIFA World Cup 2026 Content Spike",
-        "TITLE: “Chewing‑On‑Plane” Misophonia Clip Goes Viral"
-      ]
-    },
-    {
-      "date": "2026-09-01",
-      "channel": "web3",
-      "topics": [
-        "TITLE: LBank Teams Up with Pudgy Penguins",
-        "TITLE: Spritehood’s 44K‑Item Mint on Robinhood Chain",
-        "TITLE: Post‑NFT‑Era Reflection Sparks Community Introspection"
-      ]
-    },
-    {
       "date": "2026-09-02",
       "channel": "culture",
       "topics": [
@@ -349,6 +322,33 @@
         "TITLE: OpenSea Backs Arc Mainnet From Day One",
         "TITLE: Hup! Simplifies Multi‑Chain NFT Launches",
         "TITLE: NFT.NYC Unveils First‑Edition Tokenized Vault Drop"
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Brazil‑Core Cultural Export Surge",
+        "TITLE: Heritage‑Site Community Hubs",
+        "TITLE: Pan‑Latino Leadership Visibility"
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Hitler Scene” TikTok Sound Surge",
+        "TITLE: ChatGPT 80s Throwback Prompt",
+        "TITLE: Fantasy Football Panic Meter – Week 2"
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Pudgy Penguins + OpenSea Launch NYC Collector Fest",
+        "TITLE: Animoca Brands Talks AI‑Powered Digital Identity",
+        "TITLE: SpaceTrade Rebrands for Broader Web3 Access"
       ]
     }
   ]
