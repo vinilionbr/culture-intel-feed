@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-02",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Emerging‑Middle‑Class Premiumization of Spirits",
-        "TITLE: AI Trade Shifts from Fear to Opportunity",
-        "TITLE: Revival of Ancestral Spiritual Practices"
-      ]
-    },
-    {
-      "date": "2026-09-02",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Do You Mind” UK Summer Anthem",
-        "TITLE: “Cat‑in‑the‑Hat” Stalk‑Challenge Panic",
-        "TITLE: Instagram’s “WIP Wednesday” Craft Surge"
-      ]
-    },
-    {
       "date": "2026-09-03",
       "channel": "social",
       "topics": [
@@ -349,6 +331,24 @@
         "TITLE: Pudgy Penguins + OpenSea Launch NYC Collector Fest",
         "TITLE: Animoca Brands Talks AI‑Powered Digital Identity",
         "TITLE: SpaceTrade Rebrands for Broader Web3 Access"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Latin Fusion Beats Redefine Global Identity",
+        "TITLE: “Kitchen Witch” Ritualizes Home Cooking",
+        "TITLE: Status‑Driven Premiumization in Emerging Middle Classes"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Decentralized ID Becomes Creator Reputation Layer",
+        "TITLE: Foundation Announces Platform Wind‑Down",
+        "TITLE: Doodles Teams With Piet Mondrian Estate"
       ]
     }
   ]
