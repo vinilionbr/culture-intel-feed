@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T01:14:54.053Z",
+  "updated": "2026-09-18T01:10:20.591Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -2160,6 +2160,66 @@
       "what": "Pitch a limited‑edition “art‑inspired” avatar line that references classic works for your audience.",
       "source": "https://nftcalendar.io",
       "image": ""
+    },
+    {
+      "date": "2026-09-18",
+      "channel": "culture",
+      "title": "Longevity‑First Consumer Playbook",
+      "whatIs": "Consumers are restructuring spending around long‑term health and wellbeing, favoring durable nutrition, preventive care, and mental‑health investments over short‑term indulgences.",
+      "why": "A growing cohort sees health as a lifelong asset; they allocate budget to products that promise lasting benefits, reshaping category growth and brand loyalty.",
+      "what": "Position products as sustainable health investments.",
+      "source": "https://www.bcg.com/publications/2026/five-consumer-shifts-reshaping-growth",
+      "image": "https://web-assets.bcg.com/dims4/default/b9fb3dc/2147483647/strip/true/crop/3520x1848+0+66/resize/1200x630!/format/webp/quality/80/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F46%2Fdf%2F2649f67d4fdda4eb27df19fb631f%2Fglobal-consumers-have-moved-on-has-your-growth-strategy-caught-up.gif"
+    },
+    {
+      "date": "2026-09-18",
+      "channel": "culture",
+      "title": "AI‑Driven Shopping Becomes Main Channel",
+      "whatIs": "One‑third of Gen Z and a quarter of Millennials now rely on AI platforms for purchase advice, making AI the primary discovery and decision‑making tool for younger shoppers.",
+      "why": "This reflects a trust shift from traditional reviews to algorithmic personalization, redefining the consumer‑brand interaction model.",
+      "what": "Build AI‑powered recommendation experiences.",
+      "source": "https://pressreleasehub.pa.media/article/business-ai-race-is-outpacing-consumer-reality-vmls-future-shopper-report-finds-83635.html",
+      "image": "https://content-media.pa.media/press-release/picture/2026/09/17/01M2QQ98BZSH2XKZGJCJJMWPGF.jpg?fix=bounds&w=1200"
+    },
+    {
+      "date": "2026-09-18",
+      "channel": "culture",
+      "title": "Content‑First Editorial Mindset Takes Over",
+      "whatIs": "Brands are moving from sales‑centric posts to editorial‑style content—educational how‑tos, behind‑the‑scenes stories, and problem‑solving videos—to forge deeper, trust‑based relationships.",
+      "why": "Audiences now reward value‑rich storytelling over overt promotion, driving long‑term loyalty and algorithmic favorability across platforms.",
+      "what": "Adopt an editorial, value‑driven content strategy.",
+      "source": "https://www.coursera.org/articles/social-media-trends",
+      "image": "https://images.ctfassets.net/wp1lcwdav1p1/1hHIs5hUE2h5nxMUQZ34DR/1555db1f0a445664e52e89f9fafb8578/gettyimages-17386828251.webp?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive"
+    },
+    {
+      "date": "2026-09-18",
+      "channel": "ai",
+      "title": "Adobe Firefly Adds Studio‑Quality Audio Suite",
+      "whatIs": "Adobe Firefly released three new AI audio tools—Generate Music, Generate Sound Effects, and Generate Speech—available to all creators today.",
+      "why": "Creators can now produce royalty‑free music, custom SFX, and lifelike voiceovers instantly, eliminating separate audio‑production pipelines and speeding up video or podcast turnaround.",
+      "what": "Publish a short Reel using AI‑generated music and voiceover.",
+      "source": "https://www.techradar.com/pro/adobe-firefly-just-added-3-ai-audio-tools-for-creators-and-marketers-i-tested-them-all-to-see-if-theyre-any-good",
+      "image": "https://cdn.mos.cms.futurecdn.net/LX8ZzvuQBdaf9Xz7htbeyU-1920-80.png"
+    },
+    {
+      "date": "2026-09-18",
+      "channel": "ai",
+      "title": "ViralDrop AI Predicts Short‑Form Virality",
+      "whatIs": "ViralDrop.ai launched today, an AI tool that monitors competitors’ short‑form videos, extracts patterns of viral success, and auto‑generates content briefs for creators.",
+      "why": "Marketers can now shortcut trend‑research, instantly tailoring scripts or concepts that match the algorithmic sweet spot, boosting chances of hitting the “For You” page.",
+      "what": "Generate a TikTok script with ViralDrop’s insights and post within 24 hours.",
+      "source": "https://www.issuewire.com/viraldrop-launches-ai-tool-that-watches-competitors-content-so-creators-know-whats-going-viral-before-everyone-else-1875832845149007",
+      "image": "https://s3-us-west-2.amazonaws.com/issuewireassets/primg/219583/mid_weixin-image-20260908200618-5167-32432793654.png"
+    },
+    {
+      "date": "2026-09-18",
+      "channel": "ai",
+      "title": "Gemini 3.8 Live Voice Model Goes Live",
+      "whatIs": "Google announced Gemini 3.8 Live, a new voice‑enabled LLM that can think and respond in real time while speaking, released today for API access.",
+      "why": "Enables creators to build interactive audio experiences—live podcasts, AI‑hosted webinars, and dynamic voice‑overs—that adapt on‑the‑fly to audience input.",
+      "what": "Build a live‑interactive Q&A podcast using Gemini 3.8 Live’s streaming voice API.",
+      "source": "https://www.therundown.ai/articles/chatgpt-co-creator-launches-a-new-kind-of-ai",
+      "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/38056053-a9f9-4635-a845-9a0112d68bd3/jev.png?t=1789511570"
     }
   ]
 }
