@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-04",
-      "channel": "culture",
-      "topics": [
-        "TITLE: GLP‑1 Drugs Redefine Weight‑Loss as Lifestyle Status",
-        "TITLE: Emerging‑Middle‑Class Premiumization of Spirits",
-        "TITLE: Hybrid Vehicles as the New “Affordable Green” Standard"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Saxophones Getting Louder” Meme Surge",
-        "TITLE: Lindsay Clancy Trial TikTok Frenzy",
-        "TITLE: “All Fake” Stolen‑Car Pursuit Challenge"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Spritehood Lets Owners Craft Their Own Avatars",
-        "TITLE: Pudgy Penguins Unveils $PENGU Utility Token",
-        "TITLE: BankChain Alliance Gives 3,283 Community Banks Ownership Stakes"
-      ]
-    },
-    {
       "date": "2026-09-05",
       "channel": "social",
       "topics": [
@@ -322,6 +295,32 @@
         "TITLE: Adobe Firefly Adds Studio‑Quality Audio Suite",
         "TITLE: ViralDrop AI Predicts Short‑Form Virality",
         "TITLE: Gemini 3.8 Live Voice Model Goes Live"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "social",
+      "topics": [
+        "TITLE: Threads Adds Podcast Promotion Toolkit",
+        "TITLE: Meta Settlement Triggers Teen‑Safety Overhaul on TikTok & YouTube",
+        "TITLE: AI‑Generated Short‑Form Video Kits Explode on TikTok & Reels"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Latin‑Urban Fusion Redefines Global Music Identity",
+        "TITLE: “Kitchen Witch” Hobbyism Fuels Home‑Ritual Commerce",
+        "TITLE: Longevity‑First Consumer Playbook Gains Mainstream Traction"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Pudgy Penguins Teams with Rice AI for Mini‑Bot NFT",
+        "TITLE: MoonExe Sponsors Malaysia Blockchain Week 2026"
       ]
     }
   ]

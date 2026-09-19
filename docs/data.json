@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T01:10:20.591Z",
+  "updated": "2026-09-19T01:07:05.730Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -2220,6 +2220,86 @@
       "what": "Build a live‑interactive Q&A podcast using Gemini 3.8 Live’s streaming voice API.",
       "source": "https://www.therundown.ai/articles/chatgpt-co-creator-launches-a-new-kind-of-ai",
       "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/38056053-a9f9-4635-a845-9a0112d68bd3/jev.png?t=1789511570"
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "social",
+      "title": "Threads Adds Podcast Promotion Toolkit",
+      "whatIs": "Threads — new “Podcast Hub” widgets let creators embed episode teasers, link to streaming platforms, and surface listener comments directly in posts.",
+      "why": "The feature turns Threads into a discovery hub for audio, tapping the platform’s high‑engagement text/video mix and giving podcasters a native distribution channel that bypasses algorithmic throttling on TikTok and YouTube.",
+      "what": "Post a 15‑second teaser with the new widget and a “listen now” link today.",
+      "source": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Threads-podcast-feat.jpg?resize=1200,675"
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "social",
+      "title": "Meta Settlement Triggers Teen‑Safety Overhaul on TikTok & YouTube",
+      "whatIs": "X (formerly Twitter) — following Meta’s settlement, TikTok and YouTube are rolling out mandatory “Safety Check” prompts for users under 18, plus stricter content‑moderation APIs.",
+      "why": "The added friction will reduce teen scroll time, pushing creators to capture attention in the first 3 seconds and to diversify audiences beyond the under‑18 segment.",
+      "what": "Re‑edit your hook to deliver the core message within the first 2‑3 seconds and add a “for all ages” tag.",
+      "source": "https://www.businessinsider.com/meta-calls-on-tiktok-youtube-teen-safety-lawsuit-settlement-pr-2026-8",
+      "image": "https://i.insider.com/6a90970945e6f385a5169f2e?width=1200&format=jpeg"
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "social",
+      "title": "AI‑Generated Short‑Form Video Kits Explode on TikTok & Reels",
+      "whatIs": "YouTube (Creator Insider) — a new suite of AI “Video‑Boost” templates (auto‑script, voice‑over, and music sync) is being promoted in the TikTok and Instagram Reels creator centers, with early adopters seeing 2‑3× higher completion rates.",
+      "why": "The templates lower production barriers, letting creators pump out polished clips at scale, which the algorithms are currently rewarding with extra placement in the “For You” feeds.",
+      "what": "Use the free AI “Video‑Boost” template to remix a trending sound today.",
+      "source": "https://eciks.org/26863-social-media-marketing-ai-video-trends",
+      "image": "https://eciks.org/wp-content/uploads/2026/09/social-media-marketing-ai-video-trends.webp"
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "culture",
+      "title": "Latin‑Urban Fusion Redefines Global Music Identity",
+      "whatIs": "Latin music is expanding beyond language‑based categories into hybrid “Latin‑urban” sounds that blend reggaetón, trap, hip‑hop, and regional folk, creating a cross‑cultural movement that shapes playlists, festivals, and brand soundtracks worldwide.",
+      "why": "Gen Z and Gen Alpha view cultural authenticity as fluid; they gravitate toward genre‑blurring artists who embody hybrid identities, driving brands to partner with music that signals inclusivity and cultural remix.",
+      "what": "Embed Latin‑urban tracks in campaigns to signal cultural fluidity.",
+      "source": "https://www.thefader.com/2026/09/15/20-latin-artists-changing-music-2026-young-miko-latin-mafia-santos-bravos",
+      "image": "https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_1228,w_2000,x_0,y_186,f_auto,q_auto:eco/latin_music_tscutd/latin_music_tscutd.jpg"
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "culture",
+      "title": "“Kitchen Witch” Hobbyism Fuels Home‑Ritual Commerce",
+      "whatIs": "A growing, data‑backed hobby trend where consumers blend cooking, DIY, and folk‑inspired rituals—coined “Kitchen Witch”—to create personalized, magical‑themed home experiences, influencing product categories from pantry staples to décor.",
+      "why": "Post‑pandemic desire for meaning‑rich, low‑cost home rituals reflects a shift toward experiential self‑care; brands that frame products as tools for “ritualized creativity” tap into this sustained lifestyle movement.",
+      "what": "Launch limited‑edition, ritual‑themed kits that encourage user‑generated “spell” content.",
+      "source": "https://newsroom.pinterest.com/news/2026-pinterest-hobbies-trend-report",
+      "image": "https://images.ctfassets.net/2pyx8rwuvz6x/3BuvHT0fFYx9M3SoS3EaU0/bfd8de0d294d64c5ee5f827f56dd0879/Header_FullGrid.jpg?fm=webp&q=85"
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "culture",
+      "title": "Longevity‑First Consumer Playbook Gains Mainstream Traction",
+      "whatIs": "Consumers are prioritizing long‑term health and durability across categories—nutrition, fitness, beauty, finance, and mental‑wellness—shifting spend toward products and services that promise lasting benefits rather than short‑term gratification.",
+      "why": "A generational pivot toward future‑proof wellbeing drives demand for transparent, evidence‑based brand narratives; brands that position themselves as partners in a consumer’s lifelong health journey earn deeper loyalty.",
+      "what": "Frame brand value proposition around sustained impact and measurable longevity outcomes.",
+      "source": "https://www.bcg.com/publications/2026/five-consumer-shifts-reshaping-growth",
+      "image": "https://web-assets.bcg.com/dims4/default/b9fb3dc/2147483647/strip/true/crop/3520x1848+0+66/resize/1200x630!/format/webp/quality/80/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F46%2Fdf%2F2649f67d4fdda4eb27df19fb631f%2Fglobal-consumers-have-moved-on-has-your-growth-strategy-caught-up.gif"
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "web3",
+      "title": "Pudgy Penguins Teams with Rice AI for Mini‑Bot NFT",
+      "whatIs": "Mint Inc. announced a licensing partnership with Rice AI and Pudgy Penguins to release a co‑branded “Blue Pengu Minibot” NFT collection, blending AI‑generated avatars with the iconic penguin brand.",
+      "why": "Shows creators leveraging AI‑driven character design to refresh legacy NFT projects, signaling a shift toward interactive, utility‑rich collectibles that deepen fan identity.",
+      "what": "Launch a limited‑edition AI‑enhanced NFT series that grants holders exclusive in‑app abilities or merch.",
+      "source": "https://www.manilatimes.net/2026/09/15/tmt-newswire/globenewswire/mint-announces-rice-ais-licensing-collaboration-with-pudgy-penguins-to-launch-co-branded-blue-pengu-minibot/2425563",
+      "image": ""
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "web3",
+      "title": "MoonExe Sponsors Malaysia Blockchain Week 2026",
+      "whatIs": "MoonExe announced its role as Gold Sponsor and participant of Malaysia Blockchain Week 2026, positioning the brand within a major regional Web3 conference to explore partnership and creator ecosystem opportunities.",
+      "why": "Highlights a growing trend of non‑crypto brands using high‑visibility blockchain events to signal cultural relevance and attract creator communities.",
+      "what": "Partner with a regional blockchain summit to host a creator‑focused workshop or NFT drop.",
+      "source": "https://markets.businessinsider.com/news/stocks/moonexe-is-proud-to-be-a-gold-sponsor-and-participant-of-the-malaysia-blockchain-week-2026-1036482880",
+      "image": "https://ml.globenewswire.com/Resource/Download/68d3e000-59d8-4d05-a59e-f532018eb832/fgfgdf.jpg"
     }
   ]
 }
