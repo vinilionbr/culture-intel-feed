@@ -1,42 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-05",
-      "channel": "social",
-      "topics": [
-        "TITLE: TikTok LIVE + In‑App Fan Experience",
-        "TITLE: “Cat‑in‑the‑Hat” Hoax Spreads on TikTok",
-        "TITLE: TikTok African All‑Stars AI Series"
-      ]
-    },
-    {
-      "date": "2026-09-05",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Heritage Playgrounds – Traditional Games Go Mainstream",
-        "TITLE: Indigenous Art as Global Narrative Driver",
-        "TITLE: Museum‑Powered Heritage Beverages"
-      ]
-    },
-    {
-      "date": "2026-09-05",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Quiet on the Creek” Whisper Dance",
-        "TITLE: Google Docs Password Leak Panic",
-        "TITLE: “Spikes Under the Lights” Volleyball Buzz"
-      ]
-    },
-    {
-      "date": "2026-09-05",
-      "channel": "ai",
-      "topics": [
-        "TITLE: GPT‑6 Astra Rolls Out to All Users",
-        "TITLE: Google’s Interactive E‑Book AI Tool Launches",
-        "TITLE: Claude Fable 5.1 Elevates Code Debugging"
-      ]
-    },
-    {
       "date": "2026-09-06",
       "channel": "culture",
       "topics": [
@@ -321,6 +285,24 @@
       "topics": [
         "TITLE: Pudgy Penguins Teams with Rice AI for Mini‑Bot NFT",
         "TITLE: MoonExe Sponsors Malaysia Blockchain Week 2026"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "channel": "culture",
+      "topics": [
+        "TITLE: African Youth Powering a Digital Fashion Renaissance",
+        "TITLE: Brazilcore Takes Center Stage in Global Style",
+        "TITLE: Arabic as Digital‑Economic Infrastructure"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Gemini AI Hack Sparks Panic",
+        "TITLE: Google AI Travel Tools Trend Spike",
+        "TITLE: “Top 10 Instagram Songs” Weekly Round‑Up"
       ]
     }
   ]
