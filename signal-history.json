@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-06",
-      "channel": "culture",
-      "topics": [
-        "TITLE: AI Backlash Becomes Organized Political Force",
-        "TITLE: Longevity‑First Consumer Playbook",
-        "TITLE: Hyper‑Local Art Hubs as Identity Anchors"
-      ]
-    },
-    {
-      "date": "2026-09-06",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Saxophones Getting Louder Meme",
-        "TITLE: #Clancy True‑Crime Surge",
-        "TITLE: Dangerous Driving for Likes"
-      ]
-    },
-    {
       "date": "2026-09-07",
       "channel": "culture",
       "topics": [
@@ -303,6 +285,24 @@
         "TITLE: Gemini AI Hack Sparks Panic",
         "TITLE: Google AI Travel Tools Trend Spike",
         "TITLE: “Top 10 Instagram Songs” Weekly Round‑Up"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "channel": "culture",
+      "topics": [
+        "TITLE: GLP‑1‑Powered Self‑Care Economy",
+        "TITLE: Status‑Driven Premiumization in Emerging Middle Classes",
+        "TITLE: Folklore Revival Fuels Hyper‑Local Identity"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Jabberin’ Jack” Pumpkin Song Surge",
+        "TITLE: California Church Scandal TikTok Frenzy",
+        "TITLE: Aaron Judge Live Batting‑Practice Clip"
       ]
     }
   ]
