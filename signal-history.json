@@ -1,15 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-07",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Longevity‑First Consumer Playbook",
-        "TITLE: AI‑Guided Travel Becomes Loyalty Engine",
-        "TITLE: Organized AI‑Ethics Backlash as Political Force"
-      ]
-    },
-    {
       "date": "2026-09-08",
       "channel": "culture",
       "topics": [
@@ -303,6 +294,33 @@
         "TITLE: “Jabberin’ Jack” Pumpkin Song Surge",
         "TITLE: California Church Scandal TikTok Frenzy",
         "TITLE: Aaron Judge Live Batting‑Practice Clip"
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Folklore‑Fuelled Hyper‑Local Identity",
+        "TITLE: Emerging‑Middle‑Class Status Premiumization",
+        "TITLE: Biophilic Home Investment Boom"
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Apple’s First Foldable iPhone Goes Live",
+        "TITLE: OpenAI Service Outage Sparks Meme Flood",
+        "TITLE: Pumpkin‑Spice Coffee Hits All‑Time Search Peak"
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "channel": "ai",
+      "topics": [
+        "TITLE: Gemini 3.8 Live Extended Thinking",
+        "TITLE: Gemini 3.8 Flash Cyber for Agentic Workflows",
+        "TITLE: Meta’s Muse Personal AI Agent"
       ]
     }
   ]
