@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T01:33:25.158Z",
+  "updated": "2026-09-23T01:23:25.860Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -2510,6 +2510,66 @@
       "what": "Create a weekly “AI‑assisted vlog” using Muse to script, edit, and optimize titles in real time.",
       "source": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent",
       "image": "https://about.fb.com/wp-content/uploads/2026/09/Introducing-Muse_-Personal-AI-Agent_SocialShare.jpg?w=1200"
+    },
+    {
+      "date": "2026-09-23",
+      "channel": "culture",
+      "title": "Latin Music as Global Identity Lens",
+      "whatIs": "Latin‑rooted sounds—from reggaetón to Mexican corridos—are becoming the primary cultural filter through which Gen Z and Gen Alpha define style, community, and brand relevance worldwide.",
+      "why": "Young consumers see Latin rhythms as authentic, inclusive storytelling, prompting brands to embed Latin aesthetics and bilingual narratives to earn cultural credibility.",
+      "what": "Co‑create campaigns with Latin artists that foreground multilingual storytelling.",
+      "source": "https://www.thefader.com/2026/09/15/20-latin-artists-changing-music-2026-young-miko-latin-mafia-santos-bravos",
+      "image": "https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_1228,w_2000,x_0,y_186,f_auto,q_auto:eco/latin_music_tscutd/latin_music_tscutd.jpg"
+    },
+    {
+      "date": "2026-09-23",
+      "channel": "culture",
+      "title": "Hobby‑Centric Lifestyle Economy",
+      "whatIs": "Pinterest’s 2026 Hobbies Report shows a sustained surge in “skill‑building” pastimes—DIY magic, home‑grown cooking, and analog crafts—turning hobbies into core lifestyle identities and long‑term purchase drivers.",
+      "why": "Consumers now align brand loyalty with the ability to deepen personal mastery, seeking products and content that support ongoing hobby development rather than one‑off trends.",
+      "what": "Build content hubs and product lines that serve as “habit‑stackers” for these growing hobby ecosystems.",
+      "source": "https://newsroom.pinterest.com/news/2026-pinterest-hobbies-trend-report",
+      "image": "https://images.ctfassets.net/2pyx8rwuvz6x/3BuvHT0fFYx9M3SoS3EaU0/bfd8de0d294d64c5ee5f827f56dd0879/Header_FullGrid.jpg?fm=webp&q=85"
+    },
+    {
+      "date": "2026-09-23",
+      "channel": "culture",
+      "title": "Longevity‑First Consumption Mindset",
+      "whatIs": "BCG’s “Five Consumer Shifts Reshaping Growth in 2026” identifies a macro shift toward longevity‑focused buying—investing in nutrition, preventive health, and sustainable beauty for long‑term wellbeing.",
+      "why": "This value‑driven orientation pushes brands to prove durability, health impact, and future‑proof benefits, moving beyond convenience to lifelong relevance.",
+      "what": "Position products as long‑term health assets with transparent efficacy data.",
+      "source": "https://www.bcg.com/publications/2026/five-consumer-shifts-reshaping-growth",
+      "image": "https://web-assets.bcg.com/dims4/default/b9fb3dc/2147483647/strip/true/crop/3520x1848+0+66/resize/1200x630!/format/webp/quality/80/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F46%2Fdf%2F2649f67d4fdda4eb27df19fb631f%2Fglobal-consumers-have-moved-on-has-your-growth-strategy-caught-up.gif"
+    },
+    {
+      "date": "2026-09-23",
+      "channel": "ai",
+      "title": "Gemini 3.8 Flash Unleashes Ultra‑HD Video Generation",
+      "whatIs": "Google released Gemini 3.8 Flash, a new high‑resolution, low‑latency model that can generate 4K video clips from text prompts in seconds.",
+      "why": "Creators can now produce broadcast‑quality video ads and reels on‑the‑fly, cutting production costs and turnaround time dramatically.",
+      "what": "Publish a 4K “quick‑turn” product demo video generated entirely by Gemini 3.8 Flash.",
+      "source": "https://pricepertoken.com/news/model-releases",
+      "image": ""
+    },
+    {
+      "date": "2026-09-23",
+      "channel": "ai",
+      "title": "Meta Muse Spark 1.3 Boosts Idea‑Storming",
+      "whatIs": "Meta announced Muse Spark 1.3, an upgraded personal AI brainstorming agent that suggests campaign concepts, taglines, and visual motifs in real time via a chat interface.",
+      "why": "Marketers can instantly generate multiple creative directions for a single brief, accelerating A/B testing and reducing reliance on lengthy creative workshops.",
+      "what": "Run a live “AI‑Generated Tagline Sprint” using Muse Spark 1.3 and share the results on social media.",
+      "source": "https://pricepertoken.com/news/model-releases",
+      "image": ""
+    },
+    {
+      "date": "2026-09-23",
+      "channel": "ai",
+      "title": "SAP EDGEGEN Automates Compliance‑Ready Copy",
+      "whatIs": "SAP released EDGEGEN, an AI framework that auto‑generates compliance‑checked marketing copy and edge‑case scenarios, ensuring regulatory alignment before publishing.",
+      "why": "Brands can safely scale personalized campaigns across regions without manual legal review, speeding up rollout and lowering risk.",
+      "what": "Create a region‑specific ad series using EDGEGEN‑vetted copy and track faster approval times.",
+      "source": "https://aiweekly.co/ai-news-today",
+      "image": "https://dxj7eshgz03ln.cloudfront.net/production/publication/logo/1475/8f402391-cd29-43a4-9695-35d930a59660.png"
     }
   ]
 }
