@@ -1,51 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-09",
-      "channel": "social",
-      "topics": [
-        "TITLE: YouTube Counts Views the Moment Playback Starts",
-        "TITLE: “You Can’t Do That” Challenge Goes Viral",
-        "TITLE: Reddit’s “Ask Me Anything” Revival in Brand Communities"
-      ]
-    },
-    {
-      "date": "2026-09-09",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Interdisciplinary Art Hubs Redefine Community",
-        "TITLE: Archive‑Powered Nostalgia as a Growth Engine",
-        "TITLE: Re‑Emergence of “Ivri” Spiritual Praxis"
-      ]
-    },
-    {
-      "date": "2026-09-09",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Quiet‑on‑the‑Creek Whisper Dance",
-        "TITLE: “Doobie Scoot Canoe” Summer Anthem",
-        "TITLE: Google AI Travel‑Planning Surge"
-      ]
-    },
-    {
-      "date": "2026-09-09",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Adobe launches AI‑driven timeline tools",
-        "TITLE: Google Ads & Analytics get AI‑prompted dashboards",
-        "TITLE: OpenAI releases GPT‑6 Astra to all users"
-      ]
-    },
-    {
-      "date": "2026-09-09",
-      "channel": "web3",
-      "topics": [
-        "TITLE: LUKSO‑Powered “Hup!” Drops Simplify Creator Minting",
-        "TITLE: SpaceTrade Rebrands to Position as Full‑Stack Web3 Hub",
-        "TITLE: MicroStrategy Launches Bitcoin‑Themed Jordans (No Crypto Checkout)"
-      ]
-    },
-    {
       "date": "2026-09-10",
       "channel": "culture",
       "topics": [
@@ -321,6 +276,33 @@
         "TITLE: Gemini 3.8 Flash Unleashes Ultra‑HD Video Generation",
         "TITLE: Meta Muse Spark 1.3 Boosts Idea‑Storming",
         "TITLE: SAP EDGEGEN Automates Compliance‑Ready Copy"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Folklore Revival Fuels Hyper‑Local Identity",
+        "TITLE: Identity‑Driven Retail Replaces Transactional Shopping",
+        "TITLE: Status‑Driven Premiumization in Emerging Middle Classes"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Skepta Football Edits Blow Up TikTok",
+        "TITLE: Gemini AI Hack Sparks Meme Frenzy",
+        "TITLE: MLB Breakout Prospect Spotlight Trend"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "channel": "ai",
+      "topics": [
+        "TITLE: YouTube Ask Studio Now Mobile",
+        "TITLE: AI Editing Assistant Gives Draft Feedback",
+        "TITLE: Free AI Video Generator Launches"
       ]
     }
   ]
