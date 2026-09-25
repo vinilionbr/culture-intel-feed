@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-10",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Value‑Driven Quality Eating Takes Center Stage",
-        "TITLE: Hybrid Vehicles Become the New “Affordable Green” Standard",
-        "TITLE: Attention‑First Marketing as the New Currency of Trust"
-      ]
-    },
-    {
-      "date": "2026-09-10",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Spritehood Brings Mass‑Mint to Robinhood Chain",
-        "TITLE: 1win Adds USDC on Solana, Joins Sona Relief Drive",
-        "TITLE: Cosmos Launches Partner Network for Tokenization"
-      ]
-    },
-    {
       "date": "2026-09-11",
       "channel": "culture",
       "topics": [
@@ -303,6 +285,33 @@
         "TITLE: YouTube Ask Studio Now Mobile",
         "TITLE: AI Editing Assistant Gives Draft Feedback",
         "TITLE: Free AI Video Generator Launches"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "channel": "social",
+      "topics": [
+        "TITLE: TikTok Rolls Out Interactive Voice Comments",
+        "TITLE: YouTube Shorts Gets AI‑Powered Caption Generator",
+        "TITLE: Instagram Grid Now Supports Tagged Photo Posts"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Latin Music’s Cross‑Cultural Fusion Surge",
+        "TITLE: Pan‑Africanism Reimagined as Global Lifestyle Narrative",
+        "TITLE: Identity‑Driven Retail Outpaces Transactional Shopping"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "channel": "ai",
+      "topics": [
+        "TITLE: OpenAI Launches AI‑Powered Ad Builder",
+        "TITLE: Meta Drops Muse Spark 1.3 for Creators",
+        "TITLE: YouTube Introduces AI‑Driven “Idea‑to‑Publish” Suite"
       ]
     }
   ]
