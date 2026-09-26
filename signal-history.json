@@ -1,15 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-11",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Kitchen‑Witch DIY Rituals",
-        "TITLE: Community Art Hubs as Social Anchors",
-        "TITLE: Frugal‑Value Shopping & Private‑Label Rise"
-      ]
-    },
-    {
       "date": "2026-09-12",
       "channel": "culture",
       "topics": [
@@ -312,6 +303,33 @@
         "TITLE: OpenAI Launches AI‑Powered Ad Builder",
         "TITLE: Meta Drops Muse Spark 1.3 for Creators",
         "TITLE: YouTube Introduces AI‑Driven “Idea‑to‑Publish” Suite"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Latin Music Becomes Pan‑Cultural Identity",
+        "TITLE: Community‑Driven Food Sovereignty Takes Center Stage",
+        "TITLE: AI Regulation Culture War Fuels Ethical Tech Demand"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Apple’s Foldable iPhone Goes Live",
+        "TITLE: “Travel‑AI Planner” Surge on Google",
+        "TITLE: “Pixel‑Perfect” TikTok Sound Takes Over"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "channel": "ai",
+      "topics": [
+        "TITLE: GPT‑6 Sol & Luna Unveiled",
+        "TITLE: Claude Sonnet Long‑Context Upgrade",
+        "TITLE: NVIDIA Video‑Analysis Agent for Creators"
       ]
     }
   ]
