@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-12",
-      "channel": "culture",
-      "topics": [
-        "TITLE: DIY “Kitchen Witch” Home Rituals",
-        "TITLE: Hybrid Community Art Hubs",
-        "TITLE: Hybrid‑Vehicle “Affordable Green” Standard"
-      ]
-    },
-    {
-      "date": "2026-09-12",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Interactive‑E‑Book AI Assistant",
-        "TITLE: AI Planner for Account‑Based Campaigns",
-        "TITLE: Week‑Wide Multi‑Model Launch Surge"
-      ]
-    },
-    {
-      "date": "2026-09-12",
-      "channel": "web3",
-      "topics": [
-        "TITLE: 6529 Meme Card Drop Sparks Creator Buzz",
-        "TITLE: SpaceTrade Rebrands for Wider Web3 Reach",
-        "TITLE: StonkBrokers NFT Floor Ignites Community Play"
-      ]
-    },
-    {
       "date": "2026-09-13",
       "channel": "culture",
       "topics": [
@@ -330,6 +303,24 @@
         "TITLE: GPT‑6 Sol & Luna Unveiled",
         "TITLE: Claude Sonnet Long‑Context Upgrade",
         "TITLE: NVIDIA Video‑Analysis Agent for Creators"
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Credit‑First Identity Economy",
+        "TITLE: Holiday‑Seasonal Shopping as a Year‑Round Habit",
+        "TITLE: Conscious‑Convenience Paradox in Fast Fashion"
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Birria Taco Craze Hits 240K TikToks",
+        "TITLE: “THAT GIRL” Tyla Dance Challenge Revives",
+        "TITLE: Bitcoin “Extreme Greed” Breakout Sparks Meme Flood"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T01:20:29.747Z",
+  "updated": "2026-09-27T01:12:22.661Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -2840,6 +2840,66 @@
       "what": "Run the agent on last month’s webinar to auto‑create teaser clips.",
       "source": "https://www.nvidia.com/en-us/ai",
       "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/ai/nvidia-ai-agents-og.jpg"
+    },
+    {
+      "date": "2026-09-27",
+      "channel": "culture",
+      "title": "Credit‑First Identity Economy",
+      "whatIs": "Gen Z is normalising early credit‑card ownership, using revolving credit as a status and identity tool rather than purely a financing need.",
+      "why": "Young consumers equate access to credit with adult autonomy and digital‑native self‑branding, driving higher spend volatility and new loyalty levers for brands that embed credit‑linked perks.",
+      "what": "Build brand‑linked credit rewards that reinforce identity.",
+      "source": "https://kioncentralcoast.com/stacker-personal-finance-investing/2026/09/22/consumer-credit-score-trends-and-debt-behavior-in-2026-what-borrowers-should-know-to-strengthen-financial-health",
+      "image": "https://kion546.b-cdn.net/2026/09/BHG-Consumer-credit-score-trends.jpg"
+    },
+    {
+      "date": "2026-09-27",
+      "channel": "culture",
+      "title": "Holiday‑Seasonal Shopping as a Year‑Round Habit",
+      "whatIs": "Retail data shows “Black Friday” evolving into a multi‑month beauty‑shopping season, with consumers planning purchases strategically across weeks rather than a single day.",
+      "why": "The shift reflects a move from impulse to deliberate, value‑driven buying cycles, giving brands longer activation windows and the need for sustained storytelling.",
+      "what": "Deploy staggered campaigns that sustain excitement across the entire season.",
+      "source": "https://nielseniq.com/global/en/insights/report/2026/beautys-black-friday-expectations-2026-the-new-rules-of-holiday-beauty-shopping",
+      "image": "https://nielseniq.com/wp-content/uploads/sites/4/2026/09/black-friday-india.png"
+    },
+    {
+      "date": "2026-09-27",
+      "channel": "culture",
+      "title": "Conscious‑Convenience Paradox in Fast Fashion",
+      "whatIs": "Shoppers acknowledge environmental costs of fast fashion yet continue buying through wish‑lists, price‑watching, and sale‑timing, blending ethical awareness with price‑driven convenience.",
+      "why": "This hybrid behaviour creates an opening for “sustainable‑at‑scale” models that marry affordability, transparency, and circular incentives, reshaping brand‑consumer trust.",
+      "what": "Offer transparent resale/repair programs tied to price‑triggered promotions.",
+      "source": "https://www.earth.com/environment/fast-fashion-shoppers-know-the-environmental-cost-but-something-keeps-pulling-them-back",
+      "image": "https://www.earth.com/img/16x9/1920/media-2026/2026/09/22184429/Ultra-fast-fashion.jpg"
+    },
+    {
+      "date": "2026-09-27",
+      "channel": "trends",
+      "title": "Birria Taco Craze Hits 240K TikToks",
+      "whatIs": "The Mexican‑style birria taco recipe is exploding on TikTok, with the #birria hashtag now topping 240,000 videos in the last 48 hours.",
+      "why": "Food‑centric creators see massive reach when they jump on viral recipe trends; audiences are hungry for quick, messy‑hands‑on cooking demos right now.",
+      "what": "Film a 30‑second “Birria Taco Reveal” with sizzling meat and a surprise twist (e.g., vegan version).",
+      "source": "https://www.lovefood.com/gallerylist/575351/tiktok-food-trends-and-recipes-that-are-actually-delicious",
+      "image": "https://loveincorporated.blob.core.windows.net/contentimages/main/abb2cc57-f3c1-48f3-a0f2-f6c6584cbb98-tiktok-egg-sandwich-shutterstockmain.jpg"
+    },
+    {
+      "date": "2026-09-27",
+      "channel": "trends",
+      "title": "“THAT GIRL” Tyla Dance Challenge Revives",
+      "whatIs": "TikTok’s “That Girl” dance (set to Tyla’s hit) has surged again, accumulating over 448 million views on related hashtags this week, with new creators posting fresh choreography.",
+      "why": "Dance‑challenge formats drive high engagement and cross‑platform shares; the song’s blend of pop, R‑B, and amapiano is trending on Reels and Shorts.",
+      "what": "Create a quick “Teach the Hook” tutorial or duet adding a unique move (e.g., prop or costume).",
+      "source": "https://www.hypebot.com/tylas-fans-are-learning-her-show-before-it-even-starts",
+      "image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-22-tyla.jpg"
+    },
+    {
+      "date": "2026-09-27",
+      "channel": "trends",
+      "title": "Bitcoin “Extreme Greed” Breakout Sparks Meme Flood",
+      "whatIs": "Kitco reports Bitcoin’s Fear & Greed Index hitting its highest level since July 2025, with a 6 % daily price breakout and a surge of meme‑ready “Greed is Good” posts across crypto‑focused TikTok and Reddit.",
+      "why": "Crypto‑savvy audiences are primed for reaction videos, meme edits, and quick market‑analysis clips; timing is critical before the hype cools.",
+      "what": "Post a 15‑second “Bitcoin Greed Meter” reaction, overlaying the index graphic and a comedic take on buying the dip.",
+      "source": "https://www.kitco.com/opinion/2026-09-22/extreme-greed-meets-bitcoin-breakout",
+      "image": "https://image-api.prod.kitco.com/image/a625ea67-6d8c-452d-86ab-bdfae79a9e07.jpeg?top=0&left=147.85016660922&width=432.29966678157&height=243&scale_width=1920&token=8a2c7e543453a3efde597b3d0de62ef8e0f71ed61381db69d3ef3e6f293f3f04"
     }
   ]
 }
