@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-13",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Kitchen‑Witch Domestic Rituals",
-        "TITLE: AI‑Powered Travel Curation Becomes Habitual",
-        "TITLE: Archive‑Driven Nostalgia as Cultural Currency"
-      ]
-    },
-    {
-      "date": "2026-09-13",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Katy Perry’s “The One That Got Away” Reigns Summer 2026",
-        "TITLE: Ube & Hōjicha Drink Craze Hits India",
-        "TITLE: Claressa Shields vs. Kaye Scott Fight Hype"
-      ]
-    },
-    {
-      "date": "2026-09-13",
-      "channel": "web3",
-      "topics": [
-        "TITLE: LimeWire Revives as NFT Marketplace",
-        "TITLE: Worldcoin Identity Spike Sparks Public Debate",
-        "TITLE: Apeing Presale Launches Meme‑Driven Identity Token"
-      ]
-    },
-    {
       "date": "2026-09-14",
       "channel": "web3",
       "topics": [
@@ -321,6 +294,33 @@
         "TITLE: Birria Taco Craze Hits 240K TikToks",
         "TITLE: “THAT GIRL” Tyla Dance Challenge Revives",
         "TITLE: Bitcoin “Extreme Greed” Breakout Sparks Meme Flood"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "channel": "culture",
+      "topics": [
+        "TITLE: AI as a New “Cult‑Leader” Archetype",
+        "TITLE: Control‑Centric Consumption Amid Economic Anxiety",
+        "TITLE: Decentralized Art Hubs Redefining Global Cultural Gateways"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Skepta Football Edits” Boom",
+        "TITLE: “MarryMe Chicken” Recipe Surge",
+        "TITLE: “Metricool Top Instagram Song” Clip"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "channel": "web3",
+      "topics": [
+        "TITLE: LUKSO Powers Simple Multi‑Chain NFT Drops",
+        "TITLE: AItoNFT Empowers Community‑Curated Drops",
+        "TITLE: International NFT Day Sparks Creator‑First Celebrations"
       ]
     }
   ]

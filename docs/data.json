@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T01:12:22.661Z",
+  "updated": "2026-09-28T01:33:02.795Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -2900,6 +2900,96 @@
       "what": "Post a 15‑second “Bitcoin Greed Meter” reaction, overlaying the index graphic and a comedic take on buying the dip.",
       "source": "https://www.kitco.com/opinion/2026-09-22/extreme-greed-meets-bitcoin-breakout",
       "image": "https://image-api.prod.kitco.com/image/a625ea67-6d8c-452d-86ab-bdfae79a9e07.jpeg?top=0&left=147.85016660922&width=432.29966678157&height=243&scale_width=1920&token=8a2c7e543453a3efde597b3d0de62ef8e0f71ed61381db69d3ef3e6f293f3f04"
+    },
+    {
+      "date": "2026-09-28",
+      "channel": "culture",
+      "title": "AI as a New “Cult‑Leader” Archetype",
+      "whatIs": "A growing cultural framing of generative AI as charismatic, quasi‑religious authority, shaping trust, loyalty and decision‑making across brands and media.",
+      "why": "Millennials and Gen Z are seeking certainty in turbulent times; AI’s perceived omniscience satisfies a need for guidance, driving brand affinity toward “AI‑endorsed” experiences.",
+      "what": "Position brand narratives as transparent AI collaborators, not omnipotent gurus.",
+      "source": "https://www.washingtonpost.com/ripple/2026/09/21/why-ai-resembles-a-charismatic-religious-leader",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/7DSGCNA6M34Z2NCEU32IVKQNZY.JPG&w=1440"
+    },
+    {
+      "date": "2026-09-28",
+      "channel": "culture",
+      "title": "Control‑Centric Consumption Amid Economic Anxiety",
+      "whatIs": "Consumers are gravitating toward products and services that offer tangible micro‑control (e.g., budgeting tools, subscription pauses, DIY kits), reflecting heightened anxiety about financial stability.",
+      "why": "As confidence in macro‑economic control wanes, shoppers reward brands that empower personal agency, reshaping purchase criteria beyond price alone.",
+      "what": "Highlight features that let users fine‑tune usage, costs or outcomes.",
+      "source": "https://www.thedrum.com/opinion/in-anxious-times-small-moments-of-control-carry-more-weight",
+      "image": ""
+    },
+    {
+      "date": "2026-09-28",
+      "channel": "culture",
+      "title": "Decentralized Art Hubs Redefining Global Cultural Gateways",
+      "whatIs": "Major art fairs (e.g., Art Basel Paris, ARTBO Bogotá) are spotlighting emerging regional creators, shifting cultural capital from traditional Western centers to a network of localized “art hubs.”",
+      "why": "Younger collectors value authenticity and local narratives over legacy branding, prompting brands to partner with diverse, region‑specific creators for cultural relevance.",
+      "what": "Co‑create limited editions with emerging artists from emerging‑market fairs.",
+      "source": "https://www.artbasel.com/stories/art-basel-paris-2026-press-dossier",
+      "image": "https://dza2a2ql7zktf.cloudfront.net/binaries-cdn/dqzqcuqf9/image/fetch/q_auto,w_500/https://d2u3kfwd92fzu7.cloudfront.net/asset/news/Frame_14.png"
+    },
+    {
+      "date": "2026-09-28",
+      "channel": "trends",
+      "title": "“Skepta Football Edits” Boom",
+      "whatIs": "TikTok creators are remixing Skepta’s “Shutdown” over rapid‑cut edits of classic football moments, spawning a viral “hero highlight” format.",
+      "why": "Football fans and music lovers are flocking to the mash‑up; the trend has 2.3 M views in 24 h and brands are tagging sports apparel.",
+      "what": "Post a 15‑sec “my game‑day win” edit set to Skepta’s track.",
+      "source": "https://www.nss-sports.com/en/lifestyle/46816/from-taarabt-to-shaqiri-pienaar-and-okocha-how-skepta-edits-turned-football-nostalgia-into-one-of-tiktok-s-latest-cult-trends",
+      "image": "https://data2.nssmag.com/images/galleries/49530/nss-skepta-edits-tiktok-calcio-nostalgia-cult-hero-cover-web.webp"
+    },
+    {
+      "date": "2026-09-28",
+      "channel": "trends",
+      "title": "“MarryMe Chicken” Recipe Surge",
+      "whatIs": "A TikTok food trend using the hashtag #marrymechicken, featuring a buttery fried‑chicken “date‑night” recipe that has hit 19 M views in the past 48 h.",
+      "why": "Food creators see 1 M+ likes per video; the trend is spilling onto Instagram Reels, driving high engagement among couples and home‑cooks.",
+      "what": "Film a quick step‑by‑step Reel of the MarryMe Chicken, add the trending sound from the original post.",
+      "source": "https://www.lovefood.com/gallerylist/575351/tiktok-food-trends-and-recipes-that-are-actually-delicious",
+      "image": "https://loveincorporated.blob.core.windows.net/contentimages/main/abb2cc57-f3c1-48f3-a0f2-f6c6584cbb98-tiktok-egg-sandwich-shutterstockmain.jpg"
+    },
+    {
+      "date": "2026-09-28",
+      "channel": "trends",
+      "title": "“Metricool Top Instagram Song” Clip",
+      "whatIs": "The song “Neon Nights” (by up‑and‑coming artist Luna V) tops Metricool’s weekly Instagram‑song chart and is being used in over 850 K Reels today.",
+      "why": "Creators across fashion, travel, and comedy are adopting the track; early adopters see a 12 % boost in reach versus non‑trending audio.",
+      "what": "Create a 30‑sec Reel showcasing a “day‑in‑my‑life” set to “Neon Nights.”",
+      "source": "https://metricool.com/trending-instagram-songs",
+      "image": "https://metricool.com/wp-content/uploads/Trending-songs-on-instagram-reels-e1766501661924.jpg"
+    },
+    {
+      "date": "2026-09-28",
+      "channel": "web3",
+      "title": "LUKSO Powers Simple Multi‑Chain NFT Drops",
+      "whatIs": "LUKSO announced on X that its “Drops by @hupsocial” tool now lets creators launch and manage NFT collections across LUKSO and five other blockchains in minutes.",
+      "why": "Shows creators demanding frictionless, cross‑chain ownership experiences, signaling a shift toward multi‑chain identity portfolios rather than single‑chain silos.",
+      "what": "Pilot a cross‑chain NFT series using the HupSocial drops tool.",
+      "source": "https://x.com/lukso_io/status/2096970220833316955",
+      "image": "https://pbs.twimg.com/profile_images/1866711035387789313/mpF2QNlQ_400x400.jpg"
+    },
+    {
+      "date": "2026-09-28",
+      "channel": "web3",
+      "title": "AItoNFT Empowers Community‑Curated Drops",
+      "whatIs": "LinkedIn post reveals AItoNFT’s new platform letting creators design NFT releases tied to specific events, set custom terms, and build community‑owned collections without code.",
+      "why": "Highlights a growing DIY ethos where audiences co‑create and co‑own cultural moments, deepening loyalty through participatory ownership.",
+      "what": "Host a timed “event‑drop” for your brand’s next campaign on AItoNFT.",
+      "source": "https://www.linkedin.com/posts/aitonft_aitonft-creatoreconomy-communitybuilding-activity-7505520932988526592-nHEa",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQHY-F3ntoEQWQ/feedshare-shrink_800/B4DaChbLL_KwAg-/0/1789414650940?e=2147483647&v=beta&t=QRuyW-iavtPlB6n_Cux62kgQyltEyA6ga1vE944N34g"
+    },
+    {
+      "date": "2026-09-28",
+      "channel": "web3",
+      "title": "International NFT Day Sparks Creator‑First Celebrations",
+      "whatIs": "A Facebook post on Sep 23 (International NFT Day) encourages creators and collectors to mint personal artworks, songs, or moments as NFTs, emphasizing grassroots adoption.",
+      "why": "Demonstrates that cultural milestones are driving everyday creators to experiment with ownership, expanding the NFT audience beyond collectors to hobbyists.",
+      "what": "Launch a limited‑edition “NFT Day” token for your community’s best user‑generated content.",
+      "source": "https://www.facebook.com/ian.kingwill/posts/happy-international-nft-dayimagine-owning-a-digital-artwork-a-song-or-even-a-mom/10240144794051899",
+      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/814380273_1654414099589417_8866097583974751899_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a27664&_nc_ohc=w_NmhUH2H_cQ7kNvwGLXPBE&_nc_oc=Adof1-LiL-uZGL_aCIf1rrTCs_hpfkjbwivgQd-dbn4AKfBMwT80KiR-R0QDLbmV6I8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=0JPk0NdzI1744hRJ3cMOMg&_nc_ss=7f289&oh=00_AQMSsbUeWA7d83wwinj6XRe0vMAvAfm0u9HTTmXV1NSteg&oe=6ABFA0E0"
     }
   ]
 }
