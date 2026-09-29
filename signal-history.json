@@ -1,15 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-14",
-      "channel": "web3",
-      "topics": [
-        "TITLE: LimeWire Reboots as NFT Marketplace",
-        "TITLE: $COOPER Builds Identity on Robinhood Chain",
-        "TITLE: CyberCharge Joins CyberSpace Brand Ecosystem"
-      ]
-    },
-    {
       "date": "2026-09-15",
       "channel": "culture",
       "topics": [
@@ -321,6 +312,33 @@
         "TITLE: LUKSO Powers Simple Multi‑Chain NFT Drops",
         "TITLE: AItoNFT Empowers Community‑Curated Drops",
         "TITLE: International NFT Day Sparks Creator‑First Celebrations"
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Identity‑Driven Retail Takes Center Stage",
+        "TITLE: Eco‑Material Furniture Becomes Mainstream",
+        "TITLE: Subscription‑Based Gummy Wellness Boom"
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "channel": "trends",
+      "topics": [
+        "TITLE: MarryMe Chicken Takes Over TikTok",
+        "TITLE: Tyla’s “That Girl” Dance Challenge Revives",
+        "TITLE: Ube & Hojicha Drink Craze Hits Search Peaks"
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "channel": "ai",
+      "topics": [
+        "TITLE: GPT‑6 Sol & Luna Launch Cheaper Creator Models",
+        "TITLE: OpenAI’s “Reimagining Advertising” Toolkit",
+        "TITLE: Apple Intelligence Powers “Siri Studio” for Content Creators"
       ]
     }
   ]
