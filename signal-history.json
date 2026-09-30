@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-15",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Community‑Centric Art Hubs",
-        "TITLE: Care‑Centric Activist Leadership",
-        "TITLE: Digital‑First High‑Art Mainstreaming"
-      ]
-    },
-    {
-      "date": "2026-09-15",
-      "channel": "web3",
-      "topics": [
-        "TITLE: OpenSea Backs Arc Mainnet From Day One",
-        "TITLE: Hup! Simplifies Multi‑Chain NFT Launches",
-        "TITLE: NFT.NYC Unveils First‑Edition Tokenized Vault Drop"
-      ]
-    },
-    {
       "date": "2026-09-16",
       "channel": "culture",
       "topics": [
@@ -339,6 +321,15 @@
         "TITLE: GPT‑6 Sol & Luna Launch Cheaper Creator Models",
         "TITLE: OpenAI’s “Reimagining Advertising” Toolkit",
         "TITLE: Apple Intelligence Powers “Siri Studio” for Content Creators"
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Control‑Centric Consumption",
+        "TITLE: The Travel Orbit Experience",
+        "TITLE: Tech‑Utopia Community Migration"
       ]
     }
   ]
