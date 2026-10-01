@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-16",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Brazil‑Core Cultural Export Surge",
-        "TITLE: Heritage‑Site Community Hubs",
-        "TITLE: Pan‑Latino Leadership Visibility"
-      ]
-    },
-    {
-      "date": "2026-09-16",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Hitler Scene” TikTok Sound Surge",
-        "TITLE: ChatGPT 80s Throwback Prompt",
-        "TITLE: Fantasy Football Panic Meter – Week 2"
-      ]
-    },
-    {
-      "date": "2026-09-16",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Pudgy Penguins + OpenSea Launch NYC Collector Fest",
-        "TITLE: Animoca Brands Talks AI‑Powered Digital Identity",
-        "TITLE: SpaceTrade Rebrands for Broader Web3 Access"
-      ]
-    },
-    {
       "date": "2026-09-17",
       "channel": "culture",
       "topics": [
@@ -330,6 +303,42 @@
         "TITLE: Control‑Centric Consumption",
         "TITLE: The Travel Orbit Experience",
         "TITLE: Tech‑Utopia Community Migration"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "channel": "social",
+      "topics": [
+        "TITLE: Instagram Rolls Out Animated Collage Stories",
+        "TITLE: TikTok’s “Next Episode” Turns Brands into Mini‑Series",
+        "TITLE: Reddit’s “Ask Me Anything” Revival in r/socialmedia"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Control‑Centric Consumption Takes Hold",
+        "TITLE: The Travel‑Orbit Experience",
+        "TITLE: Culture‑Led Peacebuilding as Economic Engine"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Charlie Kirk Memes Blow Up TikTok",
+        "TITLE: Bare‑Nails Class Debate Explodes",
+        "TITLE: VMAs TikTok Challenge Surges"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "channel": "web3",
+      "topics": [
+        "TITLE: 1MNT Drops NFT Raffle on Base",
+        "TITLE: NFT NYC Highlights Fuse Physical & Digital Collecting",
+        "TITLE: AItoNFT Powers Community‑Curated Drops"
       ]
     }
   ]
