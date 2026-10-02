@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-17",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Latin Fusion Beats Redefine Global Identity",
-        "TITLE: “Kitchen Witch” Ritualizes Home Cooking",
-        "TITLE: Status‑Driven Premiumization in Emerging Middle Classes"
-      ]
-    },
-    {
-      "date": "2026-09-17",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Decentralized ID Becomes Creator Reputation Layer",
-        "TITLE: Foundation Announces Platform Wind‑Down",
-        "TITLE: Doodles Teams With Piet Mondrian Estate"
-      ]
-    },
-    {
       "date": "2026-09-18",
       "channel": "culture",
       "topics": [
@@ -339,6 +321,15 @@
         "TITLE: 1MNT Drops NFT Raffle on Base",
         "TITLE: NFT NYC Highlights Fuse Physical & Digital Collecting",
         "TITLE: AItoNFT Powers Community‑Curated Drops"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Redefining Adulthood — Micro‑Milestones Over Traditional Ages",
+        "TITLE: Resale‑First Mindset Fuels Circular Consumption",
+        "TITLE: Early Credit Adoption Alters Financial Identity"
       ]
     }
   ]
