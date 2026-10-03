@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-18",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Longevity‑First Consumer Playbook",
-        "TITLE: AI‑Driven Shopping Becomes Main Channel",
-        "TITLE: Content‑First Editorial Mindset Takes Over"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Adobe Firefly Adds Studio‑Quality Audio Suite",
-        "TITLE: ViralDrop AI Predicts Short‑Form Virality",
-        "TITLE: Gemini 3.8 Live Voice Model Goes Live"
-      ]
-    },
-    {
       "date": "2026-09-19",
       "channel": "social",
       "topics": [
@@ -330,6 +312,33 @@
         "TITLE: Redefining Adulthood — Micro‑Milestones Over Traditional Ages",
         "TITLE: Resale‑First Mindset Fuels Circular Consumption",
         "TITLE: Early Credit Adoption Alters Financial Identity"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Digital Sovereignty Redefines Personal Identity",
+        "TITLE: The Travel‑Search Orbit – Booking Becomes a Lifestyle Loop",
+        "TITLE: Multipolar Cultural Consumption Replaces American‑Centric Soft Power"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Be Like a Woman” TikTok Sound Surge",
+        "TITLE: Aussie $9K Anaesthetic Tattoo Craze",
+        "TITLE: Instagram “Short Drama” Pilot"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "channel": "web3",
+      "topics": [
+        "TITLE: BabyDoge Takes Over LimeWire for Creator‑First Platform",
+        "TITLE: Q‑Archive Drops Limited‑Edition NFT T‑Shirts",
+        "TITLE: Decentralized Identity Passes Gain Momentum in Creator Communities"
       ]
     }
   ]
