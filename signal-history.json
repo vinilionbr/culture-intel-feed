@@ -1,32 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-19",
-      "channel": "social",
-      "topics": [
-        "TITLE: Threads Adds Podcast Promotion Toolkit",
-        "TITLE: Meta Settlement Triggers Teen‑Safety Overhaul on TikTok & YouTube",
-        "TITLE: AI‑Generated Short‑Form Video Kits Explode on TikTok & Reels"
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Latin‑Urban Fusion Redefines Global Music Identity",
-        "TITLE: “Kitchen Witch” Hobbyism Fuels Home‑Ritual Commerce",
-        "TITLE: Longevity‑First Consumer Playbook Gains Mainstream Traction"
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Pudgy Penguins Teams with Rice AI for Mini‑Bot NFT",
-        "TITLE: MoonExe Sponsors Malaysia Blockchain Week 2026"
-      ]
-    },
-    {
       "date": "2026-09-20",
       "channel": "culture",
       "topics": [
@@ -339,6 +313,24 @@
         "TITLE: BabyDoge Takes Over LimeWire for Creator‑First Platform",
         "TITLE: Q‑Archive Drops Limited‑Edition NFT T‑Shirts",
         "TITLE: Decentralized Identity Passes Gain Momentum in Creator Communities"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Individual Mobility as Cultural Capital",
+        "TITLE: AI‑Ethics Credibility Gap",
+        "TITLE: Private‑Label Value Ascendancy"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Be Like a Woman” TikTok Sound Surge",
+        "TITLE: Instagram Tests “Short Drama” Feature",
+        "TITLE: “Ramdam” Business‑Hustle Audio Trend"
       ]
     }
   ]
