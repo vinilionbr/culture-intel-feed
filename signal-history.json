@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-20",
-      "channel": "culture",
-      "topics": [
-        "TITLE: African Youth Powering a Digital Fashion Renaissance",
-        "TITLE: Brazilcore Takes Center Stage in Global Style",
-        "TITLE: Arabic as Digital‑Economic Infrastructure"
-      ]
-    },
-    {
-      "date": "2026-09-20",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Gemini AI Hack Sparks Panic",
-        "TITLE: Google AI Travel Tools Trend Spike",
-        "TITLE: “Top 10 Instagram Songs” Weekly Round‑Up"
-      ]
-    },
-    {
       "date": "2026-09-21",
       "channel": "culture",
       "topics": [
@@ -331,6 +313,24 @@
         "TITLE: “Be Like a Woman” TikTok Sound Surge",
         "TITLE: Instagram Tests “Short Drama” Feature",
         "TITLE: “Ramdam” Business‑Hustle Audio Trend"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "channel": "culture",
+      "topics": [
+        "TITLE: AI‑Regulation Culture War Shapes Brand Trust",
+        "TITLE: Individual Mobility Becomes Cultural Capital",
+        "TITLE: Heritage Repatriation Fuels Transnational Identity Narratives"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Be Like a Woman” Sound Surge",
+        "TITLE: Charlie Kirk Meme Explosion",
+        "TITLE: Ramdam “Business‑Hour” Audio Trend"
       ]
     }
   ]
