@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-21",
-      "channel": "culture",
-      "topics": [
-        "TITLE: GLP‑1‑Powered Self‑Care Economy",
-        "TITLE: Status‑Driven Premiumization in Emerging Middle Classes",
-        "TITLE: Folklore Revival Fuels Hyper‑Local Identity"
-      ]
-    },
-    {
-      "date": "2026-09-21",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Jabberin’ Jack” Pumpkin Song Surge",
-        "TITLE: California Church Scandal TikTok Frenzy",
-        "TITLE: Aaron Judge Live Batting‑Practice Clip"
-      ]
-    },
-    {
       "date": "2026-09-22",
       "channel": "culture",
       "topics": [
@@ -331,6 +313,24 @@
         "TITLE: “Be Like a Woman” Sound Surge",
         "TITLE: Charlie Kirk Meme Explosion",
         "TITLE: Ramdam “Business‑Hour” Audio Trend"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Experiential “K‑Zone” Hubs Redefine Cultural Consumption",
+        "TITLE: Sustainable Cultural Tourism Becomes Mainstream Travel Goal",
+        "TITLE: Community‑Driven Cultural Healing Fuels Social Cohesion Initiatives"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Nvidia’s “Explosive Upside” Buzz",
+        "TITLE: #FallGuysMoments Takes Over TikTok",
+        "TITLE: AI‑Polaroid Video Challenge Goes Viral"
       ]
     }
   ]
