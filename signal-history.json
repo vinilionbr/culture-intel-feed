@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-22",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Folklore‑Fuelled Hyper‑Local Identity",
-        "TITLE: Emerging‑Middle‑Class Status Premiumization",
-        "TITLE: Biophilic Home Investment Boom"
-      ]
-    },
-    {
-      "date": "2026-09-22",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Apple’s First Foldable iPhone Goes Live",
-        "TITLE: OpenAI Service Outage Sparks Meme Flood",
-        "TITLE: Pumpkin‑Spice Coffee Hits All‑Time Search Peak"
-      ]
-    },
-    {
-      "date": "2026-09-22",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Gemini 3.8 Live Extended Thinking",
-        "TITLE: Gemini 3.8 Flash Cyber for Agentic Workflows",
-        "TITLE: Meta’s Muse Personal AI Agent"
-      ]
-    },
-    {
       "date": "2026-09-23",
       "channel": "culture",
       "topics": [
@@ -331,6 +304,33 @@
         "TITLE: Nvidia’s “Explosive Upside” Buzz",
         "TITLE: #FallGuysMoments Takes Over TikTok",
         "TITLE: AI‑Polaroid Video Challenge Goes Viral"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "channel": "social",
+      "topics": [
+        "TITLE: Linked Live Comments Now Ranked by Relevance",
+        "TITLE: Facebook Introduces “Collab Reels” for Duo Creators",
+        "TITLE: TikTok Shop Shifts to Discovery‑Led Shopping"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Health‑Performance Becomes Core Consumption Lens",
+        "TITLE: Premium‑Value Fusion Redefines Buying Logic",
+        "TITLE: AI Regulation Culture War Shapes Brand Trust"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Crack‑It‑Up” Halloween Audio Surge",
+        "TITLE: “Fade Into You” Autumn Vibes Takeover",
+        "TITLE: Fortnite “Override” Server‑Status Spike"
       ]
     }
   ]
