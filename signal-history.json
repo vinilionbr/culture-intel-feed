@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-24",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Folklore Revival Fuels Hyper‑Local Identity",
-        "TITLE: Identity‑Driven Retail Replaces Transactional Shopping",
-        "TITLE: Status‑Driven Premiumization in Emerging Middle Classes"
-      ]
-    },
-    {
-      "date": "2026-09-24",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Skepta Football Edits Blow Up TikTok",
-        "TITLE: Gemini AI Hack Sparks Meme Frenzy",
-        "TITLE: MLB Breakout Prospect Spotlight Trend"
-      ]
-    },
-    {
-      "date": "2026-09-24",
-      "channel": "ai",
-      "topics": [
-        "TITLE: YouTube Ask Studio Now Mobile",
-        "TITLE: AI Editing Assistant Gives Draft Feedback",
-        "TITLE: Free AI Video Generator Launches"
-      ]
-    },
-    {
       "date": "2026-09-25",
       "channel": "social",
       "topics": [
@@ -340,6 +313,24 @@
         "TITLE: OpenSea Backs Arc From Day One",
         "TITLE: Doodles Teams With Mondrian Estate",
         "TITLE: CrEePt0puNkS Urban‑Anxiety NFT Series"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "channel": "culture",
+      "topics": [
+        "TITLE: AI‑Curated Experiences Replace Physical Goods",
+        "TITLE: Digital‑Art & AI Rights as Cultural Capital",
+        "TITLE: Identity‑Driven Retail Matures into Emotional‑Economy Commerce"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Goodbye ChatGPT” Viral Farewell Meme",
+        "TITLE: 80s‑Style ChatGPT Photo Prompt Trend",
+        "TITLE: MLB Rookie Breakout Spotlight Surge"
       ]
     }
   ]
