@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-25",
-      "channel": "social",
-      "topics": [
-        "TITLE: TikTok Rolls Out Interactive Voice Comments",
-        "TITLE: YouTube Shorts Gets AI‑Powered Caption Generator",
-        "TITLE: Instagram Grid Now Supports Tagged Photo Posts"
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Latin Music’s Cross‑Cultural Fusion Surge",
-        "TITLE: Pan‑Africanism Reimagined as Global Lifestyle Narrative",
-        "TITLE: Identity‑Driven Retail Outpaces Transactional Shopping"
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "channel": "ai",
-      "topics": [
-        "TITLE: OpenAI Launches AI‑Powered Ad Builder",
-        "TITLE: Meta Drops Muse Spark 1.3 for Creators",
-        "TITLE: YouTube Introduces AI‑Driven “Idea‑to‑Publish” Suite"
-      ]
-    },
-    {
       "date": "2026-09-26",
       "channel": "culture",
       "topics": [
@@ -331,6 +304,33 @@
         "TITLE: “Goodbye ChatGPT” Viral Farewell Meme",
         "TITLE: 80s‑Style ChatGPT Photo Prompt Trend",
         "TITLE: MLB Rookie Breakout Spotlight Surge"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "channel": "social",
+      "topics": [
+        "TITLE: TikTok Launches AI‑Powered Discovery & One‑Click Checkout",
+        "TITLE: X Expands “Gametime” Hub with MLB Partnership",
+        "TITLE: Snapchat Rolls Out Smarter B2B Ad Tools"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "channel": "culture",
+      "topics": [
+        "TITLE: AI‑Infused Cultural Capital",
+        "TITLE: Heritage Repatriation as Identity Currency",
+        "TITLE: Private‑Label Value Ascendancy"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “My American Girl Doll” TikTok Mania",
+        "TITLE: Zucchini TikTok Obsession",
+        "TITLE: Jeff Buckley Revival on TikTok"
       ]
     }
   ]
