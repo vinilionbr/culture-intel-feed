@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-26",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Latin Music Becomes Pan‑Cultural Identity",
-        "TITLE: Community‑Driven Food Sovereignty Takes Center Stage",
-        "TITLE: AI Regulation Culture War Fuels Ethical Tech Demand"
-      ]
-    },
-    {
-      "date": "2026-09-26",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Apple’s Foldable iPhone Goes Live",
-        "TITLE: “Travel‑AI Planner” Surge on Google",
-        "TITLE: “Pixel‑Perfect” TikTok Sound Takes Over"
-      ]
-    },
-    {
-      "date": "2026-09-26",
-      "channel": "ai",
-      "topics": [
-        "TITLE: GPT‑6 Sol & Luna Unveiled",
-        "TITLE: Claude Sonnet Long‑Context Upgrade",
-        "TITLE: NVIDIA Video‑Analysis Agent for Creators"
-      ]
-    },
-    {
       "date": "2026-09-27",
       "channel": "culture",
       "topics": [
@@ -331,6 +304,33 @@
         "TITLE: “My American Girl Doll” TikTok Mania",
         "TITLE: Zucchini TikTok Obsession",
         "TITLE: Jeff Buckley Revival on TikTok"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Private‑Label Value Ascendancy",
+        "TITLE: Loyalty‑Driven Grocery Navigation",
+        "TITLE: Experience‑First Holiday Shift"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "channel": "ai",
+      "topics": [
+        "TITLE: YouTube’s All‑In‑One AI Creator Suite",
+        "TITLE: Upfluence’s Jaice‑Powered Autonomous Campaign Engine",
+        "TITLE: LTK’s Auto‑Draft Siri Integration for Shoppable Posts"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Coinbase Packs NFT Culture Into Exchange UI",
+        "TITLE: UDS Positions as Web3 Society Beyond PFPs",
+        "TITLE: Artist Capsule Collections Turn Fans Into Wearable NFTs"
       ]
     }
   ]
