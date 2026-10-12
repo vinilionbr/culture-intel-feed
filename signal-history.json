@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-27",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Credit‑First Identity Economy",
-        "TITLE: Holiday‑Seasonal Shopping as a Year‑Round Habit",
-        "TITLE: Conscious‑Convenience Paradox in Fast Fashion"
-      ]
-    },
-    {
-      "date": "2026-09-27",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Birria Taco Craze Hits 240K TikToks",
-        "TITLE: “THAT GIRL” Tyla Dance Challenge Revives",
-        "TITLE: Bitcoin “Extreme Greed” Breakout Sparks Meme Flood"
-      ]
-    },
-    {
       "date": "2026-09-28",
       "channel": "culture",
       "topics": [
@@ -331,6 +313,24 @@
         "TITLE: Coinbase Packs NFT Culture Into Exchange UI",
         "TITLE: UDS Positions as Web3 Society Beyond PFPs",
         "TITLE: Artist Capsule Collections Turn Fans Into Wearable NFTs"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Identity‑Driven Retail Takes Center Stage",
+        "TITLE: Sustainable‑Fatigue Paradox in Fast Fashion",
+        "TITLE: Experience‑First Holiday Shift Powered by AI Curation"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Salt‑Stomping Sleep Hack",
+        "TITLE: Jungkook’s TikTok Crown",
+        "TITLE: Hormuz Tanker Attack Spike"
       ]
     }
   ]
