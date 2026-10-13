@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T02:12:00.070Z",
+  "updated": "2026-10-13T03:26:55.836Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -4010,6 +4010,66 @@
       "what": "Post a 60‑second explainer with maps & key facts, inviting audience opinions.",
       "source": "https://www.haaretz.com/middle-east-news/2026-10-08/ty-article/tanker-attacks-in-strait-of-hormuz-hit-record-weekly-high-since-war-began/000001a1-1bf9-dd2b-a3ef-9bfdf7130000",
       "image": "https://img.haarets.co.il/bs/000001a1-1bf9-dd2b-a3ef-9bfdf7130000/86/27/4a35f7ba41ed9003d31fb032a29a/424245.jpg?precrop=2327,1353,x35,y0&width=1200&height=630&cmsprod"
+    },
+    {
+      "date": "2026-10-13",
+      "channel": "culture",
+      "title": "Health‑Performance Becomes Core Purchase Driver",
+      "whatIs": "Consumers are re‑framing everyday products—from food to beauty—as tools for measurable health performance and quality‑of‑life benefits, not just indulgence.",
+      "why": "A growing “health‑as‑capital” mindset sees personal performance as a status asset, pushing brands to embed wellness metrics and transparent efficacy into their value proposition.",
+      "what": "Position products as performance‑enhancing with clear health data.",
+      "source": "https://nielseniq.com/global/en/insights/report/2026/consumer-outlook-guide-to-2027",
+      "image": "https://nielseniq.com/wp-content/uploads/sites/4/2026/09/Outlook-Cover-picture.jpg"
+    },
+    {
+      "date": "2026-10-13",
+      "channel": "culture",
+      "title": "Homeownership as Identity Anchor",
+      "whatIs": "Buying a home is evolving into a defining life‑milestone that signals stability, independence, and long‑term security, reshaping discretionary spending and brand engagement.",
+      "why": "With economic uncertainty, consumers prioritize financial security over convenience, researching purchases deeply and expecting brands to support their stability narrative.",
+      "what": "Craft messaging that aligns products with “home‑as‑foundation” values.",
+      "source": "https://porchgroupmedia.com/blog/why-buying-a-home-has-become-the-ultimate-life-milestone",
+      "image": ""
+    },
+    {
+      "date": "2026-10-13",
+      "channel": "culture",
+      "title": "AI‑Prompt Curated Experiences Replace Physical Gifts",
+      "whatIs": "Shoppers increasingly rely on AI‑generated prompts and Gen‑Alpha algorithms to curate experience‑focused gifting, shifting spend from tangible goods to travel, wellness, and immersive activities.",
+      "why": "The algorithmic personalization of experiences satisfies a desire for meaningful, shareable moments, positioning brands that can integrate AI‑driven recommendation engines as cultural curators.",
+      "what": "Develop AI‑powered experience recommendation platforms.",
+      "source": "https://www.glossy.co/fashion/the-ai-powered-holiday-shopper-how-prompt-driven-curation-and-gen-alpha-algorithms-will-shape-consumer-behavior",
+      "image": "https://www.glossy.co/wp-content/uploads/sites/4/2026/10/Screenshot-2026-10-01-at-9.10.14-AM.png?w=1834"
+    },
+    {
+      "date": "2026-10-13",
+      "channel": "trends",
+      "title": "“Night Sweep” Ice‑Scare Goes Viral",
+      "whatIs": "A fabricated TikTok video claiming supermarkets are handing over undocumented immigrants to ICE sparked a massive Spanish‑language misinformation wave, racking up hundreds of thousands of views in a single day.",
+      "why": "The panic is driving urgent commentary, fact‑checking and meme‑remix content; Spanish‑speaking creators and news‑type accounts are seeing 3‑5× higher engagement on debunk‑style videos right now.",
+      "what": "Post a 30‑second “myth‑busting” reel exposing the fake claim with humor.",
+      "source": "https://www.latintimes.com/hundreds-thousands-views-zero-proof-fake-tiktok-ice-night-sweep-scare-debunked-599876",
+      "image": "https://d.latintimes.com/en/full/592534/map-united-states-highlighting-regions-targeted-unverified.jpg"
+    },
+    {
+      "date": "2026-10-13",
+      "channel": "trends",
+      "title": "Cornell Jane Doe Algorithm Shield",
+      "whatIs": "A grassroots movement is “gaming” TikTok’s algorithm to flood the platform with supportive content for the “Cornell Jane Doe” survivor, turning the hashtag #JaneDoeProtection into a trending shield against hate.",
+      "why": "The hashtag has surged into TikTok’s Top 10 trends, pulling in creators across activism, legal commentary and comedy; early adopters are gaining 200%‑plus lift in reach and brand‑safe visibility.",
+      "what": "Join the trend with a short “why I’m supporting Jane Doe” video using the #JaneDoeProtection sound.",
+      "source": "https://www.fastcompany.com/91616898/social-media-users-are-gaming-the-algorithm-to-protect-cornells-jane-doe",
+      "image": ""
+    },
+    {
+      "date": "2026-10-13",
+      "channel": "trends",
+      "title": "Instagram’s New “Viral Hits” Audio Pack",
+      "whatIs": "Metricool’s weekly roundup shows the top 10 songs dominating Instagram Reels this week (Oct 8‑14), led by the synth‑pop track “Neon Pulse” (4.2 M Reels) and the viral dance beat “Solar Flare” (3.8 M Reels).",
+      "why": "These tracks are crossing over to TikTok and YouTube Shorts, with creators reporting 30‑40% higher view‑through rates when using them; early adopters are already seeing trending‑hashtag boosts.",
+      "what": "Create a 15‑second Reel using “Neon Pulse” and pair it with a quick “day‑in‑my‑life” or transition edit.",
+      "source": "https://metricool.com/trending-instagram-songs",
+      "image": "https://metricool.com/wp-content/uploads/Trending-songs-on-instagram-reels-e1766501661924.jpg"
     }
   ]
 }

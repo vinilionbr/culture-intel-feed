@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-28",
-      "channel": "culture",
-      "topics": [
-        "TITLE: AI as a New “Cult‑Leader” Archetype",
-        "TITLE: Control‑Centric Consumption Amid Economic Anxiety",
-        "TITLE: Decentralized Art Hubs Redefining Global Cultural Gateways"
-      ]
-    },
-    {
-      "date": "2026-09-28",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Skepta Football Edits” Boom",
-        "TITLE: “MarryMe Chicken” Recipe Surge",
-        "TITLE: “Metricool Top Instagram Song” Clip"
-      ]
-    },
-    {
-      "date": "2026-09-28",
-      "channel": "web3",
-      "topics": [
-        "TITLE: LUKSO Powers Simple Multi‑Chain NFT Drops",
-        "TITLE: AItoNFT Empowers Community‑Curated Drops",
-        "TITLE: International NFT Day Sparks Creator‑First Celebrations"
-      ]
-    },
-    {
       "date": "2026-09-29",
       "channel": "culture",
       "topics": [
@@ -331,6 +304,24 @@
         "TITLE: Salt‑Stomping Sleep Hack",
         "TITLE: Jungkook’s TikTok Crown",
         "TITLE: Hormuz Tanker Attack Spike"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Health‑Performance Becomes Core Purchase Driver",
+        "TITLE: Homeownership as Identity Anchor",
+        "TITLE: AI‑Prompt Curated Experiences Replace Physical Gifts"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Night Sweep” Ice‑Scare Goes Viral",
+        "TITLE: Cornell Jane Doe Algorithm Shield",
+        "TITLE: Instagram’s New “Viral Hits” Audio Pack"
       ]
     }
   ]
