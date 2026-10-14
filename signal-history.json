@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-29",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Identity‑Driven Retail Takes Center Stage",
-        "TITLE: Eco‑Material Furniture Becomes Mainstream",
-        "TITLE: Subscription‑Based Gummy Wellness Boom"
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "channel": "trends",
-      "topics": [
-        "TITLE: MarryMe Chicken Takes Over TikTok",
-        "TITLE: Tyla’s “That Girl” Dance Challenge Revives",
-        "TITLE: Ube & Hojicha Drink Craze Hits Search Peaks"
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "channel": "ai",
-      "topics": [
-        "TITLE: GPT‑6 Sol & Luna Launch Cheaper Creator Models",
-        "TITLE: OpenAI’s “Reimagining Advertising” Toolkit",
-        "TITLE: Apple Intelligence Powers “Siri Studio” for Content Creators"
-      ]
-    },
-    {
       "date": "2026-09-30",
       "channel": "culture",
       "topics": [
@@ -322,6 +295,42 @@
         "TITLE: “Night Sweep” Ice‑Scare Goes Viral",
         "TITLE: Cornell Jane Doe Algorithm Shield",
         "TITLE: Instagram’s New “Viral Hits” Audio Pack"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Cultural Agility Beats Brand Consistency",
+        "TITLE: Price‑First Sustainability in Fast Fashion",
+        "TITLE: AI‑Prompted Holiday Curation Leads Gen Alpha"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "channel": "trends",
+      "topics": [
+        "TITLE: My American Girl Doll TikTok Surge",
+        "TITLE: Salt‑Stomping Sleep Hack",
+        "TITLE: Arab‑Pop “Sabah El Ward” Wave"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "channel": "ai",
+      "topics": [
+        "TITLE: OpenAI Agents API Gains Computer‑Use Power",
+        "TITLE: Pipedrive Nova Brings AI Meeting Intelligence to All Users",
+        "TITLE: Google’s New Education‑Focused AI Suite Hits Public Preview"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Atok‑Powered NFT Art Hunt Launches Live",
+        "TITLE: Lorna Mills Featured in OpenSea Flagship Spotlight",
+        "TITLE: Instagram Reel Shows NFT‑Infused Streetwear Capsule"
       ]
     }
   ]
