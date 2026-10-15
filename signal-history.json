@@ -1,15 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-09-30",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Control‑Centric Consumption",
-        "TITLE: The Travel Orbit Experience",
-        "TITLE: Tech‑Utopia Community Migration"
-      ]
-    },
-    {
       "date": "2026-10-01",
       "channel": "social",
       "topics": [
@@ -331,6 +322,33 @@
         "TITLE: Atok‑Powered NFT Art Hunt Launches Live",
         "TITLE: Lorna Mills Featured in OpenSea Flagship Spotlight",
         "TITLE: Instagram Reel Shows NFT‑Infused Streetwear Capsule"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "channel": "social",
+      "topics": [
+        "TITLE: TikTok Explodes in Emerging Markets",
+        "TITLE: Instagram Trials Reels with Strangers First",
+        "TITLE: Meta Bans TikTok Ads in U.S. & Allies"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Cultural‑AI Authenticity Becomes a Buying Standard",
+        "TITLE: Immersive “Cultural‑Hub” Spaces Redefine Local Brand Touchpoints",
+        "TITLE: Institutionalized K‑Pop Education Fuels Global Cultural Capital"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "channel": "trends",
+      "topics": [
+        "TITLE: BTS Hashtag Hits 1 Trillion Views",
+        "TITLE: NFL Post‑Game Punch Clip Blows Up",
+        "TITLE: Toyota Corolla Horn Fails Challenge"
       ]
     }
   ]
