@@ -1,15 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-02",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Redefining Adulthood — Micro‑Milestones Over Traditional Ages",
-        "TITLE: Resale‑First Mindset Fuels Circular Consumption",
-        "TITLE: Early Credit Adoption Alters Financial Identity"
-      ]
-    },
-    {
       "date": "2026-10-03",
       "channel": "culture",
       "topics": [
@@ -340,6 +331,33 @@
         "TITLE: Google Playground Lets Creators Build Games by Prompt",
         "TITLE: GPT‑6 Rolls Out in ChatGPT with Intelligent UI",
         "TITLE: InMobi Launches Mobius AI for Real‑Time Ad Decisioning"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Subscription‑First Wellness Takes Hold",
+        "TITLE: Beauty’s Year‑Long Black Friday Season",
+        "TITLE: Inflation‑Driven Loyalty Reliance"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "channel": "trends",
+      "topics": [
+        "TITLE: YouTube Shorts 3‑Minute Remix Boom",
+        "TITLE: Salt‑Stomping Sleep Hack Surge",
+        "TITLE: “Self Aware” TikTok Sound Takes Over Reels"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Restaurants Go On‑Chain with TaskOn & TastyCo",
+        "TITLE: Polkadot Powers Fan‑Owned Sports Tokens",
+        "TITLE: Animoca Brands Launches Moca Chain for NFT Tribes"
       ]
     }
   ]

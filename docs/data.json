@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T01:07:14.958Z",
+  "updated": "2026-10-17T01:15:48.112Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -4370,6 +4370,96 @@
       "what": "Run a pilot campaign letting Mobius generate and test three ad creatives automatically.",
       "source": "https://www.mediapost.com/publications/article/418556/inmobi-debuts-system-to-help-brands-with-ad-decisi.html?edition=144071",
       "image": "https://s3.amazonaws.com/static.mediapost.com/publications/images/mp-logo-fb.jpg"
+    },
+    {
+      "date": "2026-10-17",
+      "channel": "culture",
+      "title": "Subscription‑First Wellness Takes Hold",
+      "whatIs": "Consumers are moving from one‑off purchases to subscription‑based, digitally‑personalized wellness products—especially gummy supplements—driven by convenience, data insights, and a desire for ongoing health routines.",
+      "why": "Gen Z and Millennials value continuous, measurable self‑care; subscription models lock in loyalty, generate first‑party data, and align with the “wellness as habit” mindset.",
+      "what": "Build a branded subscription hub with AI‑driven personalization.",
+      "source": "https://www.kingsresearch.com/blog/consumer-trends-in-us-gummy-supplements-market",
+      "image": "https://app.kingsresearch.com/uploads/blogs/1790334769800-US-Gummy-Supplements.webp"
+    },
+    {
+      "date": "2026-10-17",
+      "channel": "culture",
+      "title": "Beauty’s Year‑Long Black Friday Season",
+      "whatIs": "Black Friday has morphed from a single‑day event into a multi‑month “beauty shopping season,” prompting brands to stagger launches, promotions, and omnichannel experiences across the entire quarter.",
+      "why": "Shoppers are increasingly strategic, seeking value and novelty over impulse; the elongated calendar forces brands to sustain relevance and optimize inventory over a longer runway.",
+      "what": "Deploy rolling “mini‑drops” and staggered loyalty perks throughout the season.",
+      "source": "https://nielseniq.com/global/en/insights/report/2026/beautys-black-friday-expectations-2026-the-new-rules-of-holiday-beauty-shopping",
+      "image": "https://nielseniq.com/wp-content/uploads/sites/4/2026/09/black-friday-india.png"
+    },
+    {
+      "date": "2026-10-17",
+      "channel": "culture",
+      "title": "Inflation‑Driven Loyalty Reliance",
+      "whatIs": "Persistent grocery inflation is prompting half of U.S. shoppers to lean heavily on loyalty programs and detailed list‑making, turning rewards into a primary budgeting tool rather than a nice‑to‑have perk.",
+      "why": "Value‑seeking behavior is becoming structural; brands that embed robust, transparent loyalty ecosystems gain a decisive advantage in shopper acquisition and retention.",
+      "what": "Elevate loyalty value with real‑time price‑matching and personalized savings alerts.",
+      "source": "https://massmarketretailers.com/loyalty-programs-help-shoppers-navigate-grocery-inflation-says-fmi-data",
+      "image": "https://storage.ghost.io/c/d5/56/d5565e70-3c67-4547-9c79-7758ce6fc700/content/images/2026/09/istockphoto-2245268350-612x612.jpg"
+    },
+    {
+      "date": "2026-10-17",
+      "channel": "trends",
+      "title": "YouTube Shorts 3‑Minute Remix Boom",
+      "whatIs": "YouTube just rolled out a permanent 3‑minute limit for Shorts and added remix‑template tools, letting creators sync longer clips to trending audio.",
+      "why": "The extra seconds unlock narrative storytelling and product demos, while the remix templates drive rapid audio‑driven virality; early adopters are already seeing 2‑3× higher view‑through rates.",
+      "what": "Drop a 3‑minute “how‑to” or mini‑vlog using a current TikTok sound and the new remix template today.",
+      "source": "https://www.thekeyword.co/news/youtube-shorts-extends-video-length-to-3-minutes",
+      "image": ""
+    },
+    {
+      "date": "2026-10-17",
+      "channel": "trends",
+      "title": "Salt‑Stomping Sleep Hack Surge",
+      "whatIs": "The “salt stomping” wellness trend—standing barefoot on a tray of sea/Epsom salt for ten minutes—has exploded on TikTok, with creators posting before‑after sleep‑quality videos and sleep‑expert reactions.",
+      "why": "Health‑and‑wellness audiences are hungry for quirky, low‑cost hacks; the trend is generating millions of views and prompting media coverage, creating a window for original experiments and debunk‑or‑confirm content.",
+      "what": "Film your 10‑minute salt‑stomp test, share sleep data, and tag #SaltStompChallenge now.",
+      "source": "https://www.prevention.com/health/sleep-energy/a74066792/salt-stomping-sleep-tiktok-trend",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/03bbd575-7912-48b8-846c-c3c307a1dd60.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
+    },
+    {
+      "date": "2026-10-17",
+      "channel": "trends",
+      "title": "“Self Aware” TikTok Sound Takes Over Reels",
+      "whatIs": "The track “Self Aware” by Mark Allan Wolfe is topping TikTok’s weekly sound chart and spilling onto Instagram Reels, used in self‑care, confidence, and “day‑in‑my‑life” clips.",
+      "why": "Creators leveraging this audio see a 15‑20% boost in reach; the song’s upbeat vibe aligns with wellness, fashion, and comedy niches, making it a versatile hook for fresh posts.",
+      "what": "Post a 15‑second Reel showing a quick confidence‑boost routine synced to “Self Aware” today.",
+      "source": "https://metricool.com/tiktok-songs",
+      "image": "https://metricool.com/wp-content/uploads/chansons-tiktok-e1766501772338.webp"
+    },
+    {
+      "date": "2026-10-17",
+      "channel": "web3",
+      "title": "Restaurants Go On‑Chain with TaskOn & TastyCo",
+      "whatIs": "TaskOn announced a partnership with RWA platform TastyCo to bring real‑world restaurant brands onto blockchain, enabling diners to earn and redeem brand‑specific NFTs and loyalty tokens.",
+      "why": "Shows creators and consumer‑facing brands using NFTs for everyday experiences, turning routine meals into identity‑building moments and new community touchpoints.",
+      "what": "Launch a limited‑edition “dine‑and‑mint” NFT menu for your brand.",
+      "source": "https://x.com/taskonxyz/status/2102310692498100268",
+      "image": "https://pbs.twimg.com/media/HSzoQOPaEAAhZGG?format=webp&name=large"
+    },
+    {
+      "date": "2026-10-17",
+      "channel": "web3",
+      "title": "Polkadot Powers Fan‑Owned Sports Tokens",
+      "whatIs": "Polkadot’s Web3 Engagement Program rolled out a fan‑token ecosystem for Inter Miami CF, letting supporters earn, trade, and vote with tokens that unlock exclusive content and match‑day perks.",
+      "why": "Demonstrates a shift from passive sponsorship to co‑ownership, where fans become stakeholders in a club’s narrative and brand identity.",
+      "what": "Create a fan‑token drop for your own sports or entertainment property.",
+      "source": "https://www.linkedin.com/posts/shaunpannell_blockchain-web3-cryptocurrency-activity-7513226798227218433-06pJ",
+      "image": "https://media.licdn.com/dms/image/v2/D5622AQHyuiPfeVNp_A/feedshare-shrink_800/B56aEPnK9wIcAc-/0/1791263289504?e=2147483647&v=beta&t=Z2FWsrfWZd4wLGKfDTnCN6PuHd8Wmy69NR3XX26K2BI"
+    },
+    {
+      "date": "2026-10-17",
+      "channel": "web3",
+      "title": "Animoca Brands Launches Moca Chain for NFT Tribes",
+      "whatIs": "Animoca Brands unveiled the Moca Chain, a privacy‑focused blockchain hosting the 8,888‑item “Mocaverse” NFT collection, organized into five distinct tribes that serve as social badges and gated community keys.",
+      "why": "Highlights how brands are building layered identity systems—tribes, badges, and private networks—to deepen fan loyalty and enable curated experiences.",
+      "what": "Design a multi‑tribe NFT series that grants tiered access to exclusive events or content.",
+      "source": "https://www.facebook.com/cryptopolitan/posts/latest-moca-chain-goes-livethe-animoca-brands-backed-network-brings-privacy-pres/1792628972870211",
+      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/829196608_1508621621295468_7607873037238854416_n.png?stp=dst-jpg_tt6&cstp=mx773x430&ctp=s773x430&_nc_cat=107&ccb=1-7&_nc_sid=cae128&_nc_ohc=b7AqMXJJVscQ7kNvwGpVpO4&_nc_oc=Ado1TKu1hxVK8uyJhEDt4_eNZuKbeYZRTZSsXyB0QGb3o9rGKCl7cHttkxh4NyH5M_E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pfYOc4CjamtHY9DBxz7Wyw&_nc_ss=7c289&oh=00_AQMSxvqVoMBzWRspjbZ-GhNt9zeaO-DIaQTmu282bFcJ0w&oe=6AD89C05"
     }
   ]
 }
