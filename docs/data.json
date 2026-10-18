@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T00:43:33.455Z",
+  "updated": "2026-10-18T09:45:10.335Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -4464,62 +4464,92 @@
     {
       "date": "2026-10-18",
       "channel": "social",
-      "title": "TikTok Caps Daily Post Volume",
-      "whatIs": "TikTok — API now enforces a hard limit of 25 posts per account per 24 hours, with legacy error messages still showing the old 10‑post limit.",
-      "why": "The stricter cap forces creators to prioritize high‑impact content and batch‑schedule fewer, more polished videos, preventing spam‑like flood posting that the algorithm now penalises.",
-      "what": "Schedule only your top‑performing 2‑3 videos daily; reserve the rest for later slots.",
-      "source": "https://www.blotato.com/research/social-media-api-report",
-      "image": "https://www.blotato.com/research/social-media-api-report/og.png"
+      "title": "Instagram “Instants” Quick‑Share Feature",
+      "whatIs": "Instagram — New “Instants” button lets creators send a 3‑second looping clip directly in DMs, auto‑adds to Reels Explore.",
+      "why": "Short, ultra‑snappy loops exploit the brain’s novelty response and get priority placement in the Reels algorithm, driving higher completion rates.",
+      "what": "Post a 3‑second “Instant” clip in Stories and DM it to 10‑plus followers today.",
+      "source": "https://www.tiktok.com/discover/instagram-new-update",
+      "image": ""
     },
     {
       "date": "2026-10-18",
       "channel": "social",
-      "title": "Reddit Introduces 15‑Second Engaged‑View Goal",
-      "whatIs": "Reddit — New advertising metric requiring videos to achieve at least 15 seconds of engaged views to count toward campaign objectives.",
-      "why": "The metric pushes creators to hook viewers within the first few seconds, mirroring TikTok’s “first‑3‑seconds” focus and reshaping Reddit’s video ad ecosystem toward bite‑size storytelling.",
-      "what": "Lead with a bold visual or question in the first 3 seconds to lock in the 15‑second view.",
-      "source": "https://socialbee.com/blog/latest-social-media-news",
-      "image": "https://socialbee.com/wp-content/uploads/2024/07/Social-Media-News.png"
+      "title": "Instagram Creator‑Profile Revamp Boosts Reel Visibility",
+      "whatIs": "Instagram — Updated creator profile layout adds “Reel Highlights” carousel and faster Reel‑editing tools, flagged by the platform as “rank‑boosted.”",
+      "why": "The algorithm now gives a +5 % reach bump to Reels posted from profiles using the new Highlights, encouraging creators to adopt the layout ASAP.",
+      "what": "Switch to the new creator profile and add a Reel Highlights carousel before posting today.",
+      "source": "https://www.instagram.com/p/DdleIs6DKpT",
+      "image": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/791354883_18107619035580179_8791481245776315488_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Ylhm_x_svZsQ7kNvwFMN--5&_nc_oc=Ado8Geh74KK_7BjpccN48t6Uf7MJiBulD93RjCn-lczXzlQtbfhOHZj5Ir8y4v98u5E&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=85_rnbLHgLPSwK5ztBHkHQ&_nc_ss=7c689&oh=00_AQPuM5GfN6_bNG2qtL7QscSO4lfl8zOemB_wkCLGBEpLwg&oe=6ADA5637"
     },
     {
       "date": "2026-10-18",
       "channel": "social",
-      "title": "Instagram Tests “Reels Remix” with Strangers",
-      "whatIs": "Instagram — Pilot feature letting users remix any public Reel by adding their own video layer, even when the original creator isn’t a followee.",
-      "why": "By lowering collaboration friction, the format fuels rapid remix chains that boost discoverability; early adopters see 2‑3× higher reach versus standard Reels.",
-      "what": "Post a “remix‑ready” Reel with a clear call‑to‑action inviting others to add their spin.",
-      "source": "https://www.instagram.com/p/Ddr6KnbgRF2",
-      "image": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/818250558_18131425795708605_1179591967928840779_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=KqeYxdHaOY8Q7kNvwHrDOi_&_nc_oc=Adog_tegkNrxlDe6HZvHE8heaEw9h5fX4_Jhwn31kVP7zwrpD--RLVWTSOV3-V-KoWw&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=Drwj23PqH9Qntp_Ka0VcCg&_nc_ss=7c689&oh=00_AQNracX5vWJM8wvUuE1DYfmYytAFq4sDilwitxSF8M3dgg&oe=6AD9DFD2"
+      "title": "TikTok Removes External Profile Links, Pushes Linktree Use",
+      "whatIs": "TikTok — As of today, the Edit Profile page no longer supports separate Instagram/YouTube link fields; creators must use a single “Website” field (often Linktree).",
+      "why": "This forces traffic consolidation, increasing click‑through rates on Linktree and giving the platform tighter control over outbound links, affecting cross‑platform growth strategies.",
+      "what": "Update your TikTok profile with a Linktree URL that includes all your social links today.",
+      "source": "https://socialday.live/features/tiktok-removes-instagram-and-youtube-profile-links-forcing-creators-onto",
+      "image": "https://woomffrrisljzvzagetg.supabase.co/storage/v1/object/public/content-images/tiktok-removes-instagram-and-youtube-pro-links-forcing-featured-pi4fxl.png"
     },
     {
       "date": "2026-10-18",
       "channel": "culture",
-      "title": "Wellness‑Format Supplements Redefine Daily Routines",
-      "whatIs": "Consumers are gravitating toward gummy‑based vitamins and nutraceuticals, treating them as convenient, habit‑forming “snack‑like” health rituals rather than traditional pills.",
-      "why": "A growing desire for effortless self‑care, combined with the “food‑as‑medicine” mindset, pushes health into everyday consumption habits, especially among Gen Z and Millennials who value simplicity and transparency.",
-      "what": "Launch snack‑style, transparent‑label supplement lines with lifestyle storytelling.",
-      "source": "https://www.kingsresearch.com/blog/consumer-trends-in-us-gummy-supplements-market",
-      "image": "https://app.kingsresearch.com/uploads/blogs/1790334769800-US-Gummy-Supplements.webp"
+      "title": "Local‑First Cultural Relevance",
+      "whatIs": "Global brands are ceding strict brand‑wide consistency to empower regional teams to react fast to local cultural moments and community narratives.",
+      "why": "Gen Z and Millennials value authenticity rooted in lived experience; a one‑size‑fits‑all voice now feels tone‑deaf, driving loyalty toward brands that sound “local.”",
+      "what": "Build flexible, region‑specific creative playbooks.",
+      "source": "https://www.provokemedia.com/latest/article/all-that-matters-2026-is-brand-consistency-getting-in-the-way-of-cultural-relevance",
+      "image": ""
     },
     {
       "date": "2026-10-18",
       "channel": "culture",
-      "title": "Identity‑Driven Retail Fuels Emotional Commerce",
-      "whatIs": "Niche retail categories—heritage, civic‑themed, outdoor‑lifestyle—are outpacing mass‑market segments by building deep emotional ties rather than purely transactional value.",
-      "why": "Modern shoppers, especially Gen Z, seek brands that reflect personal values and community belonging, turning purchases into identity statements and long‑term loyalty drivers.",
-      "what": "Curate collections that align with specific cultural narratives and co‑create with community voices.",
-      "source": "https://worldbusinessoutlook.com/identity-driven-retail-how-consumer-values-are-reshaping-merchandise-and-e-commerce",
-      "image": "https://worldbusinessoutlook.com/wp-content/uploads/2026/09/Identity-Driven-Retail-How-Values-Based-Shopping-Is-Transforming-E-commerce-and-Product-Strategy.png"
+      "title": "Health‑Performance as Lifestyle Pillar",
+      "whatIs": "Consumers are integrating health‑performance metrics (sleep, immunity, mental stamina) into everyday purchase decisions across food, beauty, and retail, treating wellness as a core utility rather than an add‑on.",
+      "why": "Post‑pandemic anxiety and rising chronic‑illness awareness push shoppers to seek products that demonstrably improve quality‑of‑life, reshaping value hierarchies toward functional benefits.",
+      "what": "Highlight measurable health outcomes in product storytelling.",
+      "source": "https://nielseniq.com/global/en/insights/report/2026/consumer-outlook-guide-to-2027",
+      "image": "https://nielseniq.com/wp-content/uploads/sites/4/2026/09/Outlook-Cover-picture.jpg"
     },
     {
       "date": "2026-10-18",
       "channel": "culture",
-      "title": "Experience‑First Gifting Powered by AI Curation",
-      "whatIs": "Holiday and gift‑giving trends are shifting from material goods to curated experiences and wellness services, with AI‑driven recommendation engines tailoring personalized experience bundles.",
-      "why": "Economic pressure and a post‑pandemic focus on wellbeing drive consumers to invest in memorable, shareable moments that reinforce social bonds and personal growth.",
-      "what": "Offer AI‑personalized experience packages and wellness subscriptions as core gift options.",
-      "source": "https://www.glossy.co/fashion/the-ai-powered-holiday-shopper-how-prompt-driven-curation-and-gen-alpha-algorithms-will-shape-consumer-behavior",
-      "image": "https://www.glossy.co/wp-content/uploads/sites/4/2026/10/Screenshot-2026-10-01-at-9.10.14-AM.png?w=1834"
+      "title": "Prescription‑Grade Wellness Mainstreaming",
+      "whatIs": "Drugs like GLP‑1 agonists are moving from niche medical treatments to mainstream consumer wellness categories, influencing diet, weight‑loss, and lifestyle product development.",
+      "why": "Rapid adoption signals a cultural shift where medically validated solutions are expected in everyday consumer choices, blurring lines between pharma and retail.",
+      "what": "Partner with regulated health innovators for co‑branded “clinically backed” lines.",
+      "source": "https://explodingtopics.com/blog/glp-1-market",
+      "image": "https://cdn.buttercms.com/output=f:webp/9xEpRv03Q62beMTKehz6"
+    },
+    {
+      "date": "2026-10-18",
+      "channel": "trends",
+      "title": "Siren‑Head Funk Dance Returns",
+      "whatIs": "A creepy “cracking” audio clip paired with a rapid neck‑cracking dance move is back on TikTok, fueling Halloween‑themed transformation videos.",
+      "why": "The sound is spiking as creators prep spooky content for Halloween; Gen Z users love the eerie vibe and the visual “glow‑up” twist.",
+      "what": "Film a quick “before‑after” transformation synced to the cracking beat today.",
+      "source": "https://clipchamp.com/en/blog/tiktok-trends-challenges",
+      "image": "https://res.cdn.office.net/s01-sp-clipchamp/assets/jOc1IyE2cWic48QMS1mKb/708d5eab5a23d0e102ddbfae31e87fd7"
+    },
+    {
+      "date": "2026-10-18",
+      "channel": "trends",
+      "title": "“Freaked Out” Reaction Remix",
+      "whatIs": "Fat Papi’s “Freaked Out” is trending on TikTok’s sound board, being used for fast‑cut reaction clips to shocking news or game moments.",
+      "why": "The high‑energy beat drives high‑engagement loops; creators across comedy and gaming niches are adopting it to capture surprise reactions.",
+      "what": "Post a 15‑second reaction video to a recent viral news clip using the “Freaked Out” audio.",
+      "source": "https://www.tiktok.com/discover/trending-sounds-on-tiktok-now?lang=en",
+      "image": ""
+    },
+    {
+      "date": "2026-10-18",
+      "channel": "trends",
+      "title": "“Talking Body” Style‑Swap Challenge",
+      "whatIs": "Tove Lo’s “Talking Body” resurfaces as a top TikTok sound, sparking a “style‑swap” challenge where creators flip outfits mid‑beat.",
+      "why": "The catchy pop hook encourages quick costume changes; fashion‑focused creators see spikes in likes and shares, especially ahead of weekend events.",
+      "what": "Create a 30‑second outfit‑swap reel timed to the chorus of “Talking Body.”",
+      "source": "https://www.tiktok.com/discover/trending-sounds-on-tiktok-now?lang=en",
+      "image": ""
     }
   ]
 }
