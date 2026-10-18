@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-03",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Digital Sovereignty Redefines Personal Identity",
-        "TITLE: The Travel‑Search Orbit – Booking Becomes a Lifestyle Loop",
-        "TITLE: Multipolar Cultural Consumption Replaces American‑Centric Soft Power"
-      ]
-    },
-    {
-      "date": "2026-10-03",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Be Like a Woman” TikTok Sound Surge",
-        "TITLE: Aussie $9K Anaesthetic Tattoo Craze",
-        "TITLE: Instagram “Short Drama” Pilot"
-      ]
-    },
-    {
-      "date": "2026-10-03",
-      "channel": "web3",
-      "topics": [
-        "TITLE: BabyDoge Takes Over LimeWire for Creator‑First Platform",
-        "TITLE: Q‑Archive Drops Limited‑Edition NFT T‑Shirts",
-        "TITLE: Decentralized Identity Passes Gain Momentum in Creator Communities"
-      ]
-    },
-    {
       "date": "2026-10-04",
       "channel": "culture",
       "topics": [
@@ -358,6 +331,24 @@
         "TITLE: Restaurants Go On‑Chain with TaskOn & TastyCo",
         "TITLE: Polkadot Powers Fan‑Owned Sports Tokens",
         "TITLE: Animoca Brands Launches Moca Chain for NFT Tribes"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "channel": "social",
+      "topics": [
+        "TITLE: TikTok Caps Daily Post Volume",
+        "TITLE: Reddit Introduces 15‑Second Engaged‑View Goal",
+        "TITLE: Instagram Tests “Reels Remix” with Strangers"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Wellness‑Format Supplements Redefine Daily Routines",
+        "TITLE: Identity‑Driven Retail Fuels Emotional Commerce",
+        "TITLE: Experience‑First Gifting Powered by AI Curation"
       ]
     }
   ]

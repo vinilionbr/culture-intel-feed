@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T01:15:48.112Z",
+  "updated": "2026-10-18T00:43:33.455Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -4460,6 +4460,66 @@
       "what": "Design a multi‑tribe NFT series that grants tiered access to exclusive events or content.",
       "source": "https://www.facebook.com/cryptopolitan/posts/latest-moca-chain-goes-livethe-animoca-brands-backed-network-brings-privacy-pres/1792628972870211",
       "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/829196608_1508621621295468_7607873037238854416_n.png?stp=dst-jpg_tt6&cstp=mx773x430&ctp=s773x430&_nc_cat=107&ccb=1-7&_nc_sid=cae128&_nc_ohc=b7AqMXJJVscQ7kNvwGpVpO4&_nc_oc=Ado1TKu1hxVK8uyJhEDt4_eNZuKbeYZRTZSsXyB0QGb3o9rGKCl7cHttkxh4NyH5M_E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pfYOc4CjamtHY9DBxz7Wyw&_nc_ss=7c289&oh=00_AQMSxvqVoMBzWRspjbZ-GhNt9zeaO-DIaQTmu282bFcJ0w&oe=6AD89C05"
+    },
+    {
+      "date": "2026-10-18",
+      "channel": "social",
+      "title": "TikTok Caps Daily Post Volume",
+      "whatIs": "TikTok — API now enforces a hard limit of 25 posts per account per 24 hours, with legacy error messages still showing the old 10‑post limit.",
+      "why": "The stricter cap forces creators to prioritize high‑impact content and batch‑schedule fewer, more polished videos, preventing spam‑like flood posting that the algorithm now penalises.",
+      "what": "Schedule only your top‑performing 2‑3 videos daily; reserve the rest for later slots.",
+      "source": "https://www.blotato.com/research/social-media-api-report",
+      "image": "https://www.blotato.com/research/social-media-api-report/og.png"
+    },
+    {
+      "date": "2026-10-18",
+      "channel": "social",
+      "title": "Reddit Introduces 15‑Second Engaged‑View Goal",
+      "whatIs": "Reddit — New advertising metric requiring videos to achieve at least 15 seconds of engaged views to count toward campaign objectives.",
+      "why": "The metric pushes creators to hook viewers within the first few seconds, mirroring TikTok’s “first‑3‑seconds” focus and reshaping Reddit’s video ad ecosystem toward bite‑size storytelling.",
+      "what": "Lead with a bold visual or question in the first 3 seconds to lock in the 15‑second view.",
+      "source": "https://socialbee.com/blog/latest-social-media-news",
+      "image": "https://socialbee.com/wp-content/uploads/2024/07/Social-Media-News.png"
+    },
+    {
+      "date": "2026-10-18",
+      "channel": "social",
+      "title": "Instagram Tests “Reels Remix” with Strangers",
+      "whatIs": "Instagram — Pilot feature letting users remix any public Reel by adding their own video layer, even when the original creator isn’t a followee.",
+      "why": "By lowering collaboration friction, the format fuels rapid remix chains that boost discoverability; early adopters see 2‑3× higher reach versus standard Reels.",
+      "what": "Post a “remix‑ready” Reel with a clear call‑to‑action inviting others to add their spin.",
+      "source": "https://www.instagram.com/p/Ddr6KnbgRF2",
+      "image": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/818250558_18131425795708605_1179591967928840779_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=KqeYxdHaOY8Q7kNvwHrDOi_&_nc_oc=Adog_tegkNrxlDe6HZvHE8heaEw9h5fX4_Jhwn31kVP7zwrpD--RLVWTSOV3-V-KoWw&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=Drwj23PqH9Qntp_Ka0VcCg&_nc_ss=7c689&oh=00_AQNracX5vWJM8wvUuE1DYfmYytAFq4sDilwitxSF8M3dgg&oe=6AD9DFD2"
+    },
+    {
+      "date": "2026-10-18",
+      "channel": "culture",
+      "title": "Wellness‑Format Supplements Redefine Daily Routines",
+      "whatIs": "Consumers are gravitating toward gummy‑based vitamins and nutraceuticals, treating them as convenient, habit‑forming “snack‑like” health rituals rather than traditional pills.",
+      "why": "A growing desire for effortless self‑care, combined with the “food‑as‑medicine” mindset, pushes health into everyday consumption habits, especially among Gen Z and Millennials who value simplicity and transparency.",
+      "what": "Launch snack‑style, transparent‑label supplement lines with lifestyle storytelling.",
+      "source": "https://www.kingsresearch.com/blog/consumer-trends-in-us-gummy-supplements-market",
+      "image": "https://app.kingsresearch.com/uploads/blogs/1790334769800-US-Gummy-Supplements.webp"
+    },
+    {
+      "date": "2026-10-18",
+      "channel": "culture",
+      "title": "Identity‑Driven Retail Fuels Emotional Commerce",
+      "whatIs": "Niche retail categories—heritage, civic‑themed, outdoor‑lifestyle—are outpacing mass‑market segments by building deep emotional ties rather than purely transactional value.",
+      "why": "Modern shoppers, especially Gen Z, seek brands that reflect personal values and community belonging, turning purchases into identity statements and long‑term loyalty drivers.",
+      "what": "Curate collections that align with specific cultural narratives and co‑create with community voices.",
+      "source": "https://worldbusinessoutlook.com/identity-driven-retail-how-consumer-values-are-reshaping-merchandise-and-e-commerce",
+      "image": "https://worldbusinessoutlook.com/wp-content/uploads/2026/09/Identity-Driven-Retail-How-Values-Based-Shopping-Is-Transforming-E-commerce-and-Product-Strategy.png"
+    },
+    {
+      "date": "2026-10-18",
+      "channel": "culture",
+      "title": "Experience‑First Gifting Powered by AI Curation",
+      "whatIs": "Holiday and gift‑giving trends are shifting from material goods to curated experiences and wellness services, with AI‑driven recommendation engines tailoring personalized experience bundles.",
+      "why": "Economic pressure and a post‑pandemic focus on wellbeing drive consumers to invest in memorable, shareable moments that reinforce social bonds and personal growth.",
+      "what": "Offer AI‑personalized experience packages and wellness subscriptions as core gift options.",
+      "source": "https://www.glossy.co/fashion/the-ai-powered-holiday-shopper-how-prompt-driven-curation-and-gen-alpha-algorithms-will-shape-consumer-behavior",
+      "image": "https://www.glossy.co/wp-content/uploads/sites/4/2026/10/Screenshot-2026-10-01-at-9.10.14-AM.png?w=1834"
     }
   ]
 }
