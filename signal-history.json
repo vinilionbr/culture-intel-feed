@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-04",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Individual Mobility as Cultural Capital",
-        "TITLE: AI‑Ethics Credibility Gap",
-        "TITLE: Private‑Label Value Ascendancy"
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Be Like a Woman” TikTok Sound Surge",
-        "TITLE: Instagram Tests “Short Drama” Feature",
-        "TITLE: “Ramdam” Business‑Hustle Audio Trend"
-      ]
-    },
-    {
       "date": "2026-10-05",
       "channel": "culture",
       "topics": [
@@ -358,6 +340,33 @@
         "TITLE: Siren‑Head Funk Dance Returns",
         "TITLE: “Freaked Out” Reaction Remix",
         "TITLE: “Talking Body” Style‑Swap Challenge"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Identity‑Driven Retail Fuels Emotional‑Economy Commerce",
+        "TITLE: Gummy‑Supplement Subscriptions Anchor Wellness Routines",
+        "TITLE: Loyalty Programs Become Inflation‑Navigation Tools"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Not a Perfect Person” Confession Sound",
+        "TITLE: “Self Aware” Cinematic Vibe",
+        "TITLE: “Freaked Out” Reaction Remix"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "channel": "web3",
+      "topics": [
+        "TITLE: BabyDoge Takes Over LimeWire for Creator‑First Web3 Hub",
+        "TITLE: BitTorrent Rebrands, Burns BTT to Fund Decentralized Services",
+        "TITLE: Open‑Edition NFT Drop Funds Cincinnati Bail Fund"
       ]
     }
   ]
