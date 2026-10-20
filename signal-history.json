@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-05",
-      "channel": "culture",
-      "topics": [
-        "TITLE: AI‑Regulation Culture War Shapes Brand Trust",
-        "TITLE: Individual Mobility Becomes Cultural Capital",
-        "TITLE: Heritage Repatriation Fuels Transnational Identity Narratives"
-      ]
-    },
-    {
-      "date": "2026-10-05",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Be Like a Woman” Sound Surge",
-        "TITLE: Charlie Kirk Meme Explosion",
-        "TITLE: Ramdam “Business‑Hour” Audio Trend"
-      ]
-    },
-    {
       "date": "2026-10-06",
       "channel": "culture",
       "topics": [
@@ -367,6 +349,33 @@
         "TITLE: BabyDoge Takes Over LimeWire for Creator‑First Web3 Hub",
         "TITLE: BitTorrent Rebrands, Burns BTT to Fund Decentralized Services",
         "TITLE: Open‑Edition NFT Drop Funds Cincinnati Bail Fund"
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Local‑First Cultural Agility Beats Global Consistency",
+        "TITLE: Anti‑Algorithm Movement Redefines Trust",
+        "TITLE: Individual Cultural Mobility as Identity Capital"
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Jungkook’s TikTok View‑Explosion",
+        "TITLE: “MarryMe” Food Challenge Goes Viral",
+        "TITLE: Arab‑Pop “Sabah El Ward” Beach Vibe Surge"
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "channel": "web3",
+      "topics": [
+        "TITLE: BitTorrent Rebrands, Burns BTT to Signal New Era",
+        "TITLE: BabyDoge Acquires LimeWire for Creator‑AI Hub",
+        "TITLE: MGCOne Tokenizes HOA Communities"
       ]
     }
   ]
