@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-06",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Experiential “K‑Zone” Hubs Redefine Cultural Consumption",
-        "TITLE: Sustainable Cultural Tourism Becomes Mainstream Travel Goal",
-        "TITLE: Community‑Driven Cultural Healing Fuels Social Cohesion Initiatives"
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Nvidia’s “Explosive Upside” Buzz",
-        "TITLE: #FallGuysMoments Takes Over TikTok",
-        "TITLE: AI‑Polaroid Video Challenge Goes Viral"
-      ]
-    },
-    {
       "date": "2026-10-07",
       "channel": "social",
       "topics": [
@@ -376,6 +358,33 @@
         "TITLE: BitTorrent Rebrands, Burns BTT to Signal New Era",
         "TITLE: BabyDoge Acquires LimeWire for Creator‑AI Hub",
         "TITLE: MGCOne Tokenizes HOA Communities"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Institutional Culture Festivals Go Mainstream",
+        "TITLE: Niche Genre Film Markets Monetize Fandom",
+        "TITLE: Trusted Cultural AI Infrastructure Emerges"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “MarryMe” Food Challenge Explodes",
+        "TITLE: Jungkook Hits TikTok Top‑5 Celebrity Spot",
+        "TITLE: GLP‑1 Supplement Surge Hits Search Waves"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Creator‑First NFT Streetwear Playbook",
+        "TITLE: Ape Hood Community‑Curated Drop",
+        "TITLE: TheKRYP NFT‑Infused Streetwear Uniform"
       ]
     }
   ]
