@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-07",
-      "channel": "social",
-      "topics": [
-        "TITLE: Linked Live Comments Now Ranked by Relevance",
-        "TITLE: Facebook Introduces “Collab Reels” for Duo Creators",
-        "TITLE: TikTok Shop Shifts to Discovery‑Led Shopping"
-      ]
-    },
-    {
-      "date": "2026-10-07",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Health‑Performance Becomes Core Consumption Lens",
-        "TITLE: Premium‑Value Fusion Redefines Buying Logic",
-        "TITLE: AI Regulation Culture War Shapes Brand Trust"
-      ]
-    },
-    {
-      "date": "2026-10-07",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Crack‑It‑Up” Halloween Audio Surge",
-        "TITLE: “Fade Into You” Autumn Vibes Takeover",
-        "TITLE: Fortnite “Override” Server‑Status Spike"
-      ]
-    },
-    {
       "date": "2026-10-08",
       "channel": "culture",
       "topics": [
@@ -385,6 +358,33 @@
         "TITLE: Creator‑First NFT Streetwear Playbook",
         "TITLE: Ape Hood Community‑Curated Drop",
         "TITLE: TheKRYP NFT‑Infused Streetwear Uniform"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "channel": "social",
+      "topics": [
+        "TITLE: TikTok News‑Feed Experiment Gains Traction",
+        "TITLE: Linked LinkedIn Introduces “Feed‑Control” Toggles",
+        "TITLE: YouTube Launches 24/7 Live News Streams"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Cultural Mobility Becomes Identity Capital",
+        "TITLE: Latin “New Urban” Fusion Drives Brand Playgrounds",
+        "TITLE: Gen Z’s Early Credit Adoption Redefines Financial Identity"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “DUNG DING BREGA” TikTok Audio Surge",
+        "TITLE: Brain‑Stacking “Phone‑Free” Challenge",
+        "TITLE: NeeDoh Sensory Toy Craze"
       ]
     }
   ]
