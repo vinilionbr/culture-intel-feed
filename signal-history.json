@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-08",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Relational Decision‑Making Replaces Individual Choice",
-        "TITLE: Conversational AI Becomes Primary Search Interface",
-        "TITLE: Generative AI Moves From Novelty to Daily Utility"
-      ]
-    },
-    {
-      "date": "2026-10-08",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Goodbye ChatGPT” TikTok Farewell Trend",
-        "TITLE: Cornell Jane Doe Algorithm‑Shield Movement",
-        "TITLE: Fortnite “Override” Server‑Status Panic"
-      ]
-    },
-    {
-      "date": "2026-10-08",
-      "channel": "web3",
-      "topics": [
-        "TITLE: OpenSea Backs Arc From Day One",
-        "TITLE: Doodles Teams With Mondrian Estate",
-        "TITLE: CrEePt0puNkS Urban‑Anxiety NFT Series"
-      ]
-    },
-    {
       "date": "2026-10-09",
       "channel": "culture",
       "topics": [
@@ -385,6 +358,33 @@
         "TITLE: “DUNG DING BREGA” TikTok Audio Surge",
         "TITLE: Brain‑Stacking “Phone‑Free” Challenge",
         "TITLE: NeeDoh Sensory Toy Craze"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "channel": "social",
+      "topics": [
+        "TITLE: Threads Ads No Longer Need Instagram Link",
+        "TITLE: YouTube Rolls Out AI‑Powered Feed Tweaks",
+        "TITLE: Platform‑Wide Feed‑Control Features Launch"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Cross‑Border Cultural Mobility as Identity Capital",
+        "TITLE: Artist‑Led Pushback Against Music Algorithms",
+        "TITLE: Financial Identity Shifts Toward Purpose‑Driven Banking"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Time Back” Cinematic Mood Hack",
+        "TITLE: “MarryMe” Chicken Challenge Surge",
+        "TITLE: Tyla’s “That Girl” Dance Breakout"
       ]
     }
   ]
