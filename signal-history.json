@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-09",
-      "channel": "culture",
-      "topics": [
-        "TITLE: AI‑Curated Experiences Replace Physical Goods",
-        "TITLE: Digital‑Art & AI Rights as Cultural Capital",
-        "TITLE: Identity‑Driven Retail Matures into Emotional‑Economy Commerce"
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Goodbye ChatGPT” Viral Farewell Meme",
-        "TITLE: 80s‑Style ChatGPT Photo Prompt Trend",
-        "TITLE: MLB Rookie Breakout Spotlight Surge"
-      ]
-    },
-    {
       "date": "2026-10-10",
       "channel": "social",
       "topics": [
@@ -385,6 +367,24 @@
         "TITLE: “Time Back” Cinematic Mood Hack",
         "TITLE: “MarryMe” Chicken Challenge Surge",
         "TITLE: Tyla’s “That Girl” Dance Breakout"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Multidimensional Value Paradox",
+        "TITLE: “Food‑Identity” Fusion",
+        "TITLE: Generational Tech‑Identity Divergence"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Aphex Twin’s “Avril 14th” TikTok Resurgence",
+        "TITLE: “DUNG DING BREGA” Phonk‑Brega Meme Wave",
+        "TITLE: Birria Taco Challenge Peaks Again"
       ]
     }
   ]
