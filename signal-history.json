@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-10",
-      "channel": "social",
-      "topics": [
-        "TITLE: TikTok Launches AI‑Powered Discovery & One‑Click Checkout",
-        "TITLE: X Expands “Gametime” Hub with MLB Partnership",
-        "TITLE: Snapchat Rolls Out Smarter B2B Ad Tools"
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "channel": "culture",
-      "topics": [
-        "TITLE: AI‑Infused Cultural Capital",
-        "TITLE: Heritage Repatriation as Identity Currency",
-        "TITLE: Private‑Label Value Ascendancy"
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “My American Girl Doll” TikTok Mania",
-        "TITLE: Zucchini TikTok Obsession",
-        "TITLE: Jeff Buckley Revival on TikTok"
-      ]
-    },
-    {
       "date": "2026-10-11",
       "channel": "culture",
       "topics": [
@@ -385,6 +358,33 @@
         "TITLE: Aphex Twin’s “Avril 14th” TikTok Resurgence",
         "TITLE: “DUNG DING BREGA” Phonk‑Brega Meme Wave",
         "TITLE: Birria Taco Challenge Peaks Again"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Cross‑Border Cultural Mobility as Identity Capital",
+        "TITLE: Multi‑Dimensional Value Paradox",
+        "TITLE: Decentralized Cultural Relevance Over Brand Consistency"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Time Back” Cinematic Mood",
+        "TITLE: Navratri 2026 Reel Explosion",
+        "TITLE: Brain‑Stacking Screen‑Free Challenge"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Spider‑Man Avatars Go Mainstream on PlayStation",
+        "TITLE: Blur Shutdown Triggers Royalty Reckoning",
+        "TITLE: Genius.fun Enables On‑Chain Community Takeovers"
       ]
     }
   ]
