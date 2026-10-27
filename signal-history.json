@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-12",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Identity‑Driven Retail Takes Center Stage",
-        "TITLE: Sustainable‑Fatigue Paradox in Fast Fashion",
-        "TITLE: Experience‑First Holiday Shift Powered by AI Curation"
-      ]
-    },
-    {
-      "date": "2026-10-12",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Salt‑Stomping Sleep Hack",
-        "TITLE: Jungkook’s TikTok Crown",
-        "TITLE: Hormuz Tanker Attack Spike"
-      ]
-    },
-    {
       "date": "2026-10-13",
       "channel": "culture",
       "topics": [
@@ -385,6 +367,33 @@
         "TITLE: Spider‑Man Avatars Go Mainstream on PlayStation",
         "TITLE: Story Protocol’s On‑Chain IP Registry Gains Traction",
         "TITLE: Atok‑Powered Live NFT Art Drop Engages Community"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Hybrid Urban‑Latin Fusion",
+        "TITLE: Transparent‑Value Economy",
+        "TITLE: Cultural‑Cognitive Aesthetic Literacy"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Ramalama (Bang Bang)” Costume Reveal",
+        "TITLE: “Time Back” Cinematic Mood",
+        "TITLE: “Black October” Cyber‑Vulnerability Alert"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "channel": "web3",
+      "topics": [
+        "TITLE: CertiK Unveils New Brand Identity",
+        "TITLE: BitTorrent Executes First BTT Token Burn & Rebrand",
+        "TITLE: Apu Apustajas NFT Volume Jumps 65% in 24 hrs"
       ]
     }
   ]
