@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-13",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Health‑Performance Becomes Core Purchase Driver",
-        "TITLE: Homeownership as Identity Anchor",
-        "TITLE: AI‑Prompt Curated Experiences Replace Physical Gifts"
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Night Sweep” Ice‑Scare Goes Viral",
-        "TITLE: Cornell Jane Doe Algorithm Shield",
-        "TITLE: Instagram’s New “Viral Hits” Audio Pack"
-      ]
-    },
-    {
       "date": "2026-10-14",
       "channel": "culture",
       "topics": [
@@ -394,6 +376,51 @@
         "TITLE: CertiK Unveils New Brand Identity",
         "TITLE: BitTorrent Executes First BTT Token Burn & Rebrand",
         "TITLE: Apu Apustajas NFT Volume Jumps 65% in 24 hrs"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "channel": "social",
+      "topics": [
+        "TITLE: X Grok Now Reads Your Posts",
+        "TITLE: Pinterest Boosts Influencer‑Post Collaboration",
+        "TITLE: Snapchat AI‑Generated Song from Chats"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Individual Cultural Mobility Becomes Identity Capital",
+        "TITLE: New Urban Latin Fusion Shapes Global Lifestyle",
+        "TITLE: GLP‑1 Medications Redefine Food Choices"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Diana Ross “Upside Down” TikTok Surge",
+        "TITLE: Aphex Twin “Avril 14th” TikTok Comeback",
+        "TITLE: VMAs TikTok‑Fuelled Reaction Clips"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "channel": "ai",
+      "topics": [
+        "TITLE: Apple Creator Studio Gets AI‑Powered Video & Audio Tools",
+        "TITLE: Instagram Rolls Out AI “Edits Assistant” for Reels",
+        "TITLE: HitPaw VikPea 6 Adds AI Enhancement Agent & Gemini Omni"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Animoca Brands Teams with Franklin Templeton",
+        "TITLE: Cardano Foundation Spins‑Out Veridian Identity Unit",
+        "TITLE: Pudgy Penguins Hits Main‑Street Retail"
       ]
     }
   ]
