@@ -1,42 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-14",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Cultural Agility Beats Brand Consistency",
-        "TITLE: Price‑First Sustainability in Fast Fashion",
-        "TITLE: AI‑Prompted Holiday Curation Leads Gen Alpha"
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "channel": "trends",
-      "topics": [
-        "TITLE: My American Girl Doll TikTok Surge",
-        "TITLE: Salt‑Stomping Sleep Hack",
-        "TITLE: Arab‑Pop “Sabah El Ward” Wave"
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "channel": "ai",
-      "topics": [
-        "TITLE: OpenAI Agents API Gains Computer‑Use Power",
-        "TITLE: Pipedrive Nova Brings AI Meeting Intelligence to All Users",
-        "TITLE: Google’s New Education‑Focused AI Suite Hits Public Preview"
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Atok‑Powered NFT Art Hunt Launches Live",
-        "TITLE: Lorna Mills Featured in OpenSea Flagship Spotlight",
-        "TITLE: Instagram Reel Shows NFT‑Infused Streetwear Capsule"
-      ]
-    },
-    {
       "date": "2026-10-15",
       "channel": "social",
       "topics": [
@@ -421,6 +385,42 @@
         "TITLE: Animoca Brands Teams with Franklin Templeton",
         "TITLE: Cardano Foundation Spins‑Out Veridian Identity Unit",
         "TITLE: Pudgy Penguins Hits Main‑Street Retail"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "channel": "culture",
+      "topics": [
+        "TITLE: New Urban Fusion Redefines Lifestyle Hubs",
+        "TITLE: “New Food Movement” Elevates Food‑as‑Wellness Identity",
+        "TITLE: Individual Cultural Mobility Becomes a Talent Currency"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Rainbow Revolution” Art‑Process Trend",
+        "TITLE: “Ramalama (Bang Bang)” Costume Reveal",
+        "TITLE: Diana Ross “Upside Down” Transformation Challenge"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "channel": "ai",
+      "topics": [
+        "TITLE: Siri Gains Long‑Term Memory for Creators",
+        "TITLE: Meta’s AI Business Assistant Gets Creative Boost",
+        "TITLE: OpenAI Unveils “Dots” AI Agent for Real‑Time Content Creation"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Pi Network Teams with Open Standard for On‑Chain ID",
+        "TITLE: 9 CAT Group Joins KUB Chain Creator Hub",
+        "TITLE: Polkadot Launches Fan‑Engagement Token Rewards"
       ]
     }
   ]
