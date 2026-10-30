@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-15",
-      "channel": "social",
-      "topics": [
-        "TITLE: TikTok Explodes in Emerging Markets",
-        "TITLE: Instagram Trials Reels with Strangers First",
-        "TITLE: Meta Bans TikTok Ads in U.S. & Allies"
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Cultural‑AI Authenticity Becomes a Buying Standard",
-        "TITLE: Immersive “Cultural‑Hub” Spaces Redefine Local Brand Touchpoints",
-        "TITLE: Institutionalized K‑Pop Education Fuels Global Cultural Capital"
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "channel": "trends",
-      "topics": [
-        "TITLE: BTS Hashtag Hits 1 Trillion Views",
-        "TITLE: NFL Post‑Game Punch Clip Blows Up",
-        "TITLE: Toyota Corolla Horn Fails Challenge"
-      ]
-    },
-    {
       "date": "2026-10-16",
       "channel": "culture",
       "topics": [
@@ -421,6 +394,42 @@
         "TITLE: Pi Network Teams with Open Standard for On‑Chain ID",
         "TITLE: 9 CAT Group Joins KUB Chain Creator Hub",
         "TITLE: Polkadot Launches Fan‑Engagement Token Rewards"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "channel": "social",
+      "topics": [
+        "TITLE: TikTok AI‑Powered Shopping Boost",
+        "TITLE: Instagram “Features” Long‑Form Video Rollout",
+        "TITLE: Pinterest Influencer‑Boost Collaboration Tool"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Experience‑First Holiday Economy",
+        "TITLE: Food‑as‑Medicine Lifestyle",
+        "TITLE: Economic‑Anxiety Frugal Optimism"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "channel": "ai",
+      "topics": [
+        "TITLE: Gemini 4 Argon Unleashes Frontier‑Level Creativity",
+        "TITLE: Claude’s Smart Reports Give Teams Content Insight",
+        "TITLE: Mission Callisto Powers AI‑Driven Sales Storytelling"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Barça Vision Lab Brings Fans On‑Chain",
+        "TITLE: BitTorrent Rebrands for Creator‑Centric Web3",
+        "TITLE: Apu Apustajas NFT Volume Jumps 65% in One Day"
       ]
     }
   ]
