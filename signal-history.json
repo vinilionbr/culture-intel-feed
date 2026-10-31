@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-16",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Anti‑Algorithm Rebellion",
-        "TITLE: The Return of Touch",
-        "TITLE: Affection‑Deficit Economy"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Arab‑Pop “Sabah El Ward” Beach Vibe",
-        "TITLE: BTS #BTSTrillion Hashtag Frenzy",
-        "TITLE: Strait of Hormuz Tanker Attack Spike"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Google Playground Lets Creators Build Games by Prompt",
-        "TITLE: GPT‑6 Rolls Out in ChatGPT with Intelligent UI",
-        "TITLE: InMobi Launches Mobius AI for Real‑Time Ad Decisioning"
-      ]
-    },
-    {
       "date": "2026-10-17",
       "channel": "culture",
       "topics": [
@@ -430,6 +403,33 @@
         "TITLE: Barça Vision Lab Brings Fans On‑Chain",
         "TITLE: BitTorrent Rebrands for Creator‑Centric Web3",
         "TITLE: Apu Apustajas NFT Volume Jumps 65% in One Day"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "channel": "social",
+      "topics": [
+        "TITLE: TikTok “Teaser‑Clip” Boosts Long‑Form Views",
+        "TITLE: Pinterest Beauty‑Trend Boards Go Viral",
+        "TITLE: Meta Creator‑App Drives Link‑Creation Surge"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "channel": "culture",
+      "topics": [
+        "TITLE: AI‑Curated Holiday Experiences",
+        "TITLE: “New Food Movement” – Sustainable Identity Eating",
+        "TITLE: Black‑Brown Cultural Hubs as Identity Anchors"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Animoca Brands Opens Vault Marketplace to Institutions",
+        "TITLE: Pudgy Penguins Hits Target Stores with Vibes Series 3",
+        "TITLE: MSCHF Co‑Founder Launches Solo Digital‑Art Venture"
       ]
     }
   ]
