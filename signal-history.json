@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-17",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Subscription‑First Wellness Takes Hold",
-        "TITLE: Beauty’s Year‑Long Black Friday Season",
-        "TITLE: Inflation‑Driven Loyalty Reliance"
-      ]
-    },
-    {
-      "date": "2026-10-17",
-      "channel": "trends",
-      "topics": [
-        "TITLE: YouTube Shorts 3‑Minute Remix Boom",
-        "TITLE: Salt‑Stomping Sleep Hack Surge",
-        "TITLE: “Self Aware” TikTok Sound Takes Over Reels"
-      ]
-    },
-    {
-      "date": "2026-10-17",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Restaurants Go On‑Chain with TaskOn & TastyCo",
-        "TITLE: Polkadot Powers Fan‑Owned Sports Tokens",
-        "TITLE: Animoca Brands Launches Moca Chain for NFT Tribes"
-      ]
-    },
-    {
       "date": "2026-10-18",
       "channel": "social",
       "topics": [
@@ -430,6 +403,33 @@
         "TITLE: Animoca Brands Opens Vault Marketplace to Institutions",
         "TITLE: Pudgy Penguins Hits Target Stores with Vibes Series 3",
         "TITLE: MSCHF Co‑Founder Launches Solo Digital‑Art Venture"
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Global Museum Alliances Redefine Cultural Authority",
+        "TITLE: Esports Becomes the New Global Spectacle",
+        "TITLE: Functional Staples – Gut‑Health Bread Movement"
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Ramalama (Bang Bang) Costume Reveal",
+        "TITLE: Brain‑Stacking Screen‑Free Challenge",
+        "TITLE: Aphex Twin “Avril 14th” Retro Remix Surge"
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Blur Shutdown Sparks Royalty Reckoning",
+        "TITLE: Cardano Spins Out Veridian Identity Unit",
+        "TITLE: AItoNFT Launches Founder‑Creator Challenge"
       ]
     }
   ]
