@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-18",
-      "channel": "social",
-      "topics": [
-        "TITLE: Instagram “Instants” Quick‑Share Feature",
-        "TITLE: Instagram Creator‑Profile Revamp Boosts Reel Visibility",
-        "TITLE: TikTok Removes External Profile Links, Pushes Linktree Use"
-      ]
-    },
-    {
-      "date": "2026-10-18",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Local‑First Cultural Relevance",
-        "TITLE: Health‑Performance as Lifestyle Pillar",
-        "TITLE: Prescription‑Grade Wellness Mainstreaming"
-      ]
-    },
-    {
-      "date": "2026-10-18",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Siren‑Head Funk Dance Returns",
-        "TITLE: “Freaked Out” Reaction Remix",
-        "TITLE: “Talking Body” Style‑Swap Challenge"
-      ]
-    },
-    {
       "date": "2026-10-19",
       "channel": "culture",
       "topics": [
@@ -430,6 +403,42 @@
         "TITLE: Blur Shutdown Sparks Royalty Reckoning",
         "TITLE: Cardano Spins Out Veridian Identity Unit",
         "TITLE: AItoNFT Launches Founder‑Creator Challenge"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "channel": "social",
+      "topics": [
+        "TITLE: Meta “Ads Super Burst” 24‑Hour Blitz",
+        "TITLE: Pinterest Beauty‑Trend Boards Go Viral",
+        "TITLE: X AI‑Generated Ad Builder Launches"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "channel": "culture",
+      "topics": [
+        "TITLE: AI‑Pricing Anxiety Fuels Demand for Transparent Commerce",
+        "TITLE: “New Food Movement” Elevates Clean‑Label Purity",
+        "TITLE: Global Museum Alliance Redefines Cultural Authority"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Free Electric Willy House‑Beat Surge",
+        "TITLE: Ice Spice “Munchies” Meme Remix",
+        "TITLE: OPM Ballad “Tadhana” Viral Revival"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "channel": "ai",
+      "topics": [
+        "TITLE: Meta’s AI‑Powered Creative Suite for Ads",
+        "TITLE: Siri Gains Long‑Term Memory for Content Creators",
+        "TITLE: Morning AI’s New Marketing‑Automation Workflows"
       ]
     }
   ]
