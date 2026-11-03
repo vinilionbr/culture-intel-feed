@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-19",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Identity‑Driven Retail Fuels Emotional‑Economy Commerce",
-        "TITLE: Gummy‑Supplement Subscriptions Anchor Wellness Routines",
-        "TITLE: Loyalty Programs Become Inflation‑Navigation Tools"
-      ]
-    },
-    {
-      "date": "2026-10-19",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Not a Perfect Person” Confession Sound",
-        "TITLE: “Self Aware” Cinematic Vibe",
-        "TITLE: “Freaked Out” Reaction Remix"
-      ]
-    },
-    {
-      "date": "2026-10-19",
-      "channel": "web3",
-      "topics": [
-        "TITLE: BabyDoge Takes Over LimeWire for Creator‑First Web3 Hub",
-        "TITLE: BitTorrent Rebrands, Burns BTT to Fund Decentralized Services",
-        "TITLE: Open‑Edition NFT Drop Funds Cincinnati Bail Fund"
-      ]
-    },
-    {
       "date": "2026-10-20",
       "channel": "culture",
       "topics": [
@@ -439,6 +412,33 @@
         "TITLE: Meta’s AI‑Powered Creative Suite for Ads",
         "TITLE: Siri Gains Long‑Term Memory for Content Creators",
         "TITLE: Morning AI’s New Marketing‑Automation Workflows"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Post‑Colonial Art Renaissance",
+        "TITLE: Labor‑Identity Fusion",
+        "TITLE: Gut‑Health Bread Pivot"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Free Electric Willy House‑Beat Surge",
+        "TITLE: Charli XCX “Track 10” Reversed Challenge",
+        "TITLE: #hurricaneMelissa Real‑Time Updates"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "channel": "ai",
+      "topics": [
+        "TITLE: DeepSeek Launches “Creator Mode” for Custom AI Plugins",
+        "TITLE: Character Creator 5.2 Adds AI‑Generated Assets from Images",
+        "TITLE: Pollo AI Free Tier Opens Full Text‑to‑Video Workflow"
       ]
     }
   ]
