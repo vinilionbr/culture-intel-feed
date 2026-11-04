@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-20",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Local‑First Cultural Agility Beats Global Consistency",
-        "TITLE: Anti‑Algorithm Movement Redefines Trust",
-        "TITLE: Individual Cultural Mobility as Identity Capital"
-      ]
-    },
-    {
-      "date": "2026-10-20",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Jungkook’s TikTok View‑Explosion",
-        "TITLE: “MarryMe” Food Challenge Goes Viral",
-        "TITLE: Arab‑Pop “Sabah El Ward” Beach Vibe Surge"
-      ]
-    },
-    {
-      "date": "2026-10-20",
-      "channel": "web3",
-      "topics": [
-        "TITLE: BitTorrent Rebrands, Burns BTT to Signal New Era",
-        "TITLE: BabyDoge Acquires LimeWire for Creator‑AI Hub",
-        "TITLE: MGCOne Tokenizes HOA Communities"
-      ]
-    },
-    {
       "date": "2026-10-21",
       "channel": "culture",
       "topics": [
@@ -439,6 +412,33 @@
         "TITLE: DeepSeek Launches “Creator Mode” for Custom AI Plugins",
         "TITLE: Character Creator 5.2 Adds AI‑Generated Assets from Images",
         "TITLE: Pollo AI Free Tier Opens Full Text‑to‑Video Workflow"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Multi‑Dimensional Value Trade‑offs",
+        "TITLE: Eco‑Conscious Parenting as a Lifestyle Core",
+        "TITLE: AI‑Driven, Agentic Commerce Becomes Mainstream"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "channel": "trends",
+      "topics": [
+        "TITLE: BTS TikTok Hashtag Hits 1 Trillion Views",
+        "TITLE: “Ramalama (Bang Bang)” Audio Resurges for Halloween 2026",
+        "TITLE: Aphex Twin Tracks Trending on TikTok & YouTube"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "channel": "ai",
+      "topics": [
+        "TITLE: GPT‑6 Intelligent UI Launches Today",
+        "TITLE: YouTube’s AI‑Generated Replacement Tracks",
+        "TITLE: AI Mesh Generator Turns Sketches into 3D Assets"
       ]
     }
   ]
