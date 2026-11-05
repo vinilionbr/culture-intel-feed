@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-21",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Institutional Culture Festivals Go Mainstream",
-        "TITLE: Niche Genre Film Markets Monetize Fandom",
-        "TITLE: Trusted Cultural AI Infrastructure Emerges"
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “MarryMe” Food Challenge Explodes",
-        "TITLE: Jungkook Hits TikTok Top‑5 Celebrity Spot",
-        "TITLE: GLP‑1 Supplement Surge Hits Search Waves"
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Creator‑First NFT Streetwear Playbook",
-        "TITLE: Ape Hood Community‑Curated Drop",
-        "TITLE: TheKRYP NFT‑Infused Streetwear Uniform"
-      ]
-    },
-    {
       "date": "2026-10-22",
       "channel": "social",
       "topics": [
@@ -439,6 +412,33 @@
         "TITLE: GPT‑6 Intelligent UI Launches Today",
         "TITLE: YouTube’s AI‑Generated Replacement Tracks",
         "TITLE: AI Mesh Generator Turns Sketches into 3D Assets"
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Trust‑First Consumer Mentality",
+        "TITLE: Zero‑Click AI Search Becomes Discovery Norm",
+        "TITLE: Functional Staple Revival – Gut‑Health Bread"
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Self Aware” Sound Takes Over TikTok",
+        "TITLE: NYC Job‑Loss Shockwave Hits Creators",
+        "TITLE: Jungkook Ranks #5 in TikTok Celebrity Hashtag Views"
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "channel": "web3",
+      "topics": [
+        "TITLE: NOVA Unveils TrustNOVA Ecosystem",
+        "TITLE: Bao the Whale Fansly Redefines Collectibles",
+        "TITLE: Lorna Mills Joins OpenSea Flagship Collection"
       ]
     }
   ]
