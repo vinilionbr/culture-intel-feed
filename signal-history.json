@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-22",
-      "channel": "social",
-      "topics": [
-        "TITLE: TikTok News‑Feed Experiment Gains Traction",
-        "TITLE: Linked LinkedIn Introduces “Feed‑Control” Toggles",
-        "TITLE: YouTube Launches 24/7 Live News Streams"
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Cultural Mobility Becomes Identity Capital",
-        "TITLE: Latin “New Urban” Fusion Drives Brand Playgrounds",
-        "TITLE: Gen Z’s Early Credit Adoption Redefines Financial Identity"
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “DUNG DING BREGA” TikTok Audio Surge",
-        "TITLE: Brain‑Stacking “Phone‑Free” Challenge",
-        "TITLE: NeeDoh Sensory Toy Craze"
-      ]
-    },
-    {
       "date": "2026-10-23",
       "channel": "social",
       "topics": [
@@ -439,6 +412,42 @@
         "TITLE: NOVA Unveils TrustNOVA Ecosystem",
         "TITLE: Bao the Whale Fansly Redefines Collectibles",
         "TITLE: Lorna Mills Joins OpenSea Flagship Collection"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "channel": "social",
+      "topics": [
+        "TITLE: Meta Rolls Out “Ads Super Burst” 24‑Hour Blitz",
+        "TITLE: YouTube “Tamba” Leak Signals New Short‑Form Social Hub",
+        "TITLE: Instagram Launches “Series” Micro‑Drama Format"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Trust‑First Consumer Currency",
+        "TITLE: Private‑Label Premiumization",
+        "TITLE: African Startup Identity Surge"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Self Aware” Sound Explosion",
+        "TITLE: Diana Ross “Upside Down” Revival",
+        "TITLE: BTS Jungkook Hashtag Surge"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Bitbase 2.0 Shifts From Trading to Value Platform",
+        "TITLE: Crypto‑Casinos.com Gets a Fresh Visual Identity",
+        "TITLE: Invisible Friends Turns NFTs into Physical & Burn‑to‑Redeem Drops"
       ]
     }
   ]
