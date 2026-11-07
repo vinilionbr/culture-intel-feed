@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T03:22:13.465Z",
+  "updated": "2026-11-07T02:40:21.163Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -6410,6 +6410,66 @@
       "what": "Introduce royalty‑backed physical merch drops for your NFT series.",
       "source": "https://www.nftculture.com/nft-news/invisible-friends-the-walk",
       "image": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/10/invisible-friends-the-walk-featured.jpg"
+    },
+    {
+      "date": "2026-11-07",
+      "channel": "culture",
+      "title": "Protein‑Powered Self‑Optimization",
+      "whatIs": "A sustained surge in high‑protein foods and supplements as consumers tie protein intake to personal achievement, health, and status, reshaping everyday product categories.",
+      "why": "Millennials and Gen Z view protein as a badge of self‑improvement, fueling demand for functional foods that signal ambition and control over one’s body.",
+      "what": "Build brand narratives around performance‑driven nutrition.",
+      "source": "https://www.insighttrendsworld.com/post/why-protein-is-everywhere-the-consumer-psychology-behind-the-high-protein-boom",
+      "image": "https://static.wixstatic.com/media/9d60f9_32302eed0bcd420eb8c4f26541baaadf~mv2.png/v1/fill/w_2000,h_1333,al_c,q_95,usm_0.66_1.00_0.01/9d60f9_32302eed0bcd420eb8c4f26541baaadf~mv2.png"
+    },
+    {
+      "date": "2026-11-07",
+      "channel": "culture",
+      "title": "“Micro‑Occasions” Redefine Dining",
+      "whatIs": "Consumers are fragmenting traditional meals into frequent, purpose‑driven “micro‑occasions” (e.g., quick work‑break bites, post‑gym refuels), expanding restaurant traffic beyond lunch/dinner windows.",
+      "why": "Busy, experience‑seeking lifestyles push people to seek convenient, social, and novelty‑rich food moments, prompting brands to design ultra‑flexible menus and rapid‑service concepts.",
+      "what": "Offer modular, shareable dishes optimized for short, repeat visits.",
+      "source": "https://www.mediapost.com/publications/article/419264/report-micro-occasions-to-drive-restaurant-dini.html",
+      "image": ""
+    },
+    {
+      "date": "2026-11-07",
+      "channel": "culture",
+      "title": "Rising Financial Insecurity Drives Frugal Pragmatism",
+      "whatIs": "A sharp increase in consumers’ inability to cover surprise emergencies is prompting a shift toward value‑centric purchasing, budgeting tools, and “essential‑first” consumption habits.",
+      "why": "Economic anxiety is rewiring buying priorities; brands that demonstrate affordability, transparency, and utility will earn trust and loyalty.",
+      "what": "Highlight cost‑effectiveness and durability in product storytelling.",
+      "source": "https://chainstoreage.com/study-consumers-inability-cover-surprise-emergencies-rise",
+      "image": ""
+    },
+    {
+      "date": "2026-11-07",
+      "channel": "ai",
+      "title": "OpenAI Images 2.6 Adds GIF Generation",
+      "whatIs": "OpenAI rolled out Images 2.6, letting ChatGPT and Codex create animated GIFs and reference external images in prompts.",
+      "why": "Creators can now produce short looping visuals on‑the‑fly, turning static concepts into shareable motion assets without separate video tools.",
+      "what": "Publish a “how‑to” carousel turning a single illustration into a GIF series.",
+      "source": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/",
+      "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/2026/11/HWUXbeBaoAATUZn.jpeg"
+    },
+    {
+      "date": "2026-11-07",
+      "channel": "ai",
+      "title": "Amazon Ads Deploys AI‑Powered Creative Suite",
+      "whatIs": "Amazon Ads announced a new “Agent” tier with AI tools that auto‑generate ad copy, image variants, and audience‑specific headlines directly in the MCP platform.",
+      "why": "Marketers can instantly spin up dozens of localized ad creatives, cutting production time and testing cost, while staying inside Amazon’s shopping ecosystem.",
+      "what": "Run a rapid‑test campaign using the AI‑generated headline variations for a product launch.",
+      "source": "https://www.mediapost.com/publications/article/418355/amazon-ads-unveils-new-ai-tools.html?edition=144001",
+      "image": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/09/29/screenshot-2026-09-29-at-94240-am-2_vxU8IlJ.png"
+    },
+    {
+      "date": "2026-11-07",
+      "channel": "ai",
+      "title": "ONLYOFFICE 10.0 Embeds Context‑Aware AI Editors",
+      "whatIs": "The open‑source ONLYOFFICE suite 10.0 introduces AI that understands document context, offering real‑time suggestions, auto‑summaries, and content expansion inside text, spreadsheet, and presentation editors.",
+      "why": "Content teams can draft blog posts, reports, or slide decks faster, with AI that tailors language to the surrounding material, streamlining collaborative creation.",
+      "what": "Create a brand‑style guide using ONLYOFFICE’s AI to auto‑populate section templates.",
+      "source": "https://markets.businessinsider.com/news/stocks/onlyoffice-10-0-brings-ai-tools-modular-apps-and-stronger-security-to-its-open-source-office-suite-1036695279",
+      "image": "https://storage.googleapis.com/mmstudio-images/gallery/52760/89208071-1793460369-1.jpg"
     }
   ]
 }
