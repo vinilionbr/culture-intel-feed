@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-24",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Multidimensional Value Paradox",
-        "TITLE: “Food‑Identity” Fusion",
-        "TITLE: Generational Tech‑Identity Divergence"
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Aphex Twin’s “Avril 14th” TikTok Resurgence",
-        "TITLE: “DUNG DING BREGA” Phonk‑Brega Meme Wave",
-        "TITLE: Birria Taco Challenge Peaks Again"
-      ]
-    },
-    {
       "date": "2026-10-25",
       "channel": "culture",
       "topics": [
@@ -439,6 +421,33 @@
         "TITLE: OpenAI Images 2.6 Adds GIF Generation",
         "TITLE: Amazon Ads Deploys AI‑Powered Creative Suite",
         "TITLE: ONLYOFFICE 10.0 Embeds Context‑Aware AI Editors"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Fan‑Powered Brand Revivals",
+        "TITLE: GLP‑1‑Driven Food Re‑orientation",
+        "TITLE: Private‑Label Premiumization"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Ramalama (Bang Bang)” Costume Reveal Surge",
+        "TITLE: “Self Aware” Indie‑Pop Viral Hit",
+        "TITLE: #CanonEvent Meme Format Explosion"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Azuki Expands Into Monthly Manga & TCG",
+        "TITLE: Bitbase 2.0 Rebrands as a “Value Platform”",
+        "TITLE: Coin Theaters Rolls Out $CRE8 Creator‑Owned Platform"
       ]
     }
   ]
