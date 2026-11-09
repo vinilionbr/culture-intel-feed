@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-25",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Cross‑Border Cultural Mobility as Identity Capital",
-        "TITLE: Multi‑Dimensional Value Paradox",
-        "TITLE: Decentralized Cultural Relevance Over Brand Consistency"
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Time Back” Cinematic Mood",
-        "TITLE: Navratri 2026 Reel Explosion",
-        "TITLE: Brain‑Stacking Screen‑Free Challenge"
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Spider‑Man Avatars Go Mainstream on PlayStation",
-        "TITLE: Blur Shutdown Triggers Royalty Reckoning",
-        "TITLE: Genius.fun Enables On‑Chain Community Takeovers"
-      ]
-    },
-    {
       "date": "2026-10-26",
       "channel": "culture",
       "topics": [
@@ -448,6 +421,42 @@
         "TITLE: Azuki Expands Into Monthly Manga & TCG",
         "TITLE: Bitbase 2.0 Rebrands as a “Value Platform”",
         "TITLE: Coin Theaters Rolls Out $CRE8 Creator‑Owned Platform"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Anti‑Algorithm Consumer Rebellion",
+        "TITLE: Hyper‑Masculine Fitness Identity Surge",
+        "TITLE: Fan‑Powered Brand Experiences"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Free Electric Willy House‑Beat Surge",
+        "TITLE: Slime‑Food ASMR Craze",
+        "TITLE: “Costume Loading” Halloween Remix"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "channel": "ai",
+      "topics": [
+        "TITLE: OpenAI Images 2.6 Boosts Speed & Consistency",
+        "TITLE: Runway’s No‑Code “App Studio” for Video Workflows",
+        "TITLE: Higgsfield Auto‑Video Ads from Product URLs"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "channel": "web3",
+      "topics": [
+        "TITLE: NOVA Unveils TrustNOVA NFT Ecosystem",
+        "TITLE: Mapstone Brings Real‑World Places On‑Chain",
+        "TITLE: ChainIT Showcases Agentic Web3 Commerce at TOKEN2049"
       ]
     }
   ]
