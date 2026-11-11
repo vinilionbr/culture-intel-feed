@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-27",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Hybrid Urban‑Latin Fusion",
-        "TITLE: Transparent‑Value Economy",
-        "TITLE: Cultural‑Cognitive Aesthetic Literacy"
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Ramalama (Bang Bang)” Costume Reveal",
-        "TITLE: “Time Back” Cinematic Mood",
-        "TITLE: “Black October” Cyber‑Vulnerability Alert"
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "channel": "web3",
-      "topics": [
-        "TITLE: CertiK Unveils New Brand Identity",
-        "TITLE: BitTorrent Executes First BTT Token Burn & Rebrand",
-        "TITLE: Apu Apustajas NFT Volume Jumps 65% in 24 hrs"
-      ]
-    },
-    {
       "date": "2026-10-28",
       "channel": "social",
       "topics": [
@@ -457,6 +430,33 @@
         "TITLE: Typeform AI‑Generated Landing Pages",
         "TITLE: Usermaven Agentic Maven AI 2.0",
         "TITLE: Markan AI Brand‑Content Mobile App"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Global Museum Alliance Redefines Cultural Authority",
+        "TITLE: Trust‑First Economy Beats AI Hype",
+        "TITLE: Private‑Label Premiumization Across Income Segments"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Costume Loading” Halloween Reveal",
+        "TITLE: Brain‑Stacking Wellness Challenge",
+        "TITLE: Temper City’s “Self Aware” Viral Hit"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Galxe Pulls the Plug on Quest & ID",
+        "TITLE: Bitbase Rebrands as a “Value Platform”",
+        "TITLE: Phygital NFT Drop Turns Streetwear Into Membership Proof"
       ]
     }
   ]
