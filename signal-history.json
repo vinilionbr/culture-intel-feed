@@ -1,51 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-28",
-      "channel": "social",
-      "topics": [
-        "TITLE: X Grok Now Reads Your Posts",
-        "TITLE: Pinterest Boosts Influencer‑Post Collaboration",
-        "TITLE: Snapchat AI‑Generated Song from Chats"
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Individual Cultural Mobility Becomes Identity Capital",
-        "TITLE: New Urban Latin Fusion Shapes Global Lifestyle",
-        "TITLE: GLP‑1 Medications Redefine Food Choices"
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Diana Ross “Upside Down” TikTok Surge",
-        "TITLE: Aphex Twin “Avril 14th” TikTok Comeback",
-        "TITLE: VMAs TikTok‑Fuelled Reaction Clips"
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Apple Creator Studio Gets AI‑Powered Video & Audio Tools",
-        "TITLE: Instagram Rolls Out AI “Edits Assistant” for Reels",
-        "TITLE: HitPaw VikPea 6 Adds AI Enhancement Agent & Gemini Omni"
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Animoca Brands Teams with Franklin Templeton",
-        "TITLE: Cardano Foundation Spins‑Out Veridian Identity Unit",
-        "TITLE: Pudgy Penguins Hits Main‑Street Retail"
-      ]
-    },
-    {
       "date": "2026-10-29",
       "channel": "culture",
       "topics": [
@@ -457,6 +412,33 @@
         "TITLE: Galxe Pulls the Plug on Quest & ID",
         "TITLE: Bitbase Rebrands as a “Value Platform”",
         "TITLE: Phygital NFT Drop Turns Streetwear Into Membership Proof"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Global Museum Alliances Redefine Cultural Authority",
+        "TITLE: Reliability‑First Consumer Trust",
+        "TITLE: Pharma‑Enabled Diet Shift (GLP‑1) Reshapes Food Choices"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "channel": "ai",
+      "topics": [
+        "TITLE: TikTok’s Symphony Gets Dreamina Seedance Model",
+        "TITLE: Apple Creator Studio Adds AI‑Powered MotionVFX Plug‑ins",
+        "TITLE: Cloudflare Launches Clairic Extraction Model on Workers AI"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "channel": "web3",
+      "topics": [
+        "TITLE: TrustNOVA Unveils Global NFT Ecosystem",
+        "TITLE: CryptoRabbits Drops IRL Streetwear for NFT Holders",
+        "TITLE: Galxe Shuts Down Quest & Passport Identity Suite"
       ]
     }
   ]

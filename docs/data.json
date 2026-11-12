@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T02:41:15.024Z",
+  "updated": "2026-11-12T03:45:27.679Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -6860,6 +6860,96 @@
       "what": "Design a limited‑run hoodie that unlocks an exclusive Discord channel for holders.",
       "source": "https://www.instagram.com/p/DfL7rNxF0XI",
       "image": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/883300171_18093334472693794_1715172761889527552_n.jpg?stp=c192.0.576.576a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ftDINhXscjkQ7kNvwFbgezL&_nc_oc=Adp2tRsxGK4epiM-nWrwFqpbwdo6GUS7LkdzvyRgbmNDCOqZjFxq4t2X9f-XYxIIlcI&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=prVzensxsGN0LW-f5TGjEg&_nc_ss=7c689&oh=00_AQRvB2fkRLO_Htn_LCMoXXK6ck8sVP0g7ynyL_rmmMKFFA&oe=6AF99562"
+    },
+    {
+      "date": "2026-11-12",
+      "channel": "culture",
+      "title": "Global Museum Alliances Redefine Cultural Authority",
+      "whatIs": "Major art institutions (MoMA, Centre Pompidou, M+) are forming a cross‑continental alliance, creating a shared curatorial platform that shifts cultural legitimacy from national museums to a trans‑global network.",
+      "why": "Millennials and Gen Z seek authentic, inclusive narratives; a unified global museum front satisfies their demand for diverse representation and positions brands that partner with this network as culturally credible.",
+      "what": "Co‑create content with the alliance’s curatorial themes.",
+      "source": "https://www.artforum.com/news/centre-pompidou-moma-m-announce-new-cultural-alliance-1234762803",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/1_Joint-Portrait_press.jpeg?w=650"
+    },
+    {
+      "date": "2026-11-12",
+      "channel": "culture",
+      "title": "Reliability‑First Consumer Trust",
+      "whatIs": "A 2026 Euromonitor report shows consumers prioritising brands they perceive as reliable and favoring community‑based recommendations over institutional or algorithmic sources.",
+      "why": "In an era of AI saturation, trust becomes a scarce commodity; brands that demonstrate consistent performance and nurture peer‑driven advocacy win long‑term loyalty.",
+      "what": "Highlight proven reliability and amplify real‑user community stories.",
+      "source": "https://wiod.iheart.com/content/2026-11-09-consumer-trust-shifts-toward-reliable-brands-personal-ties",
+      "image": "https://i.iheart.com/v3/re/assets.getty/6af253c3c14554b5ec1564cf?ops=gravity(%22north%22),fit(1200,675),quality(65)"
+    },
+    {
+      "date": "2026-11-12",
+      "channel": "culture",
+      "title": "Pharma‑Enabled Diet Shift (GLP‑1) Reshapes Food Choices",
+      "whatIs": "Adoption of GLP‑1 weight‑loss drugs is driving households to cut sugary and salty snacks and increase demand for protein‑rich, nutrient‑dense foods, a trend projected to involve 40 % of U.S. consumer units by 2030.",
+      "why": "Health‑tech is becoming a primary driver of eating habits, forcing food brands to reformulate and market “medically‑aligned” nutrition, while advertisers must speak to a medically‑informed consumer mindset.",
+      "what": "Develop GLP‑1‑compatible product lines and educational messaging.",
+      "source": "https://www.globalseafood.org/advocate/glp-1-households-initially-spend-more-on-seafood-why-doesnt-the-trend-last",
+      "image": "https://www.globalseafood.org/wp-content/uploads/2026/11/seafood_pexels_1500.jpg"
+    },
+    {
+      "date": "2026-11-12",
+      "channel": "ai",
+      "title": "TikTok’s Symphony Gets Dreamina Seedance Model",
+      "whatIs": "TikTok announced today that its Symphony ad‑creation platform now runs the latest Dreamina Seedance generative model, adding AI‑driven video‑scene stitching, voice‑over synthesis, and dynamic text overlay.",
+      "why": "Marketers can instantly generate brand‑aligned short videos from a single script, cutting production time from hours to minutes and enabling on‑the‑fly A/B testing of creative variants.",
+      "what": "Produce a 15‑second “script‑to‑ad” demo using Symphony’s new AI and share it on TikTok.",
+      "source": "https://www.socialmediatoday.com/news/tiktok-updates-its-ai-video-ad-tools/874209",
+      "image": ""
+    },
+    {
+      "date": "2026-11-12",
+      "channel": "ai",
+      "title": "Apple Creator Studio Adds AI‑Powered MotionVFX Plug‑ins",
+      "whatIs": "Apple released today an update to Creator Studio that bundles MotionVFX AI tools for automatic motion‑graphics generation, style‑transfer overlays, and one‑click caption animation directly inside the app.",
+      "why": "Video creators can now add professional‑grade motion graphics without third‑party software, streamlining short‑form content pipelines and expanding visual branding options for indie producers.",
+      "what": "Create a Reel using the new AI motion‑graphic template and promote it as “AI‑enhanced visual storytelling.”",
+      "source": "https://appleinsider.com/articles/26/10/27/motionvfx-ai-tools-feature-in-apple-creator-studios-latest-update",
+      "image": ""
+    },
+    {
+      "date": "2026-11-12",
+      "channel": "ai",
+      "title": "Cloudflare Launches Clairic Extraction Model on Workers AI",
+      "whatIs": "Cloudflare announced today the public preview of Clairic, a System One‑class extraction model hosted on Workers AI, enabling developers to pull structured data (tables, entities, sentiment) from raw text via a simple API endpoint.",
+      "why": "Marketers can automate content‑insight pipelines—extracting key messages, product features, and audience sentiment from blogs or reviews—to fuel real‑time copy generation and SEO optimization.",
+      "what": "Build a quick “content‑insight bot” that pulls product highlights from a blog post and auto‑creates a carousel ad.",
+      "source": "https://blog.cloudflare.com/clairic-extraction-model",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5AKCBMF8BCH80YN3A4DG9FH.png"
+    },
+    {
+      "date": "2026-11-12",
+      "channel": "web3",
+      "title": "TrustNOVA Unveils Global NFT Ecosystem",
+      "whatIs": "NOVA announced the launch of TrustNOVA, a new platform aimed at expanding NFT and Web3 applications worldwide, backed by Vanguard Capital.",
+      "why": "Shows major brands building dedicated NFT infrastructure, signalling that creators will soon have a turnkey ecosystem for token‑gated experiences and cross‑border collaborations.",
+      "what": "Pitch a “trust‑based” NFT series using TrustNOVA’s tools.",
+      "source": "https://www.bignewsnetwork.com/news/279407536/nova-officially-launches-the-new-trustnova-ecosystem-exploring-strategic-cooperation-with-vanguard-capital-to-open-a-new-global-chapter-in-nft-web30",
+      "image": ""
+    },
+    {
+      "date": "2026-11-12",
+      "channel": "web3",
+      "title": "CryptoRabbits Drops IRL Streetwear for NFT Holders",
+      "whatIs": "An Instagram post revealed a limited‑edition streetwear line exclusively for CryptoRabbits NFT owners, turning on‑chain identity into physical apparel.",
+      "why": "Highlights the growing demand for “phygital” merch that validates digital ownership in real life, deepening community loyalty and brand visibility beyond the screen.",
+      "what": "Design a merch drop that requires NFT proof‑of‑ownership to claim.",
+      "source": "https://www.instagram.com/p/DfL7rNxF0XI",
+      "image": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/883300171_18093334472693794_1715172761889527552_n.jpg?stp=c192.0.576.576a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=17bYRVYXG_UQ7kNvwHeLNRa&_nc_oc=Adp6O4YF55Qmi5lc4z7698KD1t3oNEvj3buLwJHq5A5pslVYekFJamGMbPZrcNx1e_8&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=2VCfj7tP7LZfL8cRDk_KmA&_nc_ss=7c689&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTAlPGm1_k_7_GWeidwusKYoIP8_YJVRPpNz2YFkKloWA&oe=6AFB1F22"
+    },
+    {
+      "date": "2026-11-12",
+      "channel": "web3",
+      "title": "Galxe Shuts Down Quest & Passport Identity Suite",
+      "whatIs": "Galxe announced the retirement of its Quest, ID, and Passport products to focus on the Gravity L1 protocol, ending a popular on‑chain credential system.",
+      "why": "Signals a shift away from proprietary identity layers toward interoperable, layer‑1 solutions, prompting creators to rethink how they verify and reward community members.",
+      "what": "Explore Gravity L1 for next‑gen token‑gated access.",
+      "source": "https://crypto.news/galxe-shuts-down-quest-id-passport-gravity-l1",
+      "image": "https://media.crypto.news/2024/12/crypto-news-Most-Layer-2-solutions-are-still-struggling-with-scalability-and-cost-challenges-option01.webp"
     }
   ]
 }
