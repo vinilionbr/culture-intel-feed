@@ -1,42 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-29",
-      "channel": "culture",
-      "topics": [
-        "TITLE: New Urban Fusion Redefines Lifestyle Hubs",
-        "TITLE: “New Food Movement” Elevates Food‑as‑Wellness Identity",
-        "TITLE: Individual Cultural Mobility Becomes a Talent Currency"
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Rainbow Revolution” Art‑Process Trend",
-        "TITLE: “Ramalama (Bang Bang)” Costume Reveal",
-        "TITLE: Diana Ross “Upside Down” Transformation Challenge"
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Siri Gains Long‑Term Memory for Creators",
-        "TITLE: Meta’s AI Business Assistant Gets Creative Boost",
-        "TITLE: OpenAI Unveils “Dots” AI Agent for Real‑Time Content Creation"
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Pi Network Teams with Open Standard for On‑Chain ID",
-        "TITLE: 9 CAT Group Joins KUB Chain Creator Hub",
-        "TITLE: Polkadot Launches Fan‑Engagement Token Rewards"
-      ]
-    },
-    {
       "date": "2026-10-30",
       "channel": "social",
       "topics": [
@@ -439,6 +403,24 @@
         "TITLE: TrustNOVA Unveils Global NFT Ecosystem",
         "TITLE: CryptoRabbits Drops IRL Streetwear for NFT Holders",
         "TITLE: Galxe Shuts Down Quest & Passport Identity Suite"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Global Museum Alliances Redefine Cultural Authority",
+        "TITLE: Health‑Centric Functional Food Becomes Core Lifestyle",
+        "TITLE: Quiet Luxury Shifts to Investment‑Grade Accessories"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Diana Ross “Upside Down” TikTok Surge",
+        "TITLE: #CanonEvent Meme Explosion",
+        "TITLE: Viral “MarryMe” TikTok Recipe Trend"
       ]
     }
   ]
