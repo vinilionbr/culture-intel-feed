@@ -1,42 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-10-30",
-      "channel": "social",
-      "topics": [
-        "TITLE: TikTok AI‑Powered Shopping Boost",
-        "TITLE: Instagram “Features” Long‑Form Video Rollout",
-        "TITLE: Pinterest Influencer‑Boost Collaboration Tool"
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Experience‑First Holiday Economy",
-        "TITLE: Food‑as‑Medicine Lifestyle",
-        "TITLE: Economic‑Anxiety Frugal Optimism"
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Gemini 4 Argon Unleashes Frontier‑Level Creativity",
-        "TITLE: Claude’s Smart Reports Give Teams Content Insight",
-        "TITLE: Mission Callisto Powers AI‑Driven Sales Storytelling"
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Barça Vision Lab Brings Fans On‑Chain",
-        "TITLE: BitTorrent Rebrands for Creator‑Centric Web3",
-        "TITLE: Apu Apustajas NFT Volume Jumps 65% in One Day"
-      ]
-    },
-    {
       "date": "2026-10-31",
       "channel": "social",
       "topics": [
@@ -421,6 +385,24 @@
         "TITLE: Diana Ross “Upside Down” TikTok Surge",
         "TITLE: #CanonEvent Meme Explosion",
         "TITLE: Viral “MarryMe” TikTok Recipe Trend"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Alté Arts – Africa’s Youth‑Driven Cultural Export",
+        "TITLE: Global Museum Alliance – Institutional Power Shift",
+        "TITLE: Wellness‑Centric Economy – $2.7 T Growth Trajectory"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Costume Loading” TikTok Reveal Remix",
+        "TITLE: Ty Jerome Scoring Breakout Highlights",
+        "TITLE: “Breakout” Keyword Surge on TikTok SEO"
       ]
     }
   ]
