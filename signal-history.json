@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-11-01",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Global Museum Alliances Redefine Cultural Authority",
-        "TITLE: Esports Becomes the New Global Spectacle",
-        "TITLE: Functional Staples – Gut‑Health Bread Movement"
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Ramalama (Bang Bang) Costume Reveal",
-        "TITLE: Brain‑Stacking Screen‑Free Challenge",
-        "TITLE: Aphex Twin “Avril 14th” Retro Remix Surge"
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Blur Shutdown Sparks Royalty Reckoning",
-        "TITLE: Cardano Spins Out Veridian Identity Unit",
-        "TITLE: AItoNFT Launches Founder‑Creator Challenge"
-      ]
-    },
-    {
       "date": "2026-11-02",
       "channel": "social",
       "topics": [
@@ -385,6 +358,24 @@
         "TITLE: Legacy Lineage Drives Authentic Brand Storytelling",
         "TITLE: Regional Civil‑Rights Museums Elevate Local Identity",
         "TITLE: Trans‑Continental Museum Alliances Shape Global Culture"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Global Museum Alliances Redefine Cultural Authority",
+        "TITLE: Manosphere’s Post‑MAGA Gender Re‑orientation",
+        "TITLE: On‑the‑Go Snacking Becomes Lifestyle Standard"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Creators Flock to OpenSea After Blur’s Exit",
+        "TITLE: World ID Rolls Out Zoom‑Verification Suite",
+        "TITLE: Pudgy Penguins Announces New Retail Partnerships"
       ]
     }
   ]
