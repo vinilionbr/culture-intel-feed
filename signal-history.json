@@ -1,42 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-11-02",
-      "channel": "social",
-      "topics": [
-        "TITLE: Meta “Ads Super Burst” 24‑Hour Blitz",
-        "TITLE: Pinterest Beauty‑Trend Boards Go Viral",
-        "TITLE: X AI‑Generated Ad Builder Launches"
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "channel": "culture",
-      "topics": [
-        "TITLE: AI‑Pricing Anxiety Fuels Demand for Transparent Commerce",
-        "TITLE: “New Food Movement” Elevates Clean‑Label Purity",
-        "TITLE: Global Museum Alliance Redefines Cultural Authority"
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Free Electric Willy House‑Beat Surge",
-        "TITLE: Ice Spice “Munchies” Meme Remix",
-        "TITLE: OPM Ballad “Tadhana” Viral Revival"
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Meta’s AI‑Powered Creative Suite for Ads",
-        "TITLE: Siri Gains Long‑Term Memory for Content Creators",
-        "TITLE: Morning AI’s New Marketing‑Automation Workflows"
-      ]
-    },
-    {
       "date": "2026-11-03",
       "channel": "culture",
       "topics": [
@@ -376,6 +340,40 @@
         "TITLE: Creators Flock to OpenSea After Blur’s Exit",
         "TITLE: World ID Rolls Out Zoom‑Verification Suite",
         "TITLE: Pudgy Penguins Announces New Retail Partnerships"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "channel": "social",
+      "topics": [
+        "TITLE: Re‑upload Anything, Anytime on Instagram"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Global Museum Alliances Redefine Cultural Authority",
+        "TITLE: The New Food Movement – From Omnivore to Food‑Sovereignty",
+        "TITLE: Portable‑Portion Snacking Becomes Lifestyle Standard"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Brain‑Stacking “Digital Detox” Challenge",
+        "TITLE: “Costume Loading” Reveal Remix",
+        "TITLE: MarryMe Chicken Quick‑Fire Recipe"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "channel": "ai",
+      "topics": [
+        "TITLE: Apple Siri Gets Conversational Recall & New Languages",
+        "TITLE: Cloudflare Launches Clairic Extraction Model Preview",
+        "TITLE: Gemini 4 Carbon Hits General Availability"
       ]
     }
   ]
