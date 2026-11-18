@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-11-03",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Post‑Colonial Art Renaissance",
-        "TITLE: Labor‑Identity Fusion",
-        "TITLE: Gut‑Health Bread Pivot"
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Free Electric Willy House‑Beat Surge",
-        "TITLE: Charli XCX “Track 10” Reversed Challenge",
-        "TITLE: #hurricaneMelissa Real‑Time Updates"
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "channel": "ai",
-      "topics": [
-        "TITLE: DeepSeek Launches “Creator Mode” for Custom AI Plugins",
-        "TITLE: Character Creator 5.2 Adds AI‑Generated Assets from Images",
-        "TITLE: Pollo AI Free Tier Opens Full Text‑to‑Video Workflow"
-      ]
-    },
-    {
       "date": "2026-11-04",
       "channel": "culture",
       "topics": [
@@ -374,6 +347,33 @@
         "TITLE: Apple Siri Gets Conversational Recall & New Languages",
         "TITLE: Cloudflare Launches Clairic Extraction Model Preview",
         "TITLE: Gemini 4 Carbon Hits General Availability"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "social",
+      "topics": [
+        "TITLE: “Wipe the Lens” – Instant Reveal Hack",
+        "TITLE: “Let’s…” – Invitation Carousel Trend",
+        "TITLE: Carousel Dominance on LinkedIn"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Community‑Powered Art Ecosystems Rise",
+        "TITLE: Electronic‑Music Culture Becomes Lifestyle Hub",
+        "TITLE: Reliability & Transparency as Core Trust Currency"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "ai",
+      "topics": [
+        "TITLE: GPT‑6.2 Astra & Sol Launch",
+        "TITLE: Google Video‑Gen Model Hits Adobe Firefly",
+        "TITLE: Tencent Hy4 Flash for Low‑Cost Multimodal Creation"
       ]
     }
   ]

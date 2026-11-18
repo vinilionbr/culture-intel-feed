@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T05:02:56.732Z",
+  "updated": "2026-11-18T04:08:18.475Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -7260,6 +7260,96 @@
       "what": "Create a 30‑second AI‑generated product teaser using Gemini 4 Carbon today.",
       "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg"
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "social",
+      "title": "“Wipe the Lens” – Instant Reveal Hack",
+      "whatIs": "TikTok — a short‑form video format where creators film a “before” scene, swipe to “wipe” the camera lens, then reveal an eye‑catching “after” (often a product, makeover, or surprise).",
+      "why": "The abrupt visual switch spikes curiosity‑driven watch time and triggers the algorithm’s “high retention” boost, while the simple prop (a finger or cloth) makes it low‑effort and highly replicable.",
+      "what": "Film a 5‑second “wipe” reveal of your brand’s transformation today.",
+      "source": "https://www.tiktok.com/discover/whats-trending-now?lang=en",
+      "image": ""
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "social",
+      "title": "“Let’s…” – Invitation Carousel Trend",
+      "whatIs": "Instagram — creators post a carousel of short clips, each starting with “Let’s…” followed by a different activity suggestion (e.g., “Let’s try a new coffee blend”). The format invites viewers to swipe through multiple ideas without a single “reaction” shot.",
+      "why": "The open‑ended invitation sparks personal relevance and encourages saves and shares, feeding Instagram’s priority on saves and swipe‑throughs for broader reach.",
+      "what": "Create a 3‑slide carousel of “Let’s…” ideas that tie to your niche and post now.",
+      "source": "https://socialbee.com/blog/latest-instagram-trends",
+      "image": "https://socialbee.com/wp-content/uploads/2025/10/instagram-trends.webp"
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "social",
+      "title": "Carousel Dominance on LinkedIn",
+      "whatIs": "LinkedIn — carousel posts (multiple‑image PDFs) are delivering the highest reach and engagement rates across all content types, especially for thought‑leadership and step‑by‑step guides.",
+      "why": "LinkedIn’s feed algorithm rewards scroll‑stopping multi‑page assets; carousels increase dwell time and generate more comments, signaling high‑value content to the platform.",
+      "what": "Convert your next article into a 5‑page carousel and publish today.",
+      "source": "https://www.linkedin.com/pulse/social-media-trends-new-features-monthly-report-nzlie",
+      "image": ""
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "culture",
+      "title": "Community‑Powered Art Ecosystems Rise",
+      "whatIs": "Across Africa, artists are forming collaborative studios, schools, farms and residencies that blur creator‑consumer lines, turning art production into shared community infrastructure.",
+      "why": "Young creators seek purpose‑driven participation over solitary fame, valuing collective impact and cultural stewardship—behaviours that translate into brand expectations for co‑creation and community ownership.",
+      "what": "Build brand‑led creative collectives that let consumers co‑design experiences.",
+      "source": "https://artafricamagazine.org/art-x-lagos-2026-a-new-decade-of-artistic-reinvention-and-cultural-exchange",
+      "image": "https://artafricamagazine.org/wp-content/uploads/2026/11/The_Speakers_Corner._ART_X_Lagos_2025_optimized_250.jpg"
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "culture",
+      "title": "Electronic‑Music Culture Becomes Lifestyle Hub",
+      "whatIs": "Major fashion retailers (e.g., JD Sports) are embedding electronic‑music artists and club‑scene creators into campaigns, signalling that EDM culture now anchors youth identity, social rituals, and fashion consumption.",
+      "why": "Gen Z and Gen Alpha view electronic music not just as sound but as a community‑building ritual that defines status, creativity, and belonging—driving demand for apparel, tech, and experiences that echo that vibe.",
+      "what": "Align product drops with EDM events and partner with emerging DJs for authentic cultural relevance.",
+      "source": "https://www.jdplc.com/jd-unveils-2026-christmas-campaign-create-the-new",
+      "image": "https://www.jdplc.com/wp-content/uploads/2026/11/Christmas-Campaign.jpg"
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "culture",
+      "title": "Reliability & Transparency as Core Trust Currency",
+      "whatIs": "Global consumer research (Euromonitor) shows a sustained shift toward valuing brands that are demonstrably reliable and transparent, making these traits primary purchase criteria across categories.",
+      "why": "After years of data‑driven skepticism, shoppers now demand verifiable supply‑chain honesty and consistent performance, turning trust into a long‑term competitive moat rather than a marketing tagline.",
+      "what": "Publish real‑time product provenance dashboards and third‑party audits.",
+      "source": "https://www.facebook.com/newschannel5/posts/a-new-global-trends-report-from-market-research-company-euromonitor-has-found-pl/1635328608638240",
+      "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/899925664_2166797547239996_6072885861159647885_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=ypdio6rlHN8Q7kNvwFYp89F&_nc_oc=AdpBoZ211vte3zaqK0VuwsC1eAts0q0a5L_5layn4_se9FX1vwhm73HEHFNz-tY8fXk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bh6_A60IL0Fl5P2pAvxSJg&_nc_ss=7c289&oh=00_AQQaivFZMrio6XGy2FyUqk_ZXW8HxlteKT3L0KX2zHKBzg&oe=6B02FE0E"
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "ai",
+      "title": "GPT‑6.2 Astra & Sol Launch",
+      "whatIs": "OpenAI released GPT‑6.2 Astra and GPT‑6.2 Sol today, offering higher‑performance LLMs with lower pricing for ChatGPT Work, Codex and API usage.",
+      "why": "Creators can now generate longer, more nuanced copy, scripts, and code at reduced cost, enabling high‑volume content pipelines and real‑time personalization.",
+      "what": "Draft a batch of 10‑minute video scripts with GPT‑6.2 Astra and schedule automated posting.",
+      "source": "https://aiweekly.co/ai-news-today",
+      "image": "https://dxj7eshgz03ln.cloudfront.net/production/publication/logo/1475/8f402391-cd29-43a4-9695-35d930a59660.png"
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "ai",
+      "title": "Google Video‑Gen Model Hits Adobe Firefly",
+      "whatIs": "Google’s newest video generation model was integrated into Adobe Firefly, Photoshop, Premiere and Express today, letting users create AI‑generated video clips from text prompts.",
+      "why": "Marketers can produce short video ads and social reels instantly, bypassing costly shoot schedules and expanding creative iteration speed.",
+      "what": "Create a 15‑second AI‑generated product teaser in Firefly and test it on TikTok.",
+      "source": "https://martech.org/the-latest-ai-powered-martech-news-and-releases",
+      "image": "https://martech.org/wp-content/uploads/2026/07/AI-roundup2-800x450.png"
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "ai",
+      "title": "Tencent Hy4 Flash for Low‑Cost Multimodal Creation",
+      "whatIs": "Tencent unveiled Hy4 Flash, a 224‑billion‑parameter multimodal model with 1 million‑token context and 12 billion active parameters, optimized for cheap, high‑speed inference.",
+      "why": "Enables creators to run large‑scale multimodal projects (text‑to‑image, video‑to‑audio, long‑form storytelling) on affordable cloud or on‑prem hardware, democratizing high‑end AI production.",
+      "what": "Build a multilingual carousel post series using Hy4 Flash’s text‑to‑image API.",
+      "source": "https://www.prnewswire.com/news-releases/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows-302941875.html",
+      "image": "https://mmx.prnewswire.com/media/MS2037464/20261116231124EST_image_1.jpg?id=OA3083941&p=facebook"
     }
   ]
 }
