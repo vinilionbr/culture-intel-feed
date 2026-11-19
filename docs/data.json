@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T04:08:18.475Z",
+  "updated": "2026-11-19T04:01:51.889Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -7350,6 +7350,36 @@
       "what": "Build a multilingual carousel post series using Hy4 Flash’s text‑to‑image API.",
       "source": "https://www.prnewswire.com/news-releases/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows-302941875.html",
       "image": "https://mmx.prnewswire.com/media/MS2037464/20261116231124EST_image_1.jpg?id=OA3083941&p=facebook"
+    },
+    {
+      "date": "2026-11-19",
+      "channel": "culture",
+      "title": "Digital Heritage‑Driven Identity",
+      "whatIs": "Communities are migrating cultural storytelling to immersive digital platforms, using AR, NFTs and interactive archives to preserve and broadcast heritage beyond traditional museums.",
+      "why": "Younger audiences crave authentic, participatory heritage experiences that affirm identity while bypassing legacy gatekeepers, reshaping brand‑culture partnerships.",
+      "what": "Co‑create immersive, community‑sourced digital heritage experiences.",
+      "source": "https://nolalibrary.org/2026/11/13/black-history-month-2027",
+      "image": "https://nolalibrary.org/wp-content/uploads/2025/10/black-history-month.jpg"
+    },
+    {
+      "date": "2026-11-19",
+      "channel": "culture",
+      "title": "Wellness‑First Economic Surge",
+      "whatIs": "A $2.7 trillion “future of wellness” market is consolidating, with consumers prioritising health‑centric product ecosystems and demanding transparent, science‑backed benefits.",
+      "why": "Health has become a core value lens for purchase decisions, driving long‑term loyalty to brands that embed wellness into every touchpoint.",
+      "what": "Position products within holistic wellness ecosystems.",
+      "source": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends",
+      "image": ""
+    },
+    {
+      "date": "2026-11-19",
+      "channel": "culture",
+      "title": "Post‑Pandemic Frugal Minimalism",
+      "whatIs": "A growing segment is adopting long‑term frugality and reduced materialism, favoring essential online purchases and eschewing excess consumption.",
+      "why": "This mindset reshapes demand curves, favouring value‑driven, durable goods and transparent pricing over status‑driven impulse buys.",
+      "what": "Emphasise durability, value and transparent pricing.",
+      "source": "https://www.psychologytoday.com/us/basics/consumer-behavior",
+      "image": "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-10/2026-11.png.jpg?itok=7E03W7Ar"
     }
   ]
 }
