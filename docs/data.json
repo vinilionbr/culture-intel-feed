@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T04:01:51.889Z",
+  "updated": "2026-11-20T03:58:19.409Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -7380,6 +7380,66 @@
       "what": "Emphasise durability, value and transparent pricing.",
       "source": "https://www.psychologytoday.com/us/basics/consumer-behavior",
       "image": "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-10/2026-11.png.jpg?itok=7E03W7Ar"
+    },
+    {
+      "date": "2026-11-20",
+      "channel": "culture",
+      "title": "Fluid “Between‑Homes” Identity",
+      "whatIs": "A growing cultural narrative that frames home not as a fixed location but as a mutable, migratory condition, driven by diaspora art, memory‑based storytelling, and hybrid digital‑physical rituals.",
+      "why": "Gen Z and Gen Alpha see belonging as relational and portable, valuing brands that support flexible, cross‑border community rituals over static geographic loyalty.",
+      "what": "Build brand experiences that celebrate migratory rituals and enable “home‑anywhere” storytelling.",
+      "source": "https://www.facebook.com/chinesedance/videos/new-york-chinese-cultural-center-presentshome-project-2026-presents-between-home/2169226040611296",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.82787-15/857886785_18640680073041534_4137627472227430143_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a27664&_nc_ohc=MrBlVUTwV-kQ7kNvwEYiS6l&_nc_oc=AdriURq4kVtxMOcftIiZfi0OKu0ppmIxJTUXTTSThUn7HZFhIspXmhPzJeiBVvXn4vM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=fspUi1MAo95BWrJYnqyOeg&_nc_ss=7c289&oh=00_AQS3CrqfPFk-z8MbU54Vh0vF_n8sQJzZ6Izt3hTAh0ssyg&oe=6B0587D7"
+    },
+    {
+      "date": "2026-11-20",
+      "channel": "culture",
+      "title": "AI‑Enabled Local Authenticity Networks",
+      "whatIs": "Cities and cultural institutions are partnering with AI platforms to co‑create hyper‑local, community‑led cultural experiences that blend data‑driven personalization with authentic, place‑based storytelling.",
+      "why": "Younger consumers demand relevance and authenticity; AI‑curated local content satisfies the desire for personalized cultural relevance while reinforcing trust in community‑sourced narratives.",
+      "what": "Deploy AI‑powered micro‑campaigns that surface locally curated art, music, and events in real time.",
+      "source": "https://worldcitiescultureforum.com/programme/summit/tokyo-2026",
+      "image": "https://worldcitiescultureforum.com/wp-content/uploads/2026/11/1830_group-shot_3207-scaled.jpg"
+    },
+    {
+      "date": "2026-11-20",
+      "channel": "culture",
+      "title": "Creative Land Trust as Cultural Infrastructure",
+      "whatIs": "A rising movement where nonprofit land‑trust models secure affordable, long‑term spaces for artists and creators, redefining cultural production as a protected public good rather than a commercial commodity.",
+      "why": "As housing costs rise, creators seek stability; the land‑trust model aligns with values of sustainability, community stewardship, and collective ownership, reshaping how brands support creative ecosystems.",
+      "what": "Sponsor or partner with Creative Land Trusts to anchor brand presence in sustainable creative hubs.",
+      "source": "https://worldcitiescultureforum.com/programme/summit/tokyo-2026",
+      "image": "https://worldcitiescultureforum.com/wp-content/uploads/2026/11/1830_group-shot_3207-scaled.jpg"
+    },
+    {
+      "date": "2026-11-20",
+      "channel": "ai",
+      "title": "Google Flow launches 5 visual‑storytelling tools",
+      "whatIs": "Google announced five new AI‑powered creative utilities in its Flow studio, letting creators generate stylized art, simulate lighting, and add professional video effects directly from prompts.",
+      "why": "Marketers can now produce high‑quality visuals and cinematic video tweaks without hiring designers, speeding up campaign asset creation and enabling rapid A/B testing of visual concepts.",
+      "what": "Build a “quick‑look” carousel ad series using the new lighting‑simulation tool.",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.width-1300.jpg"
+    },
+    {
+      "date": "2026-11-20",
+      "channel": "ai",
+      "title": "Opus Clip now runs inside AI agents",
+      "whatIs": "Opus Clip added native integration for AI agents, allowing the short‑form video clipping, captioning, and posting workflow to be triggered via conversational prompts instead of its web dashboard.",
+      "why": "Creators can automate repurposing long‑form content on the fly, turning webinars or podcasts into dozens of ready‑to‑publish reels with a single chat command, boosting content volume and platform reach.",
+      "what": "Set up an agent‑driven “daily‑clip” routine that auto‑creates TikTok snippets from your weekly YouTube uploads.",
+      "source": "https://ryandoser.com/best-ai-tools-for-content-creators",
+      "image": "https://ryandoser.com/images/2026/04/ai-tools-content-creators-featured.jpg"
+    },
+    {
+      "date": "2026-11-20",
+      "channel": "ai",
+      "title": "Meta’s Muse Ember lightweight agent model",
+      "whatIs": "Meta released Muse Ember, a new ultra‑cheap, high‑accuracy model optimized for running autonomous AI agents, announced on Nov 9 2026.",
+      "why": "The low cost per task makes it feasible for brands to deploy AI‑driven copy‑generation or personalization agents at scale, enabling real‑time, AI‑crafted email subject lines, ad copy, and social captions.",
+      "what": "Pilot a Muse Ember‑powered email‑subject‑line generator for your next newsletter blast.",
+      "source": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Blog-Header-Visual.png?resize=1200,675"
     }
   ]
 }

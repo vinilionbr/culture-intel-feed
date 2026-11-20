@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-11-05",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Trust‑First Consumer Mentality",
-        "TITLE: Zero‑Click AI Search Becomes Discovery Norm",
-        "TITLE: Functional Staple Revival – Gut‑Health Bread"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Self Aware” Sound Takes Over TikTok",
-        "TITLE: NYC Job‑Loss Shockwave Hits Creators",
-        "TITLE: Jungkook Ranks #5 in TikTok Celebrity Hashtag Views"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "channel": "web3",
-      "topics": [
-        "TITLE: NOVA Unveils TrustNOVA Ecosystem",
-        "TITLE: Bao the Whale Fansly Redefines Collectibles",
-        "TITLE: Lorna Mills Joins OpenSea Flagship Collection"
-      ]
-    },
-    {
       "date": "2026-11-06",
       "channel": "social",
       "topics": [
@@ -356,6 +329,24 @@
         "TITLE: Digital Heritage‑Driven Identity",
         "TITLE: Wellness‑First Economic Surge",
         "TITLE: Post‑Pandemic Frugal Minimalism"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Fluid “Between‑Homes” Identity",
+        "TITLE: AI‑Enabled Local Authenticity Networks",
+        "TITLE: Creative Land Trust as Cultural Infrastructure"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "channel": "ai",
+      "topics": [
+        "TITLE: Google Flow launches 5 visual‑storytelling tools",
+        "TITLE: Opus Clip now runs inside AI agents",
+        "TITLE: Meta’s Muse Ember lightweight agent model"
       ]
     }
   ]
