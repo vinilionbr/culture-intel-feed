@@ -1,42 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-11-06",
-      "channel": "social",
-      "topics": [
-        "TITLE: Meta Rolls Out “Ads Super Burst” 24‑Hour Blitz",
-        "TITLE: YouTube “Tamba” Leak Signals New Short‑Form Social Hub",
-        "TITLE: Instagram Launches “Series” Micro‑Drama Format"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Trust‑First Consumer Currency",
-        "TITLE: Private‑Label Premiumization",
-        "TITLE: African Startup Identity Surge"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Self Aware” Sound Explosion",
-        "TITLE: Diana Ross “Upside Down” Revival",
-        "TITLE: BTS Jungkook Hashtag Surge"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Bitbase 2.0 Shifts From Trading to Value Platform",
-        "TITLE: Crypto‑Casinos.com Gets a Fresh Visual Identity",
-        "TITLE: Invisible Friends Turns NFTs into Physical & Burn‑to‑Redeem Drops"
-      ]
-    },
-    {
       "date": "2026-11-07",
       "channel": "culture",
       "topics": [
@@ -347,6 +311,24 @@
         "TITLE: Google Flow launches 5 visual‑storytelling tools",
         "TITLE: Opus Clip now runs inside AI agents",
         "TITLE: Meta’s Muse Ember lightweight agent model"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "channel": "culture",
+      "topics": [
+        "TITLE: “Alté Arts” as Global Youth Identity Hub",
+        "TITLE: “Quiet Wellness” – Health as Subtle Lifestyle Signal",
+        "TITLE: “Consumer Life Re‑Calibration” – Values‑First Purchasing"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Quiet on the Creek” Duet Boom",
+        "TITLE: #roblox Surge Hits TikTok",
+        "TITLE: “Self Aware” Ambient Vibe Trend"
       ]
     }
   ]
