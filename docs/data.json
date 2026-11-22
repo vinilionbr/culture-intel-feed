@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T03:53:03.007Z",
+  "updated": "2026-11-22T02:56:12.104Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -7500,6 +7500,66 @@
       "what": "Create a 30‑sec room‑tour or night‑sky timelapse set to “Self Aware” today.",
       "source": "https://metricool.com/tiktok-songs",
       "image": "https://metricool.com/wp-content/uploads/chansons-tiktok-e1766501772338.webp"
+    },
+    {
+      "date": "2026-11-22",
+      "channel": "culture",
+      "title": "Community‑Centric Sustainability",
+      "whatIs": "Consumers are gravitating toward hyper‑local, community‑driven sustainability initiatives that blend environmental action with social belonging, rather than abstract “green” labels.",
+      "why": "Millennials and Gen Z see collective impact as a core identity marker; belonging to a tangible, place‑based movement satisfies both purpose‑driven buying and the human need for community.",
+      "what": "Build brand programs that co‑create local eco‑projects with consumers.",
+      "source": "https://www.spate.nyc/reports/2026-us-culture-report",
+      "image": "https://cdn.prod.website-files.com/687007b9a91ba29ace4174c3/6aff90b8ecb27e14c3c7c1eb_US%20Culture%20Shifts%20Report%202026.png"
+    },
+    {
+      "date": "2026-11-22",
+      "channel": "culture",
+      "title": "Hybrid Physical‑Digital Social Spaces",
+      "whatIs": "A lasting shift toward blended social experiences—physical venues equipped with persistent digital layers (AR, QR‑linked content, live‑streamed communities) that extend the gathering beyond the walls.",
+      "why": "Post‑pandemic generations demand continuity of connection; the frictionless bridge between offline intimacy and online amplification satisfies the desire for both authentic presence and scalable community.",
+      "what": "Design experiences that live both onsite and online, with shareable digital artifacts.",
+      "source": "https://www.spate.nyc/reports/2026-us-culture-report",
+      "image": "https://cdn.prod.website-files.com/687007b9a91ba29ace4174c3/6aff90b8ecb27e14c3c7c1eb_US%20Culture%20Shifts%20Report%202026.png"
+    },
+    {
+      "date": "2026-11-22",
+      "channel": "culture",
+      "title": "Skill‑Based Identity Economy",
+      "whatIs": "Career and personal identity are increasingly expressed through demonstrable skills and micro‑credentials rather than traditional titles, reshaping how brands position expertise and mentorship.",
+      "why": "Gen Z and Gen Alpha value mastery and portfolio‑based self‑definition; they seek brands that help them acquire, showcase, and monetize niche competencies.",
+      "what": "Offer credential‑friendly learning hubs and showcase user‑generated skill stories.",
+      "source": "https://www.spate.nyc/reports/2026-us-culture-report",
+      "image": "https://cdn.prod.website-files.com/687007b9a91ba29ace4174c3/6aff90b8ecb27e14c3c7c1eb_US%20Culture%20Shifts%20Report%202026.png"
+    },
+    {
+      "date": "2026-11-22",
+      "channel": "trends",
+      "title": "Black‑Friday TikTok Shop Surge",
+      "whatIs": "The hashtag #tiktokshopbrblackfriday is skyrocketing (+336 % today), with 412 M views as creators flood the platform with flash‑sale clips and “shop‑the‑look” reels ahead of the U.S. Black Friday weekend.",
+      "why": "Shoppers are already hunting deals; TikTok’s native shop feature is driving massive organic traffic, and early‑bird creators can capture purchase intent before the holiday rush.",
+      "what": "Post a 15‑second “must‑buy under $20” haul using #tiktokshopbrblackfriday.",
+      "source": "https://ignix.social/trends/hashtags",
+      "image": "https://ignix.social/opengraph-image.jpg"
+    },
+    {
+      "date": "2026-11-22",
+      "channel": "trends",
+      "title": "Restoration‑Narrative Explosion",
+      "whatIs": "A wave of “transformation/restore” videos—especially flooded‑car restorations—has jumped +3,769 % week‑over‑week, dominating TikTok’s “detail‑oriented” feed and pulling millions of views per day.",
+      "why": "Audiences love dramatic before‑after reveals; the format fuels high watch time and shares, making it perfect for creators in DIY, auto, or home‑renovation niches.",
+      "what": "Film a quick “wreck to wow” 30‑second restoration teaser (car, gadget, or room).",
+      "source": "https://trendreport.com/trends",
+      "image": "https://i.ytimg.com/vi/qSyo5d-dVzA/maxresdefault.jpg"
+    },
+    {
+      "date": "2026-11-22",
+      "channel": "trends",
+      "title": "“Dance With My Teacher” Challenge",
+      "whatIs": "A new TikTok dance trend titled “Dancing with My Dance Teacher” is trending with 5.5 M views, featuring students and instructors performing a synchronized routine set to a catchy pop beat.",
+      "why": "The challenge blends relatable mentorship vibes with easy‑to‑learn choreography, sparking rapid duets and high engagement across teen and family audiences.",
+      "what": "Record a duet with a friend or mentor performing the signature move, tag #dancewithmyteacher.",
+      "source": "https://www.tiktok.com/discover/trending-sounds?lang=en",
+      "image": ""
     }
   ]
 }

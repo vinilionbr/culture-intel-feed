@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-11-07",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Protein‑Powered Self‑Optimization",
-        "TITLE: “Micro‑Occasions” Redefine Dining",
-        "TITLE: Rising Financial Insecurity Drives Frugal Pragmatism"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "channel": "ai",
-      "topics": [
-        "TITLE: OpenAI Images 2.6 Adds GIF Generation",
-        "TITLE: Amazon Ads Deploys AI‑Powered Creative Suite",
-        "TITLE: ONLYOFFICE 10.0 Embeds Context‑Aware AI Editors"
-      ]
-    },
-    {
       "date": "2026-11-08",
       "channel": "culture",
       "topics": [
@@ -329,6 +311,24 @@
         "TITLE: “Quiet on the Creek” Duet Boom",
         "TITLE: #roblox Surge Hits TikTok",
         "TITLE: “Self Aware” Ambient Vibe Trend"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Community‑Centric Sustainability",
+        "TITLE: Hybrid Physical‑Digital Social Spaces",
+        "TITLE: Skill‑Based Identity Economy"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Black‑Friday TikTok Shop Surge",
+        "TITLE: Restoration‑Narrative Explosion",
+        "TITLE: “Dance With My Teacher” Challenge"
       ]
     }
   ]
