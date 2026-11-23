@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-11-08",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Fan‑Powered Brand Revivals",
-        "TITLE: GLP‑1‑Driven Food Re‑orientation",
-        "TITLE: Private‑Label Premiumization"
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Ramalama (Bang Bang)” Costume Reveal Surge",
-        "TITLE: “Self Aware” Indie‑Pop Viral Hit",
-        "TITLE: #CanonEvent Meme Format Explosion"
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Azuki Expands Into Monthly Manga & TCG",
-        "TITLE: Bitbase 2.0 Rebrands as a “Value Platform”",
-        "TITLE: Coin Theaters Rolls Out $CRE8 Creator‑Owned Platform"
-      ]
-    },
-    {
       "date": "2026-11-09",
       "channel": "culture",
       "topics": [
@@ -329,6 +302,15 @@
         "TITLE: Black‑Friday TikTok Shop Surge",
         "TITLE: Restoration‑Narrative Explosion",
         "TITLE: “Dance With My Teacher” Challenge"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "channel": "culture",
+      "topics": [
+        "TITLE: “Human‑First AI” – Tech as Empathy Partner",
+        "TITLE: “Purpose‑Powered Consumption” – Values as Purchase Filters",
+        "TITLE: “Hybrid Identity Curation” – Fluid Personal Branding Across Platforms"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T02:56:12.104Z",
+  "updated": "2026-11-23T03:36:26.707Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -7560,6 +7560,36 @@
       "what": "Record a duet with a friend or mentor performing the signature move, tag #dancewithmyteacher.",
       "source": "https://www.tiktok.com/discover/trending-sounds?lang=en",
       "image": ""
+    },
+    {
+      "date": "2026-11-23",
+      "channel": "culture",
+      "title": "“Human‑First AI” – Tech as Empathy Partner",
+      "whatIs": "Consumers are moving from viewing AI as a tool to seeing it as a relational partner that supports mental‑wellness, creativity, and authentic self‑expression, demanding transparent, emotionally‑aware interactions.",
+      "why": "Gen Z and Gen Alpha grew up with constant algorithmic mediation; they now crave genuine empathy, so brands that embed humane AI (e.g., mood‑responsive chat, co‑creative generators) earn trust and loyalty.",
+      "what": "Build AI experiences that prioritize emotional intelligence and user agency.",
+      "source": "https://www.spate.nyc/reports/2026-us-culture-report",
+      "image": "https://cdn.prod.website-files.com/687007b9a91ba29ace4174c3/6aff90b8ecb27e14c3c7c1eb_US%20Culture%20Shifts%20Report%202026.png"
+    },
+    {
+      "date": "2026-11-23",
+      "channel": "culture",
+      "title": "“Purpose‑Powered Consumption” – Values as Purchase Filters",
+      "whatIs": "A sustained shift toward buying decisions anchored in social‑impact metrics—climate action, equity, and community reinvestment—over price or convenience, now embedded in everyday shopping routines.",
+      "why": "NielsenIQ’s 2026 “Consumer Life” trendkey shows 68 % of U.S. adults rate brand purpose as a top‑3 factor, reflecting a generational move from “cause‑marketing” to “cause‑as‑core‑business.”",
+      "what": "Make purpose measurable, showcase impact data across all touchpoints.",
+      "source": "https://nielseniq.com/global/en/insights/report/2026/what-is-niq-consumer-life",
+      "image": "https://nielseniq.com/wp-content/uploads/sites/4/2026/10/GettyImages-1438969575-compresso.jpg"
+    },
+    {
+      "date": "2026-11-23",
+      "channel": "culture",
+      "title": "“Hybrid Identity Curation” – Fluid Personal Branding Across Platforms",
+      "whatIs": "Consumers are deliberately crafting fragmented yet cohesive personal narratives that shift between “creator,” “consumer,” and “activist” roles, using platform‑specific aesthetics while maintaining a core value thread.",
+      "why": "The Spate 2026 report notes a 42 % rise in cross‑platform “identity playlists” (curated content bundles) as users seek to express multi‑dimensional selves, signaling brands must support modular storytelling.",
+      "what": "Offer modular brand experiences that let users plug into different identity facets.",
+      "source": "https://www.spate.nyc/reports/2026-us-culture-report",
+      "image": "https://cdn.prod.website-files.com/687007b9a91ba29ace4174c3/6aff90b8ecb27e14c3c7c1eb_US%20Culture%20Shifts%20Report%202026.png"
     }
   ]
 }
