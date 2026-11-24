@@ -1,42 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-11-09",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Anti‑Algorithm Consumer Rebellion",
-        "TITLE: Hyper‑Masculine Fitness Identity Surge",
-        "TITLE: Fan‑Powered Brand Experiences"
-      ]
-    },
-    {
-      "date": "2026-11-09",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Free Electric Willy House‑Beat Surge",
-        "TITLE: Slime‑Food ASMR Craze",
-        "TITLE: “Costume Loading” Halloween Remix"
-      ]
-    },
-    {
-      "date": "2026-11-09",
-      "channel": "ai",
-      "topics": [
-        "TITLE: OpenAI Images 2.6 Boosts Speed & Consistency",
-        "TITLE: Runway’s No‑Code “App Studio” for Video Workflows",
-        "TITLE: Higgsfield Auto‑Video Ads from Product URLs"
-      ]
-    },
-    {
-      "date": "2026-11-09",
-      "channel": "web3",
-      "topics": [
-        "TITLE: NOVA Unveils TrustNOVA NFT Ecosystem",
-        "TITLE: Mapstone Brings Real‑World Places On‑Chain",
-        "TITLE: ChainIT Showcases Agentic Web3 Commerce at TOKEN2049"
-      ]
-    },
-    {
       "date": "2026-11-10",
       "channel": "culture",
       "topics": [
@@ -311,6 +275,24 @@
         "TITLE: “Human‑First AI” – Tech as Empathy Partner",
         "TITLE: “Purpose‑Powered Consumption” – Values as Purchase Filters",
         "TITLE: “Hybrid Identity Curation” – Fluid Personal Branding Across Platforms"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "channel": "culture",
+      "topics": [
+        "TITLE: “Human‑First AI” Becomes Lifestyle Backbone",
+        "TITLE: Sustainable “Quiet Luxury” Shifts to Circular Ownership",
+        "TITLE: “Skill‑Based Identity Economy” Replaces Job Titles"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "channel": "ai",
+      "topics": [
+        "TITLE: Gemini Education Premium Unlocks 1.5 Pro for Creators",
+        "TITLE: Open‑Weight Clairic‑Flash Adds Image‑PDF Extraction",
+        "TITLE: Liquid AI Unveils LFM3 Multimodal Foundation Model"
       ]
     }
   ]

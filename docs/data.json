@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T03:36:26.707Z",
+  "updated": "2026-11-24T06:54:25.298Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -7590,6 +7590,66 @@
       "what": "Offer modular brand experiences that let users plug into different identity facets.",
       "source": "https://www.spate.nyc/reports/2026-us-culture-report",
       "image": "https://cdn.prod.website-files.com/687007b9a91ba29ace4174c3/6aff90b8ecb27e14c3c7c1eb_US%20Culture%20Shifts%20Report%202026.png"
+    },
+    {
+      "date": "2026-11-24",
+      "channel": "culture",
+      "title": "“Human‑First AI” Becomes Lifestyle Backbone",
+      "whatIs": "Consumers are integrating generative‑AI assistants into daily rituals—shopping, health tracking, and personal storytelling—treating them as trusted partners rather than tools.",
+      "why": "A growing desire for empathy‑driven tech reflects Gen Z and Gen Alpha’s expectation that digital services should understand mood, identity, and values, turning algorithmic interaction into a core component of self‑expression.",
+      "what": "Build brand narratives that position AI as a co‑creator of personal experiences.",
+      "source": "https://www.spate.nyc/reports/2026-us-culture-report",
+      "image": "https://cdn.prod.website-files.com/687007b9a91ba29ace4174c3/6aff90b8ecb27e14c3c7c1eb_US%20Culture%20Shifts%20Report%202026.png"
+    },
+    {
+      "date": "2026-11-24",
+      "channel": "culture",
+      "title": "Sustainable “Quiet Luxury” Shifts to Circular Ownership",
+      "whatIs": "High‑net‑worth consumers are moving from conspicuous luxury to understated, circular‑economy products—leasing, refurbishing, and reselling premium goods to signal status through stewardship.",
+      "why": "Post‑pandemic affluence couples with climate anxiety, prompting status‑seeking to be expressed via responsible ownership rather than visible logos, reshaping luxury’s value proposition.",
+      "what": "Offer subscription‑based, up‑cycle programs for premium lines.",
+      "source": "https://nielseniq.com/global/en/insights/report/2026/what-is-niq-consumer-life",
+      "image": "https://nielseniq.com/wp-content/uploads/sites/4/2026/10/GettyImages-1438969575-compresso.jpg"
+    },
+    {
+      "date": "2026-11-24",
+      "channel": "culture",
+      "title": "“Skill‑Based Identity Economy” Replaces Job Titles",
+      "whatIs": "Across social platforms and hiring markets, individuals are branding themselves by demonstrable skills and project portfolios rather than corporate titles, fueling a gig‑centric identity model.",
+      "why": "Millennials and Gen Z prioritize mastery and flexibility; the shift erodes traditional employer‑based loyalty and drives brands to align with creator‑centric ecosystems.",
+      "what": "Highlight product utility for skill development and showcase user‑generated project showcases.",
+      "source": "https://nielseniq.com/global/en/insights/report/2026/what-is-niq-consumer-life",
+      "image": "https://nielseniq.com/wp-content/uploads/sites/4/2026/10/GettyImages-1438969575-compresso.jpg"
+    },
+    {
+      "date": "2026-11-24",
+      "channel": "ai",
+      "title": "Gemini Education Premium Unlocks 1.5 Pro for Creators",
+      "whatIs": "Google released Gemini Education and Education Premium add‑ons today, giving Workspace for Education users enterprise‑grade access to the 1.5 Pro model via the admin console.",
+      "why": "Marketers can now generate high‑quality, brand‑safe copy, visuals, and lesson‑style videos at scale inside Docs, Slides, and Gmail without leaving the Google ecosystem.",
+      "what": "Launch a “AI‑crafted” email campaign using Gemini‑generated copy directly in Gmail.",
+      "source": "https://gemini.google/release-notes",
+      "image": "https://lh3.googleusercontent.com/1E500rkSh8Gqkz2l12tkrKkMgsDmbQot0h3afeiRukXNficphb2zEE8o6J3dSKkiDGOOCcQ8WtRYzEYudgiYK9FkoQeYg_SP92-C=e365-pa-nu-w1200-rj"
+    },
+    {
+      "date": "2026-11-24",
+      "channel": "ai",
+      "title": "Open‑Weight Clairic‑Flash Adds Image‑PDF Extraction",
+      "whatIs": "Cloudflare announced today that its open‑weight Clairic‑flash model now extracts structured data from complex PDFs and images, with improved table, list, and date handling.",
+      "why": "Content teams can instantly pull product specs, pricing tables, and visual assets from any PDF, turning static documents into reusable, SEO‑friendly web copy and dynamic ads.",
+      "what": "Build a quick “PDF‑to‑landing‑page” workflow that feeds extracted specs into a template.",
+      "source": "https://blog.cloudflare.com/open-clairic",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7R8FT40SDKKF94QYB97GJJT.01M7R8FTRTG1FSS3A675QSEWY2.png"
+    },
+    {
+      "date": "2026-11-24",
+      "channel": "ai",
+      "title": "Liquid AI Unveils LFM3 Multimodal Foundation Model",
+      "whatIs": "Liquid AI released LFM3 today, a unified multimodal model that handles text, vision, audio, omni‑modal, and decision‑making tasks on a single backbone.",
+      "why": "Creators can now generate synchronized video, narration, and on‑screen graphics from a single prompt, streamlining production of explainer videos, podcasts, and interactive ads.",
+      "what": "Produce a short “AI‑generated” product demo video using LFM3 for script, voice‑over, and visuals in one go.",
+      "source": "https://www.liquid.ai/blog/lfm3",
+      "image": "https://aypchzzf9pftwuto.public.blob.vercel-storage.com/lfm3-release-WJnLSUZf6N0O4yTtuMosOMTJSOmAI4.png"
     }
   ]
 }
