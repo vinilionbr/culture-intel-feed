@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-11-10",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Global Museum Alliances Redefine Cultural Authority",
-        "TITLE: Intra‑Movement Skepticism Fractures Political Tribalism",
-        "TITLE: Private‑Label Premiumization Across Income Segments"
-      ]
-    },
-    {
-      "date": "2026-11-10",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Canon‑Event Meme Surge",
-        "TITLE: “Kinda Chic” Aesthetic Takeover",
-        "TITLE: UK TikTok Song “Midnight Run” Explodes"
-      ]
-    },
-    {
-      "date": "2026-11-10",
-      "channel": "ai",
-      "topics": [
-        "TITLE: Typeform AI‑Generated Landing Pages",
-        "TITLE: Usermaven Agentic Maven AI 2.0",
-        "TITLE: Markan AI Brand‑Content Mobile App"
-      ]
-    },
-    {
       "date": "2026-11-11",
       "channel": "culture",
       "topics": [
@@ -293,6 +266,42 @@
         "TITLE: Gemini Education Premium Unlocks 1.5 Pro for Creators",
         "TITLE: Open‑Weight Clairic‑Flash Adds Image‑PDF Extraction",
         "TITLE: Liquid AI Unveils LFM3 Multimodal Foundation Model"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "channel": "culture",
+      "topics": [
+        "TITLE: Digital Nostalgia Commerce",
+        "TITLE: Community‑Curated Identity Brands",
+        "TITLE: Frugal‑Wellness Consumption"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "channel": "trends",
+      "topics": [
+        "TITLE: GTA 6 Launch Hype Explosion",
+        "TITLE: Fortnite Surge Hits Italy",
+        "TITLE: Roblox Reigns as Weekly Top Hashtag"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "channel": "ai",
+      "topics": [
+        "TITLE: Suno Visuals Turns Songs Into AI‑Generated Videos",
+        "TITLE: ChatGPT Wallet Enables Agentic Shopping Experiences",
+        "TITLE: Gemini Notebook Auto‑Builds Instant Websites"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "channel": "web3",
+      "topics": [
+        "TITLE: Moca Network Teams Up with OKX Ventures",
+        "TITLE: LBank Launches “IN SYNC” Cultural Initiative",
+        "TITLE: Animoca’s “Minds” AI Agents Get Wallet Power in Hong Kong"
       ]
     }
   ]
