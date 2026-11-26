@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-11-11",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Global Museum Alliance Redefines Cultural Authority",
-        "TITLE: Trust‑First Economy Beats AI Hype",
-        "TITLE: Private‑Label Premiumization Across Income Segments"
-      ]
-    },
-    {
-      "date": "2026-11-11",
-      "channel": "trends",
-      "topics": [
-        "TITLE: “Costume Loading” Halloween Reveal",
-        "TITLE: Brain‑Stacking Wellness Challenge",
-        "TITLE: Temper City’s “Self Aware” Viral Hit"
-      ]
-    },
-    {
-      "date": "2026-11-11",
-      "channel": "web3",
-      "topics": [
-        "TITLE: Galxe Pulls the Plug on Quest & ID",
-        "TITLE: Bitbase Rebrands as a “Value Platform”",
-        "TITLE: Phygital NFT Drop Turns Streetwear Into Membership Proof"
-      ]
-    },
-    {
       "date": "2026-11-12",
       "channel": "culture",
       "topics": [
@@ -302,6 +275,42 @@
         "TITLE: Moca Network Teams Up with OKX Ventures",
         "TITLE: LBank Launches “IN SYNC” Cultural Initiative",
         "TITLE: Animoca’s “Minds” AI Agents Get Wallet Power in Hong Kong"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "channel": "social",
+      "topics": [
+        "TITLE: TikTok Profile “Makeover” Rollout",
+        "TITLE: Meta Direct: Stand‑Alone DM App for Teens",
+        "TITLE: YouTube Real‑Time View Counter"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "channel": "culture",
+      "topics": [
+        "TITLE: AI‑Personalized Experience Becomes Baseline Expectation",
+        "TITLE: Veteran‑Led “Creative Rebellion” Redefines Civic Artistry",
+        "TITLE: Explosive Growth of AI‑Only Startups Fuels “Tech‑First” Consumer Mindset"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “BAD TIME” Slowed‑Reverb TikTok Surge",
+        "TITLE: AI Music Generators Blow Up",
+        "TITLE: Black Sesame Latte Craze"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "channel": "ai",
+      "topics": [
+        "TITLE: Google Flow Unveils 5 Visual‑Storytelling Tools",
+        "TITLE: Canva Launches Browser‑Based AI Photo & Video Editors",
+        "TITLE: Logic Pro AI Assistant Beta Rolls Out in Creator Studio"
       ]
     }
   ]
