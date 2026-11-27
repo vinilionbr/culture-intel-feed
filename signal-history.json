@@ -1,33 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-11-12",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Global Museum Alliances Redefine Cultural Authority",
-        "TITLE: Reliability‑First Consumer Trust",
-        "TITLE: Pharma‑Enabled Diet Shift (GLP‑1) Reshapes Food Choices"
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "channel": "ai",
-      "topics": [
-        "TITLE: TikTok’s Symphony Gets Dreamina Seedance Model",
-        "TITLE: Apple Creator Studio Adds AI‑Powered MotionVFX Plug‑ins",
-        "TITLE: Cloudflare Launches Clairic Extraction Model on Workers AI"
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "channel": "web3",
-      "topics": [
-        "TITLE: TrustNOVA Unveils Global NFT Ecosystem",
-        "TITLE: CryptoRabbits Drops IRL Streetwear for NFT Holders",
-        "TITLE: Galxe Shuts Down Quest & Passport Identity Suite"
-      ]
-    },
-    {
       "date": "2026-11-13",
       "channel": "culture",
       "topics": [
@@ -311,6 +284,33 @@
         "TITLE: Google Flow Unveils 5 Visual‑Storytelling Tools",
         "TITLE: Canva Launches Browser‑Based AI Photo & Video Editors",
         "TITLE: Logic Pro AI Assistant Beta Rolls Out in Creator Studio"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "social",
+      "topics": [
+        "TITLE: TikTok Launches “Highlights” Collections",
+        "TITLE: Instagram Testing “Features” Tab for Creators",
+        "TITLE: Facebook’s “Content Roundup” Carousel Surge"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "culture",
+      "topics": [
+        "TITLE: AI‑Empowered Personal Agency",
+        "TITLE: Trust & Transparency as Purchase Currency",
+        "TITLE: Cross‑Cultural Fluency as Status Symbol"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "trends",
+      "topics": [
+        "TITLE: “Dai Dai” TikTok Takeover",
+        "TITLE: GTA VI Launch‑Day Fandom Flood",
+        "TITLE: Slowed “Con la Mia Baddie in Giro” Remix"
       ]
     }
   ]

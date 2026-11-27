@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T04:49:08.524Z",
+  "updated": "2026-11-27T04:54:24.120Z",
   "signals": [
     {
       "date": "2026-08-20",
@@ -7890,6 +7890,96 @@
       "what": "Use the Logic Pro AI assistant to create a brand‑specific jingle for a social media campaign.",
       "source": "https://mubert.com/blog/logic-pro-ai-assistant-creator-studio-update",
       "image": "https://mubert.com/blog/wp-json/mubert/v1/og/5393.jpg?v=a56a7a47d4"
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "social",
+      "title": "TikTok Launches “Highlights” Collections",
+      "whatIs": "TikTok — New “Highlights” feature lets creators group Stories or videos into titled collections on their profile, surfacing evergreen content for visitors.",
+      "why": "Highlights give the algorithm a clear signal of evergreen, high‑performing clips, boosting discoverability and keeping viewers on a profile longer, which drives higher watch‑time metrics.",
+      "what": "Create a 3‑5 item Highlight for your best‑performing niche videos today.",
+      "source": "https://www.tiktok.com/discover/tiktok-launches-highlights-feature",
+      "image": ""
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "social",
+      "title": "Instagram Testing “Features” Tab for Creators",
+      "whatIs": "Instagram — Early‑access “Features” tab lets creators surface a curated set of product‑linked posts, polls, and mini‑reels directly on their profile grid, separate from the main feed.",
+      "why": "By isolating shoppable and interactive assets, Instagram signals higher purchase intent to its commerce algorithm, pushing these posts to the Explore page and Stories recommendations.",
+      "what": "Draft a “Features” bundle of 4‑6 shoppable posts and submit for early access via the creator dashboard.",
+      "source": "https://www.linkedin.com/pulse/social-media-updates-know-november-2026-brandnation-mdaee",
+      "image": ""
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "social",
+      "title": "Facebook’s “Content Roundup” Carousel Surge",
+      "whatIs": "Facebook — Organic posts using carousel‑style “roundup” compilations (e.g., “Top 5 November Trends”) are seeing 2‑3× higher engagement than single‑image posts, driven by the platform’s new “Save & Share” carousel prompt.",
+      "why": "The carousel prompt encourages users to swipe and save, feeding the algorithm’s “save” metric, which now outweighs likes for organic reach on the News Feed.",
+      "what": "Publish a 5‑slide carousel summarizing a timely niche trend and add a clear “Save this for later!” CTA.",
+      "source": "https://www.facebook.com/CCbyKaitlyn/posts/looking-for-some-fresh-content-inspiration-this-november-ive-rounded-up-a-few-of/122197631972887133",
+      "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/885276955_122197499438887133_338690207536093513_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=TRmFEu034Z8Q7kNvwH7naie&_nc_oc=AdppsIILNq2Av4gW8x3C0dX62vbjbGlxh8jbbwIjLraYiJ0Z9w0Vs0uAF79PE7sHQVE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=0KLZ1dzt1xq9PxV9cF4dfQ&_nc_ss=7c389&oh=00_AQWy2DkouYL1Wza-I5F6E-MwxBCH_7ry7Rka8Y8ywUqoXw&oe=6B0EF050"
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "culture",
+      "title": "AI‑Empowered Personal Agency",
+      "whatIs": "Consumers are using generative AI to curate, create, and monetize personal content, demanding tools that amplify individuality while rejecting homogenised digital experiences.",
+      "why": "Gen Z and Gen Alpha view AI as an extension of self‑expression, not a shortcut; agency becomes a status marker, reshaping brand‑consumer power dynamics.",
+      "what": "Offer co‑creation platforms that let users personalize AI outputs.",
+      "source": "https://newsroom.accenture.com/news/2026/accenture-life-trends-2027-finds-people-want-progress-in-an-ai-era-but-on-their-own-terms",
+      "image": "https://newsroom.accenture.com/news/2026/media_180fc98a470a7e513544b4b1477d79fcd5c789038.png?width=1200&#x26;format=pjpg&#x26;optimize=medium"
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "culture",
+      "title": "Trust & Transparency as Purchase Currency",
+      "whatIs": "Across regions, shoppers prioritize brands that demonstrate verifiable trust, data‑privacy safeguards, and transparent supply‑chain practices, making confidence a core decision factor.",
+      "why": "Post‑pandemic skepticism fuels a shift from price‑driven buying to “confidence‑driven” purchasing, especially among Millennials and older Gen Z.",
+      "what": "Publish real‑time audit dashboards of product provenance.",
+      "source": "https://www.afp.com/en/agency/inside-afp/external-press-releases/global-consumer-trends-2027-trust-transparency-and",
+      "image": ""
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "culture",
+      "title": "Cross‑Cultural Fluency as Status Symbol",
+      "whatIs": "Youth consumers measure social capital by their ability to navigate fashion, music, sport, and digital sub‑cultures fluidly, rewarding brands that enable seamless cultural crossover.",
+      "why": "Aspiration is now built on cultural fluency rather than single‑category luxury; authenticity across multiple scenes signals belonging and influence.",
+      "what": "Craft multi‑segment collaborations that bridge disparate cultural niches.",
+      "source": "https://nerdscollective.com/nerds_blog/youth-consumer-trends",
+      "image": "https://nerdscollective.com/wp-content/uploads/2026/10/trusted-retailers-build-brand-credibility-1024x576.webp"
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "trends",
+      "title": "“Dai Dai” TikTok Takeover",
+      "whatIs": "Shakira × Burna Boy’s new collab “Dai Dai” tops TokChart’s 24‑hour chart with 5.6 M creator videos in just 24 hrs, exploding worldwide.",
+      "why": "The track’s cross‑genre hook fuels fast‑cut fashion, dance, and “day‑in‑my‑life” edits; Gen Z creators are racing to be early adopters.",
+      "what": "Post a 15‑sec “first‑listen” reaction or dance sync today.",
+      "source": "https://tokchart.com/genre-charts",
+      "image": ""
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "trends",
+      "title": "GTA VI Launch‑Day Fandom Flood",
+      "whatIs": "The release of *Grand Theft Auto VI* (Nov 19) is dominating TikTok Creative Center hashtags (#GTAVI, #GTA6Launch) and spawning live‑reaction clips, meme‑edits of in‑game city tours, and “first‑mission” speedruns.",
+      "why": "Gaming fans (15‑30 yr) are posting 200K+ videos daily; brands are slipping in product placements, and meme formats are ripe for quick parody.",
+      "what": "Create a 30‑sec “my‑first‑GTAVI reaction” or meme‑template using the game’s iconic opening cutscene.",
+      "source": "https://www.marketingweek.com/week-in-tech-grand-theft-auto-nvidia/",
+      "image": ""
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "trends",
+      "title": "Slowed “Con la Mia Baddie in Giro” Remix",
+      "whatIs": "A slowed‑down version of the viral Spanish track “Con la Mia Baddie in Giro” is trending on TikTok’s Discover page, with creators pairing it to dreamy night‑sky timelapses and pet‑cuddle videos.",
+      "why": "The audio’s haunting vibe is driving a surge in aesthetic reels; hashtags #baddieGiro and #slowedsong have risen >300% in the last 48 hrs, attracting lifestyle and beauty creators.",
+      "what": "Film a 9‑sec slow‑motion outfit transition or pet‑cuddle clip synced to the track today.",
+      "source": "https://www.tiktok.com/discover/trending-sounds?lang=en",
+      "image": ""
     }
   ]
 }
