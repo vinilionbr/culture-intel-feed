@@ -1,24 +1,6 @@
 {
   "signals": [
     {
-      "date": "2026-11-13",
-      "channel": "culture",
-      "topics": [
-        "TITLE: Global Museum Alliances Redefine Cultural Authority",
-        "TITLE: Health‑Centric Functional Food Becomes Core Lifestyle",
-        "TITLE: Quiet Luxury Shifts to Investment‑Grade Accessories"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "channel": "trends",
-      "topics": [
-        "TITLE: Diana Ross “Upside Down” TikTok Surge",
-        "TITLE: #CanonEvent Meme Explosion",
-        "TITLE: Viral “MarryMe” TikTok Recipe Trend"
-      ]
-    },
-    {
       "date": "2026-11-14",
       "channel": "culture",
       "topics": [
@@ -311,6 +293,42 @@
         "TITLE: “Dai Dai” TikTok Takeover",
         "TITLE: GTA VI Launch‑Day Fandom Flood",
         "TITLE: Slowed “Con la Mia Baddie in Giro” Remix"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "channel": "social",
+      "topics": [
+        "TITLE: TikTok “Must Eat” Restaurant Guide",
+        "TITLE: Custom Shorts Thumbnails on Mobile",
+        "TITLE: Meta AI Creator Assistant Trend‑Flagging"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "channel": "culture",
+      "topics": [
+        "TITLE: AI‑Mediated Autonomy Over Synthetic Uniformity",
+        "TITLE: “Control‑First” Subscription Fatigue",
+        "TITLE: Hyper‑Local Credibility as the New Trust Currency"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "channel": "trends",
+      "topics": [
+        "TITLE: Amapiano “Lie Now” Sound Blitz",
+        "TITLE: #GymTok Fit‑Flip Challenge",
+        "TITLE: Boneless Couch Craze Hits Home Décor Feeds"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "channel": "web3",
+      "topics": [
+        "TITLE: OIO Group Teams Up with W Group for Luxury‑Web3 Fusion",
+        "TITLE: NOVA Unveils TrustNOVA NFT‑Web3 Platform",
+        "TITLE: Crypto Rabbits Push NFT Merch Into Everyday Wear"
       ]
     }
   ]
